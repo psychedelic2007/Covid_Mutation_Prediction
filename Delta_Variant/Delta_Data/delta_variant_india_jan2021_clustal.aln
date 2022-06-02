@@ -1,0 +1,2497 @@
+CLUSTAL format alignment by MAFFT (v7.487)
+
+
+hCoV-19/India/T gtttataccttcccaggtaacaaaccaaccaactttcgatctcttgtagatctgttctct
+hCoV-19/India/K -----------------------accaaccaactttcgatctcttgtagatctgttctct
+hCoV-19/India/K -----------------------accaaccaactttcgatctcttgtagatctgttctct
+                                       *************************************
+
+hCoV-19/India/T aaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcag
+hCoV-19/India/K aaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcag
+hCoV-19/India/K aaacgaactttaaaatctgtgtggctgtcactcggctgcatgcttagtgcactcacgcag
+                ************************************************************
+
+hCoV-19/India/T tataattaataactaattactgtcgttgacaggacacgagtaactcgtctatcttctgca
+hCoV-19/India/K tataattaataactaattactgtcgttgacaggacacgagtaactcgtctatcttctgca
+hCoV-19/India/K tataattaataactaattactgtcgttgacaggacacgagtaactcgtctatcttctgca
+                ************************************************************
+
+hCoV-19/India/T ggctgcttacggtttcgtccgttttgcagccgatcatcagcacatctaggttttgtccgg
+hCoV-19/India/K ggctgcttacggtttcgtccgttttgcagccgatcatcagcacatctaggttttgtccgg
+hCoV-19/India/K ggctgcttacggtttcgtccgttttgcagccgatcatcagcacatctaggttttgtccgg
+                ************************************************************
+
+hCoV-19/India/T gtgtgaccgaaaggtaagatggagagccttgtccctggtttcaacgagaaaacacacgtc
+hCoV-19/India/K gtgtgaccgaaaggtaagatggagagccttgtccctggtttcaacgagaaaacacacgtc
+hCoV-19/India/K gtgtgaccgaaaggtaagatggagagccttgtccctggtttcaacgagaaaacacacgtc
+                ************************************************************
+
+hCoV-19/India/T caactcagtttgcctgttttacaggttcgcgacgtgctcgtacgtggctttggagactcc
+hCoV-19/India/K caactcagtttgcctgttttacaggttcgcgacgtgctcgtacgtggctttggagactcc
+hCoV-19/India/K caactcagtttgcctgttttacaggttcgcgacgtgctcgtacgtggctttggagactcc
+                ************************************************************
+
+hCoV-19/India/T gtggaggaggtcttatcagaggcacgtcaacatcttaaagatggcacttgtggcttagta
+hCoV-19/India/K gtggaggaggtcttatcagaggcacgtcaacatcttaaagatggcacttgtggcttagta
+hCoV-19/India/K gtggaggaggtcttatcagaggcacgtcaacatcttaaagatggcacttgtggcttagta
+                ************************************************************
+
+hCoV-19/India/T gaagttgaaaaaggcgttttgcctcaacttgaacagccctatgtgttcatcaaacgttcg
+hCoV-19/India/K gaagttgaaaaaggcgttttgcctcaacttgaacagccctatgtgttcatcaaacgttcg
+hCoV-19/India/K gaagttgaaaaaggcgttttgcctcaacttgaacagccctatgtgttcatcaaacgttcg
+                ************************************************************
+
+hCoV-19/India/T gatgctcgaactgcacctcatggtcatgttatggttgagctggtagcagaactcgaaggc
+hCoV-19/India/K gatgctcgaactgcacctcatggtcatgttatggttgagctggtagcagaactcgaaggc
+hCoV-19/India/K gatgctcgaactgcacctcatggtcatgttatggttgagctggtagcagaactcgaaggc
+                ************************************************************
+
+hCoV-19/India/T attcagtacggtcgtagtggtgagacacttggtgtccttgtccctcatgtgggcgaaata
+hCoV-19/India/K attcagtacggtcgtagtggtgagacacttggtgtccttgtccctcatgtgggcgaaata
+hCoV-19/India/K attcagtacggtcgtagtggtgagacacttggtgtccttgtccctcatgtgggcgaaata
+                ************************************************************
+
+hCoV-19/India/T ccagtggcttaccgcaaggttcttcttcgtaagaacggtaataaaggagctggtggccat
+hCoV-19/India/K ccagtggcttaccgcaaggttcttcttcgtaagaacggtaataaaggagctggtggccat
+hCoV-19/India/K ccagtggcttaccgcaaggttcttcttcgtaagaacggtaataaaggagctggtggccat
+                ************************************************************
+
+hCoV-19/India/T agttacggcgccgatctaaagtcatttgacttaggcgacgagcttggcactgatccttat
+hCoV-19/India/K agttacggcgccgatctaaagtcatttgacttaggcgacgagcttggcactgatccttat
+hCoV-19/India/K agttacggcgccgatctaaagtcatttgacttaggcgacgagcttggcactgatccttat
+                ************************************************************
+
+hCoV-19/India/T gaagattttcaagaaaactggaacactaaacatagcagtggtgttacccgtgaactcatg
+hCoV-19/India/K gaagattttcaagaaaactggaacactaaacatagcagtggtgttacccgtgaactcatg
+hCoV-19/India/K gaagattttcaagaaaactggaacactaaacatagcagtggtgttacccgtgaactcatg
+                ************************************************************
+
+hCoV-19/India/T cgtgagcttaacggaggggcatacactcgctatgtcgataacaacttctgtggccctgat
+hCoV-19/India/K cgtgagcttaacggaggggcatacactcgctatgtcgataacaacttctgtggccctgat
+hCoV-19/India/K cgtgagcttaacggaggggcatacactcgctatgtcgataacaacttctgtggccctgat
+                ************************************************************
+
+hCoV-19/India/T ggctaccctcttgagtgcattaaagaccttctagcacgtgctggtaaagcttcatgcact
+hCoV-19/India/K ggctaccctcttgagtgcattaaagaccttctagcacgtgctggtaaagcttcatgcact
+hCoV-19/India/K ggctaccctcttgagtgcattaaagaccttctagcacgtgctggtaaagcttcatgcact
+                ************************************************************
+
+hCoV-19/India/T ttgtccgaacaactggactttattgacactaagaggggtgtatactgctgccgtgaacat
+hCoV-19/India/K ttgtccgaacaactggactttattgacactaagaggggtgtatactgctgccgtgaacat
+hCoV-19/India/K ttgtccgaacaactggactttattgacactaagaggggtgtatactgctgccgtgaacat
+                ************************************************************
+
+hCoV-19/India/T gagcatgaaattgcttggtacacggaacgttctgaaaagagctatgaattgcagacacct
+hCoV-19/India/K gagcatgaaattgcttggtacacggaacgttctgaaaagagctatgaattgcagacacct
+hCoV-19/India/K gagcatgaaattgcttggtacacggaacgttctgaaaagagctatgaattgcagacacct
+                ************************************************************
+
+hCoV-19/India/T tttgaaattaaattgtcaaagaaatttgacaccttcaatggggaatgtccaaattttgta
+hCoV-19/India/K tttgaaattaaattggcaaagaaatttgacaccttcaatggggaatgtccaaattttgta
+hCoV-19/India/K tttgaaattaaattggcaaagaaatttgacaccttcaatggggaatgtccaaattttgta
+                *************** ********************************************
+
+hCoV-19/India/T tttcccttaaattccataatcaagactattcaaccaagggttgaaaagaaaaagcttgat
+hCoV-19/India/K tttcccttaaattccataatcaagactattcaaccaagggttgaaaagaaaaagcttgat
+hCoV-19/India/K tttcccttaaattccataatcaagactattcaaccaagggttgaaaagaaaaagcttgat
+                ************************************************************
+
+hCoV-19/India/T ggctttatgggtagaattcgatctgtctatccagttgcgtcaccaaatgaatgcaaccaa
+hCoV-19/India/K ggctttatgggtagaattcgatctgtctatccagttgcgtcactaaatgaatgcaaccaa
+hCoV-19/India/K ggctttatgggtagaattcgatctgtctatccagttgcgtcactaaatgaatgcaaccaa
+                *******************************************.****************
+
+hCoV-19/India/T atgtgcctttcaactctcatgaagtgtgatcattgtggtgaaacttcatggcagacgggc
+hCoV-19/India/K atgtgcctttcaactctcatgaagtgtgatcattgtggtgaaacttcatggcagacgggt
+hCoV-19/India/K atgtgcctttcaactctcatgaagtgtgatcattgtggtgaaacttcatggcagacgggt
+                ***********************************************************.
+
+hCoV-19/India/T gattttgttaaagccacttgcgaattttgtggcactgagaatttgactaaagaaggtgcc
+hCoV-19/India/K gattttgttaaagccacttgcgaattttgtggcactgagaatttgactaaagaaggtgcc
+hCoV-19/India/K gattttgttaaagccacttgcgaattttgtggcactgagaatttgactaaagaaggtgcc
+                ************************************************************
+
+hCoV-19/India/T actacttgtggttacttaccccaaaatgctgttgttaaaatttattgtccagcatgtcac
+hCoV-19/India/K actacttgtggttacttaccccaaaatgctgttgttaaaatttattgtccagcatgtcac
+hCoV-19/India/K actacttgtggttacttaccccaaaatgctgttgttaaaatttattgtccagcatgtcac
+                ************************************************************
+
+hCoV-19/India/T aattcagaagtaggacctgagcatagtcttgccgaataccataatgaatctggcttgaaa
+hCoV-19/India/K aattcagaagtaggacctgagcatagtcttgcngaataccataatgaatctggcttgaaa
+hCoV-19/India/K aattcagaagtaggacctgagcatagtcttgccgaataccataatgaatctggcttgaaa
+                ******************************** ***************************
+
+hCoV-19/India/T accattcttcgtaagggtggtcgcactattgcctttggaggctgtgtgttctcttatgtt
+hCoV-19/India/K accattcttcgtaagggtggtcgcactattgcctttggaggctgtgtgttctcttatgtt
+hCoV-19/India/K accattcttcgtaagggtggtcgcactattgcctttggaggctgtgtgttctcttatgtt
+                ************************************************************
+
+hCoV-19/India/T ggttgccataacaagtgtgcctattgggttccacgtgctagcgctaacataggttgtaac
+hCoV-19/India/K ggttgccataacaagtgtgcctattgggttccacgtgctagcgctaacataggttgtaac
+hCoV-19/India/K ggttgccataacaagtgtgcctattgggttccacgtgctagcgctaacataggttgtaac
+                ************************************************************
+
+hCoV-19/India/T catacaggtgttgttggagaaggttccgaaggtcttaatgacaaccttcttgaaatactc
+hCoV-19/India/K catacaggtgttgttggagaaggttccgaaggtcttaatgacaaccttcttgaaatactc
+hCoV-19/India/K catacaggtgttgttggagaaggttccgaaggtcttaatgacaaccttcttgaaatactc
+                ************************************************************
+
+hCoV-19/India/T caaaaagagaaagtcaacatcaatattgttggtgactttaaacttaatgaagagatcgcc
+hCoV-19/India/K caaaaagagaaagtcaacatcaatattgttggtgactttaaacttaatgaagagatcgcc
+hCoV-19/India/K caaaaagagaaagtcaacatcaatattgttggtgactttaaacttaatgaagagatcgcc
+                ************************************************************
+
+hCoV-19/India/T attattttggcatctttttctgcttccacaagtgcttttgtggaaactgtgaaaggtttg
+hCoV-19/India/K attattttggcatctttttctgcttccacaagtgcttttgtggaaactgtgaaaggtttg
+hCoV-19/India/K attattttggcatctttttctgcttccacaagtgcttttgtggaaactgtgaaaggtttg
+                ************************************************************
+
+hCoV-19/India/T gattataaagcattcaaacaaattgttgaatcctgtggtaattttaaagttacaaaagga
+hCoV-19/India/K gattataaagtattcaaacaaattgttgaatcctgtggtaattttaaagttacaaaagga
+hCoV-19/India/K gattataaagcattcaaacaaattgttgaatcctgtggtaattttaaagttacaaaagga
+                **********.*************************************************
+
+hCoV-19/India/T aaagctaaaaaaggtgcctggaatattggtgaacagaaatcaatactgagtcctctttat
+hCoV-19/India/K aaagctaaaaaaggtgcctggaatattggtgaacagaaatcaatactgagtcctctttat
+hCoV-19/India/K aaagctaaaaaaggtgcctggaatattggtgaacagaaatcaatactgagtcctctttat
+                ************************************************************
+
+hCoV-19/India/T gcatttgcatcagaggctgctcgtgttgtacgatcaattttctcccgcactcttgaaact
+hCoV-19/India/K gcatttgcatcagaggctgctcgtgttgtacgatcaattttctcccgcactcttgaaact
+hCoV-19/India/K gcatttgcatcagaggctgctcgtgttgtacgatcaattttctcccgcactcttgaaact
+                ************************************************************
+
+hCoV-19/India/T gctcaaaattctgtgcgtgttttacagaaggccgctataacaatactagatggaatttca
+hCoV-19/India/K gctcaaaattctgtgcgtgttttacagaaggccgctataacaatactagatggaatttca
+hCoV-19/India/K gctcaaaattctgtgcgtgttttacagaaggccgctataacaatactagatggaatttca
+                ************************************************************
+
+hCoV-19/India/T cagtattcactgagactcattgatgctatgatgttcacatctgatttggctactaacaat
+hCoV-19/India/K cagtattcactgagactcattgatgctatgatgttcacatctgatttggctactaacaat
+hCoV-19/India/K cagtattcactgagactcattgatgctatgatgttcacatctgatttggctactaacaat
+                ************************************************************
+
+hCoV-19/India/T ctagttgtaatggcctacattacaggtggtgttgttcagttgacttcgcagtggctaact
+hCoV-19/India/K ctagttgtaatggcctacattacaggtggtgttgttcagttgacttcgcagtggctaact
+hCoV-19/India/K ctagttgtaatggcctacattacaggtggtgttgttcagttgacttcgcagtggctaact
+                ************************************************************
+
+hCoV-19/India/T aacatctttggcactgtttatgaaaaactcaaacccgtccttgattggcttgaagagaag
+hCoV-19/India/K aacatctttggcactgtttatgaaaaactcaaacccgtccttgattggcttgaagagaag
+hCoV-19/India/K aacatctttggcactgtttatgaaaaactcaaacccgtccttgattggcttgaagagaag
+                ************************************************************
+
+hCoV-19/India/T tttaaggaaggtgtagagtttcttagagacggttgggaaattgttaaatttatctcaacc
+hCoV-19/India/K tttaaggaaggtgtagagtttcttagagacggttgggaaattgttaaatttatctcaacc
+hCoV-19/India/K tttaaggaaggtgtagagtttcttagagacggttgggaaattgttaaatttatctcaacc
+                ************************************************************
+
+hCoV-19/India/T tgtgcttgtgaaattgtcggtggacaaattgtcacctgtgcaaaggaaattaaggagagt
+hCoV-19/India/K tgtgcttgtgaaattgtcggtggacaaattgtcacctgtgcaaaggaaattaaggagagt
+hCoV-19/India/K tgtgcttgtgaaattgtcggtggacaaattgtcacctgtgcaaaggaaattaaggagagt
+                ************************************************************
+
+hCoV-19/India/T gttcagacattctttaagcttgtaaataaatttttggctttgtgtgctgactctatcatt
+hCoV-19/India/K gttcagacattctttaagcttgtaaataaatttttggctttgtgtgttgactctatcatt
+hCoV-19/India/K gttcagacattctttaagcttgtaaataaatttttggctttgtgtgctgactctatcatt
+                **********************************************.*************
+
+hCoV-19/India/T attggtggagctaaacttaaagccttgaatttaggtgaaacatttgtcacgcactcaaag
+hCoV-19/India/K attggtggagctaaacttaaagccttgaatttaggtgaaacatttgtcacgcactcaaag
+hCoV-19/India/K attggtggagctaaacttaaagccttgaatttaggtgaaacatttgtcacgcactcaaag
+                ************************************************************
+
+hCoV-19/India/T ggattgtacagaaagtgtgttaaatccagagaagaaactggcctactcatgcctctaaaa
+hCoV-19/India/K ggattgtacagaaagtgtgttaaatccagagaagaaactggcctactcatgcctctaaaa
+hCoV-19/India/K ggattgtacagaaagtgtgttaaatccagagaagaaactggcctactcatgcctctaaaa
+                ************************************************************
+
+hCoV-19/India/T gccccaaaagaaattatcttcttagagggagaaacacttcccacagaagtgttaacagag
+hCoV-19/India/K gccccaaaagaaattatcttcttagagggagaaacacttcccacagaagtgttaacagag
+hCoV-19/India/K gccccaaaagaaattatcttcttagagggagaaacacttcccacagaagtgttaacagag
+                ************************************************************
+
+hCoV-19/India/T gaagttgtcttgaaaactggtgatttacaaccattagaacaacctactagtgaagctgtt
+hCoV-19/India/K gaagttgtcttgaaaactggtgatttacaaccattagaacaacctactagtgaagctgtt
+hCoV-19/India/K gaagttgtcttgaaaactggtgatttacaaccattagaacaacctactagtgaagctgtt
+                ************************************************************
+
+hCoV-19/India/T gaagctccattggttggtacaccagtttgtattaacgggcttatgttgctcgaaatcaaa
+hCoV-19/India/K gaagctccattggttggtacaccagtttgtattaacgggcttatgttgctcgaaatcaaa
+hCoV-19/India/K gaagctccattggttggtacaccagtttgtattaacgggcttatgttgctcgaaatcaaa
+                ************************************************************
+
+hCoV-19/India/T gacacagaaaagtactgtgcccttgcacctaatatgatggtaacaaacaataccttcaca
+hCoV-19/India/K gacacagaaaagtactgtgcccttgcacctaatatgatggtaacaaacaataccttcaca
+hCoV-19/India/K gacacagaaaagtactgtgcccttgcacctaatatgatggtaacaaacaataccttcaca
+                ************************************************************
+
+hCoV-19/India/T ctcaaaggcggtgcaccaacaaaggttacttttggtgatgacactgtgatagaagtgcaa
+hCoV-19/India/K ctcaaaggcggtgcaccaacaaaggttacttttggtgatgacactgtgatagaagtgcaa
+hCoV-19/India/K ctcaaaggcggtgcaccaacaaaggttacttttggtgatgacactgtgatagaagtgcaa
+                ************************************************************
+
+hCoV-19/India/T ggttacaagagtgtgaatatcacttttgaacttgatgaaaggattgataaagtacttaat
+hCoV-19/India/K ggttacaagagtgtgaatatcacttttgaacttgatgaaaggattgataaagtacttaat
+hCoV-19/India/K ggttacaagagtgtgaatatcacttttgaacttgatgaaaggattgataaagtacttaat
+                ************************************************************
+
+hCoV-19/India/T gagaagtgctctgcctatacagttgaactcggtacagaagtaaatgagttcgcctgtgtt
+hCoV-19/India/K gagaagtgctctgcctatacagttgaactcggtacagaagtaaatgagttcgcctgtgtt
+hCoV-19/India/K gagaagtgctctgcctatacagttgaactcggtacagaagtaaatgagttcgcctgtgtt
+                ************************************************************
+
+hCoV-19/India/T gtggcagatgctgtcataaaaactttgcaaccagtatctgaattacttacaccactgggc
+hCoV-19/India/K gtggcagatgctgtcataaaaactttgcaaccagtatctgaattacttacaccactgggc
+hCoV-19/India/K gtggcagatgctgtcataaaaactttgcaaccagtatctgaattacttacaccactgggc
+                ************************************************************
+
+hCoV-19/India/T attgatttagatgagtggagtatggctacatactacttatttgatgagtctggtgagttt
+hCoV-19/India/K attgatttagatgagtggagtatggctacatactacttatttgatgagtctggtgagttt
+hCoV-19/India/K attgatttagatgagtggagtatggctacatactacttatttgatgagtctggtgagttt
+                ************************************************************
+
+hCoV-19/India/T aaattggcttcacatatgtattgttctttttaccctccagatgaggatgaagaagaaggt
+hCoV-19/India/K aaattggcttcacatatgtattgttctttttaccctccagatgaggatgaagaagaaggt
+hCoV-19/India/K aaattggcttcacatatgtattgttctttttaccctccagatgaggatgaagaagaaggt
+                ************************************************************
+
+hCoV-19/India/T gattgtgaagaagaagagtttgagccatcaactcaatatgagtatggtactgaagatgat
+hCoV-19/India/K gattgtgaagaagaagagtttgagccatcaactcaatatgagtatggtactgaagatgat
+hCoV-19/India/K gattgtgaagaagaagagtttgagccatcaactcaatatgagtatggtactgaagatgat
+                ************************************************************
+
+hCoV-19/India/T taccaaggtaaacctttggaatttggtgccacttctgctgctcttcaacctgaagaagag
+hCoV-19/India/K taccaaggtaaacctttggaatttggtgccacttctgctgctcttcaacctgaagaagag
+hCoV-19/India/K taccaaggtaaacctttggaatttggtgccacttctgctgctcttcaacctgaagaagag
+                ************************************************************
+
+hCoV-19/India/T caagaagaagattggttagatgatgatagtcaacaaactgttggtcaacaagacggcagt
+hCoV-19/India/K caagaagaagattggttagatgatgatagtcaacaaactgttggtcaacaagacggcagt
+hCoV-19/India/K caagaagaagattggttagatgatgatagtcaacaaactgttggtcaacaagacggcagt
+                ************************************************************
+
+hCoV-19/India/T gaggacaatcagacaactactattcaaacaattgttgaggttcaacctcaattagagatg
+hCoV-19/India/K gaggacaatcagacaactactattcaaacaattgttgaggttcaacctcaattagagatg
+hCoV-19/India/K gaggacaatcagacaactactattcaaacaattgttgaggttcaacctcaattagagatg
+                ************************************************************
+
+hCoV-19/India/T gaacttacaccagttgttcagactattgaagtgaatagttttagtggttatttaaaactt
+hCoV-19/India/K gaacttacaccagttgttcagactattgaagtgaatagttttagtggttatttaaaactt
+hCoV-19/India/K gaacttacaccagttgttcagactattgaagtgaatagttttagtggttatttaaaactt
+                ************************************************************
+
+hCoV-19/India/T actgacaatgtatacattaaaaatgcagacattgtggaagaagctaaaaaggtaaaacca
+hCoV-19/India/K actgacaatgtatacattaaaaatgcagacattgtggaagaagctaaaaaggtaaaacca
+hCoV-19/India/K actgacaatgtatacattaaaaatgcagacattgttgaagaagctaaaaaggtaaaacca
+                *********************************** ************************
+
+hCoV-19/India/T acagtggttgttaatgcagccaatgtttaccttaaacatggaggaggtgttgcaggagcc
+hCoV-19/India/K acagtggttgttaatgcagccaatgtttaccttaaacatggaggaggtgttgcaggagcc
+hCoV-19/India/K acagtggttgttaatgcagccaatgtttaccttaaacatggaggaggtgttgcaggagcc
+                ************************************************************
+
+hCoV-19/India/T ttaaataaggctactaacaatgccatgcaagttgaatctgatgattacatagctactaat
+hCoV-19/India/K ttaaataaggctactaacaatgccatgcaagttgaatctgatgattacatagctactaat
+hCoV-19/India/K ttaaataaggctactaacaatgccatgcaagttgaatctgatgattacatagctactaat
+                ************************************************************
+
+hCoV-19/India/T ggaccacttaaagtgggtggtagttgtgttttaagcggacacaatcttgctaaacactgt
+hCoV-19/India/K ggaccacttaaagtgggtggtagttgtgttttaagcggacacaatcttgctaaacactgt
+hCoV-19/India/K ggaccacttaaagtgggtggtagttgtgttttaagcggacacaatcttgctaaacactgt
+                ************************************************************
+
+hCoV-19/India/T cttcatgttgtcggcccaaatgttaacaaaggtgaagacattcaacttcttaagagtgct
+hCoV-19/India/K cttcatgttgtcggcccaaatgttaacaaaggtgaagacattcaacttcttaagagtgct
+hCoV-19/India/K cttcatgttgtcggcccaaatgttaacaaaggtgaagacattcaacttcttaagagtgct
+                ************************************************************
+
+hCoV-19/India/T tatgaaaattttaatcagcacgaagttctacttgcaccattattatcagctggtattttt
+hCoV-19/India/K tatgaaaattttaatcagcacgaagttctacttgcaccattattatcagctggtattttt
+hCoV-19/India/K tatgaaaattttaatcagcacgaagttctacttgcaccattattatcagctggtattttt
+                ************************************************************
+
+hCoV-19/India/T ggtgctgaccctatacattctttaagagtttgtgtagatactgttcgcacaaatgtctac
+hCoV-19/India/K ggtgctgaccctatacattctttaagagtttgtgtagatactgttcgcacaaatgtctac
+hCoV-19/India/K ggtgctgaccctatacattctttaagagtttgtgtagatactgttcgcacaaatgtctac
+                ************************************************************
+
+hCoV-19/India/T ttagctgtctttgataaaaatctctatgacaaacttgtttcaagctttttggaaatgaag
+hCoV-19/India/K ttagctgtctttgataaaaatctctatgacaaacttgtttcaagctttttggaaatgaag
+hCoV-19/India/K ttagctgtctttgataaaaatctctatgacaaacttgtttcaagctttttggaaatgaag
+                ************************************************************
+
+hCoV-19/India/T agtgaaaagcaagttgaacaaaagatcgctgagattcctaaagaggaagttaagccattt
+hCoV-19/India/K agtgaaaagcaagttgaacaaaagatcgctgagattcctaaagaggaagttaagccattt
+hCoV-19/India/K agtgaaaagcaagttgaacaaaagatcgctgagattcctaaagaggaagttaagccattt
+                ************************************************************
+
+hCoV-19/India/T ataactgaaagtaaaccttcagttgaacagagaaaacaagatgataagaaaatcaaagct
+hCoV-19/India/K ataactgaaagtaaaccttcagttgaacagagaaaacaagatgataagaaaatcaaagct
+hCoV-19/India/K ataactgaaagtaaaccttcagttgaacagagaaaacaagatgataagaaaatcaaagct
+                ************************************************************
+
+hCoV-19/India/T tgtgttgaagaagttacaacaactctggaagaaactaagttcctcacagaaaacttgtta
+hCoV-19/India/K tgtgttgaagaagttacaacaactctggaagaaactaagttcctcacagaaaacttgtta
+hCoV-19/India/K tgtgttgaagaagttacaacaactctggaagaaactaagttcctcacagaaaacttgtta
+                ************************************************************
+
+hCoV-19/India/T ctttatattgacattaatggcaatcttcatccagattctgccactcttgttagtgacatt
+hCoV-19/India/K ctttatattgacattaatggcaatcttcatccagattctgccactcttgttagtgacatt
+hCoV-19/India/K ctttatattgacattaatggcaatcttcatccagattctgccactcttgttagtgacatt
+                ************************************************************
+
+hCoV-19/India/T gacatcactttcttaaagaaagatgctccatatatagtgggtgatgttgttcaagagggt
+hCoV-19/India/K gacatcactttcttaaagaaagatgctccatatatagtgggtgatgttgttcaagagggt
+hCoV-19/India/K gacatcactttcttaaagaaagatgctccatatatagtgggtgatgttgttcaagagggt
+                ************************************************************
+
+hCoV-19/India/T gttttaactgctgtggttatacctactaaaaagtctggtggcactactgaaatgctagcg
+hCoV-19/India/K gttttaactgctgtggttatacctactaaaaaggctggtggcactactgaaatgctagcg
+hCoV-19/India/K gttttaactgctgtggttatacctactaaaaaggctggtggcactactgaaatgctagcg
+                ********************************* **************************
+
+hCoV-19/India/T aaagctttgagaaaagtgccaacagacaattatataaccacttacccgggtcagggttta
+hCoV-19/India/K aaagctttgagaaaagtgccaacagacaattatataaccacttacccgggtcagggttta
+hCoV-19/India/K aaagctttgagaaaagtgccaacagacaattatataaccacttacccgggtcagggttta
+                ************************************************************
+
+hCoV-19/India/T aatggttacactgtagaggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttac
+hCoV-19/India/K aatggttacactgtagaggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttac
+hCoV-19/India/K aatggttacactgtagaggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttac
+                ************************************************************
+
+hCoV-19/India/T attctaccatctattatctctaatgagaagcaagaaattcttggaactgtttcttggaat
+hCoV-19/India/K attctaccatctattatctctaatgagaagcaagaaattcttggaactgtttcttggaat
+hCoV-19/India/K attctaccatctattatctctaatgagaagcaagaaattcttggaactgtttcttggaat
+                ************************************************************
+
+hCoV-19/India/T ttgcgagaaatgcttgcacatgcagaagaaacacgcaaattaatgcctgtctgtgtggaa
+hCoV-19/India/K ttgcgagaaatgcttgcacatgcagaagaaacacgcaaattaatgcctgtctgtgtggaa
+hCoV-19/India/K ttgcgagaaatgcttgcacatgcagaagaaacacgcaaattaatgcctgtctgtgtggaa
+                ************************************************************
+
+hCoV-19/India/T actaaagccatagtttcaactatacagcgtaaatataagggtattaaaatacaagagggt
+hCoV-19/India/K actaaagccatagtttcaactatacagcgtaaatataagggtattaaaatacaagagggt
+hCoV-19/India/K actaaagccatagtttcaactatacagcgtaaatataagggtattaaaatacaagagggt
+                ************************************************************
+
+hCoV-19/India/T gtggttgattatggtgctagattttacttttacaccagtaaaacaactgtagcgtcactt
+hCoV-19/India/K gtggttgattatggtgctagattttacttttacaccagtaaaacaactgtagcgtcactt
+hCoV-19/India/K gtggttgattatggtgctagattttacttttacaccagtaaaacaactgtagcgtcactt
+                ************************************************************
+
+hCoV-19/India/T atcaacacacttaacgatctaaatgaaactcttgttacaatgccacttggctatgtaaca
+hCoV-19/India/K atcaacacacttaacgatctaaatgaaactcttgttacaatgccacttggctatgtaaca
+hCoV-19/India/K atcaacacacttaacgatctaaatgaaactcttgttacaatgccacttggctatgtaaca
+                ************************************************************
+
+hCoV-19/India/T catggcttaaatttggaagaagctgctcggtatatgagatctctcaaagtgccagctaca
+hCoV-19/India/K catggcttaaatttggaagaagctgctcggtatatgagatctctcaaagtgccagctaca
+hCoV-19/India/K catggcttaaatttggaagaagctgctcggtatatgagatctctcaaagtgccagctaca
+                ************************************************************
+
+hCoV-19/India/T gtttctgtttcttcacctgatgctgttacagcgtataatggttatcttacttcttcttct
+hCoV-19/India/K gtttctgtttcttcacctgatgctgttacagcgtataatggttatcttacttcttcttct
+hCoV-19/India/K gtttctgtttcttcacctgatgctgttacagcgtataatggttatcttacttcttcttct
+                ************************************************************
+
+hCoV-19/India/T aaaacacctgaagaacattttattgaaaccatctcacttgctggttcctataaagattgg
+hCoV-19/India/K aaaacacctgaagaacattttattgaaaccatctcacttgctggttcctataaagattgg
+hCoV-19/India/K aaaacacctgaagaacattttattgaaaccatctcacttgctggttcctataaagattgg
+                ************************************************************
+
+hCoV-19/India/T tcctattctggacaatctacacaactaggtatagaatttcttaagagaggtgataaaagt
+hCoV-19/India/K tcctattctggacaatctacacaactaggtatagaatttcttaagagaggtgataaaagt
+hCoV-19/India/K tcctattctggacaatctacacaactaggtatagaatttcttaagagaggtgataaaagt
+                ************************************************************
+
+hCoV-19/India/T gtatattacactagtaatcctaccacattccacctagatggtgaagttatcacctttgac
+hCoV-19/India/K gtatattacactagtaatcctaccacattccacctagatggtgaagttatcacctttgac
+hCoV-19/India/K gtatattacactagtaatcctaccacattccacctagatggtgaagttatcacctttgac
+                ************************************************************
+
+hCoV-19/India/T aatcttaagacacttctttctttgagagaagtgaggactattaaggtgtttacaacagta
+hCoV-19/India/K aatcttaagacacttctttctttgagagaagtgaggactattaaggtgtttacaacagta
+hCoV-19/India/K aatcttaagacacttctttctttgagagaagtgaggactattaaggtgtttacaacagta
+                ************************************************************
+
+hCoV-19/India/T gacaacattaacctccacacgcaagttgtggacatgtcaatgacatatggacaacagttt
+hCoV-19/India/K gacaacattaacctccacacgcaagttgtggacatgtcaatgacatatggacaacagttt
+hCoV-19/India/K gacaacattaacctccacacgcaagttgtggacatgtcaatgacatatggacaacagttt
+                ************************************************************
+
+hCoV-19/India/T ggtccaacttatttggatggagctgatgttactaaaataaaacctcataattcacatgaa
+hCoV-19/India/K ggtccaacttatttggatggagctgatgttactaaaataaaacctcataattcacatgaa
+hCoV-19/India/K ggtccaacttatttggatggagctgatgttactaaaataaaacctcataattcacatgaa
+                ************************************************************
+
+hCoV-19/India/T ggtaaaacattttatgttttacctaatgatgacactctacgtgttgaggcttttgagtac
+hCoV-19/India/K ggtaaaacattttatgttttacctaatgatgacactctacgtgttgaggcttttgagtac
+hCoV-19/India/K ggtaaaacattttatgttttacctaatgatgacactctacgtgttgaggcttttgagtac
+                ************************************************************
+
+hCoV-19/India/T taccacacaactgatcctagttttctgggtaggtacatgtcagcattaaatcacactaaa
+hCoV-19/India/K taccacacaactgatcttagttttctgggtaggtacatgtcagcattaaatcacactaaa
+hCoV-19/India/K taccacacaactgatcttagttttctgggtaggtacatgtcagcattaaatcacactaaa
+                ****************.*******************************************
+
+hCoV-19/India/T aagtggaaatacccacaagttaatggtttaacttctattaaatgggcagataacaactgt
+hCoV-19/India/K aagtggaaatacccacaagttaatggtttaacttctattaaatgggcagataacaactgt
+hCoV-19/India/K aagtggaaatacccacaagttaatggtttaacttctattaaatgggcagataacaactgt
+                ************************************************************
+
+hCoV-19/India/T tatcttgccactgcattgttaacactccaacaaatagagttgaagtttaatccacctgct
+hCoV-19/India/K tatcttgccactgcattgttaacactccaacaaatagagttgaagtttaatccacctgct
+hCoV-19/India/K tatcttgccactgcattgttaacactccaacaaatagagttgaagtttaatccacctgct
+                ************************************************************
+
+hCoV-19/India/T ctacaagatgcttattacagagcaagggctggtgaagctgctaacttttgtgcacttatc
+hCoV-19/India/K ctacaagatgcttattacagagcaagggctggtgaagctgctaacttttgtgcacttatc
+hCoV-19/India/K ctacaagatgcttattacagagcaagggctggtgaagctgctaacttttgtgcacttatc
+                ************************************************************
+
+hCoV-19/India/T ttagcctactgtaataagacagtaggtgagttaggtgatgttagagaaacaatgagttac
+hCoV-19/India/K ttagcctactgtaataagacagtaggtgagttaggtgatgttagagaaacaatgagttac
+hCoV-19/India/K ttagcctactgtaataagacagtaggtgagttaggtgatgttagagaaacaatgagttac
+                ************************************************************
+
+hCoV-19/India/T ttgtttcaacatgccaatttagattcttgcaaaagagtcttgaacgtggtgtgtaaaact
+hCoV-19/India/K ttgtttcaacatgccaatttagattcttgcaaaagagtcttgaacgtggtgtgtaaaact
+hCoV-19/India/K ttgtttcaacatgccaatttagattcttgcaaaagagtcttgaacgtggtgtgtaaaact
+                ************************************************************
+
+hCoV-19/India/T tgtggacaacagcagacaacccttaagggtgtagaagctgttatgtacatgggcacactt
+hCoV-19/India/K tgtggacaacagcagacaacccttaagggtgtagaagctgttatgtacatgggcacactt
+hCoV-19/India/K tgtggacaacagcagacaacccttaagggtgtagaagctgttatgtacatgggcacactt
+                ************************************************************
+
+hCoV-19/India/T tcttatgaacaatttaagaaaggtgttcagataccttgtacgtgtggtaaacaagctaca
+hCoV-19/India/K tcttatgaacaatttaagaaaggtgttcagataccttgtacgtgtggtaaacaagctaca
+hCoV-19/India/K tcttatgaacaatttaagaaaggtgttcagataccttgtacgtgtggtaaacaagctaca
+                ************************************************************
+
+hCoV-19/India/T aaatatctagtacaacaggagtcaccttttgttatgatgtcagcaccacctgctcagtat
+hCoV-19/India/K aaatatctagtacaacaggagtcaccttttgttatgatgtcagcaccacctgctcagtat
+hCoV-19/India/K aaatatctagtacaacaggagtcaccttttgttatgatgtcagcaccacctgctcagtat
+                ************************************************************
+
+hCoV-19/India/T gaacttaagcatggtacatttacttgtgctagtgagtacactggtaattaccagtgtggt
+hCoV-19/India/K gaacttaagcatggtacatttacttgtgctagtgagtacactggtaattaccagtgtggt
+hCoV-19/India/K gaacttaagcatggtacatttacttgtgctagtgagtacactggtaattaccagtgtggt
+                ************************************************************
+
+hCoV-19/India/T cactataaacatataacttctaaagaaactttgtattgcatagacggtgctttacttaca
+hCoV-19/India/K cactataaacatataacttctaaagaaactttgtattgcatagacggtgctttacttaca
+hCoV-19/India/K cactataaacatataacttctaaagaaactttgtattgcatagacggtgctttacttaca
+                ************************************************************
+
+hCoV-19/India/T aagtcctcagaatacaaaggtcctattacggatgttttctacaaagaaaacagttacaca
+hCoV-19/India/K aagtcctcagaatacaaaggtcctattacggatgttttctacaaagaaaacagttacaca
+hCoV-19/India/K aagtcctcagaatacaaaggtcctattacggatgttttctacaaagaaaacagttacaca
+                ************************************************************
+
+hCoV-19/India/T acaaccataaaaccagttacttataaattggatggtgttgtttgtacagaaattgaccct
+hCoV-19/India/K acaaccataaaaccagttacttataaattggatggtgttgtttgtacagaaattgaccct
+hCoV-19/India/K acaaccataaaaccagttacttataaattggatggtgttgtttgtacagaaattgaccct
+                ************************************************************
+
+hCoV-19/India/T aagttggacaattattataagaaagacaattcttatttcacagagcaaccaattgatctt
+hCoV-19/India/K aagttggacaattattataagaaagacaattcttatttcacagagcaaccaattgatctt
+hCoV-19/India/K aagttggacaattattataagaaagacaattcttatttcacagagcaaccaattgatctt
+                ************************************************************
+
+hCoV-19/India/T gtaccaaaccaaccatatccaaacgcaagcttcgataattttaagtttgtatgtgataat
+hCoV-19/India/K gtaccaaaccaaccatatccaaacgcaagcttcgataattttaagtttgtatgtgataat
+hCoV-19/India/K gtaccaaaccaaccatatccaaacgcaagcttcgataattttaagtttgtatgtgataat
+                ************************************************************
+
+hCoV-19/India/T atcaaatttgctgatgatttaaaccagttaactggttataagaaacctgcttcaagagag
+hCoV-19/India/K atcaaatttgctgatgatttaaaccagttaactggttataagaaacctgcttcaagagag
+hCoV-19/India/K atcaaatttgctgatgatttaaaccagttaactggttataagaaacctgcttcaagagag
+                ************************************************************
+
+hCoV-19/India/T cttaaagttacatttttccctgacttaaatggtgatgtggtggctattgattataaacac
+hCoV-19/India/K cttaaagttacatttttccctgacttaaatggtgatgtggtggctattgattataaacac
+hCoV-19/India/K cttaaagttacatttttccctgacttaaatggtgatgtggtggctattgattataaacac
+                ************************************************************
+
+hCoV-19/India/T tacacaccctcttttaagaaaggagctaaattgttacataaacctattgtttggcatgtt
+hCoV-19/India/K tacacaccctcttttaagaaaggagctaaattgttacataaacctattgtttggcatgtt
+hCoV-19/India/K tacacaccctcttttaagaaaggagctaaattgttacataaacctattgtttggcatgtt
+                ************************************************************
+
+hCoV-19/India/T aacaatgcaactaataaagccacgtataaaccaaatacctggtgtatacgttgtctttgg
+hCoV-19/India/K aacaatgcaactaataaagccacgtataaaccaaatacctggtgtatacgttgtctttgg
+hCoV-19/India/K aacaatgcaactaataaagccacgtataaaccaaatacctggtgtatacgttgtctttgg
+                ************************************************************
+
+hCoV-19/India/T agcacaaaaccagttgaaacatcaaattcgtttgatgtactgaagtcagaggacgcgcag
+hCoV-19/India/K agcacaaaaccagttgaaacatcaaattcgtttgatgtactgaagtcagaggacgcgcag
+hCoV-19/India/K agcacaaaaccagttgaaacatcaaattcgtttgatgtactgaagtcagaggacgcgcag
+                ************************************************************
+
+hCoV-19/India/T ggaatggataatcttgcctgcgaagatctaaaactagtctctgaagaagtagtggaaaat
+hCoV-19/India/K ggaatggataatcttgcctgcgaagatctaaaaccagtctctgaagaagtagtggaaaat
+hCoV-19/India/K ggaatggataatcttgcctgcgaagatctaaaaccagtctctgaagaagtagtggaaaat
+                **********************************.*************************
+
+hCoV-19/India/T cctaccatacagaaagacgttcttgagtgtaatgtgaaaactaccgaagttgtaggagac
+hCoV-19/India/K cctaccatacagaaagacgttcttgagtgtaatgtgaaaactaccgaagttgtaggagac
+hCoV-19/India/K cctaccatacagaaagacgttcttgagtgtaatgtgaaaactaccgaagttgtaggagac
+                ************************************************************
+
+hCoV-19/India/T attatacttaaaccagcaaataatagtttaaaaattacagaagaggttggccacacagat
+hCoV-19/India/K attatacttaaaccagcaaataatagtttaaaaattacagaagaggttggctacacagat
+hCoV-19/India/K attatacttaaaccagcaaataatagtttaaaaattacagaagaggttggccacacagat
+                ***************************************************.********
+
+hCoV-19/India/T ctaatggctgcttatgtagacaattctagtcttactattaagaaacctaatgaattatct
+hCoV-19/India/K ctaatggctgcttatgtagacaattctagtcttactattaagaaacctaatgaattatct
+hCoV-19/India/K ctaatggctgcttatgtagacaattctagtcttactattaagaaacctaatgaattatct
+                ************************************************************
+
+hCoV-19/India/T agagtattaggtttgaaaacccttgctactcatggtttagctgctgttaatagtgtccct
+hCoV-19/India/K agagtattaggtttgaaaacccttgctactcatggtttagctgctgttaatagtgtccct
+hCoV-19/India/K agagtattaggtttgaaaacccttgctactcatggtttagctgctgttaatagtgtccct
+                ************************************************************
+
+hCoV-19/India/T tgggatactatagctaattatgctaagccttttcttaacaaagttgttagtacaactact
+hCoV-19/India/K tgggatactatagctaattatgctaagccttttcttaacaaagttgttagtacaactact
+hCoV-19/India/K tgggatactatagctaattatgctaagccttttcttaacaaagttgttagtacaactact
+                ************************************************************
+
+hCoV-19/India/T aacatagttacacggtgtttaaaccgtgtttgtactaattatatgccttatttctttact
+hCoV-19/India/K aacatagttacacggtgtttaaaccgtgtttgtactaattatatgccttatttctttact
+hCoV-19/India/K aacatagttacacggtgtttaaaccgtgtttgtactaattatatgccttatttctttact
+                ************************************************************
+
+hCoV-19/India/T ttattgctacaattgtgtacttttactagaagtacaaattctagaattaaagcatctatg
+hCoV-19/India/K ttattgctacaattgtgtacttttactagaagtacaaattctagaattaaagcatctatg
+hCoV-19/India/K ttattgctacaattgtgtacttttactagaagtacaaattctagaattaaagcatctatg
+                ************************************************************
+
+hCoV-19/India/T ccgactactatagcaaagaatactgttaagagtgtcggtaaattttgtctagaggcttca
+hCoV-19/India/K ccgactactatagcaaagaatactgttaagagtgtcggtaaattttgtctagaggcttca
+hCoV-19/India/K ccgactactatagcaaagaatactgttaagagtgtcggtaaattttgtctagaggcttca
+                ************************************************************
+
+hCoV-19/India/T tttaattatttgaagtcacctaatttttctaaactgataaatattataatttggttttta
+hCoV-19/India/K tttaattatttgaagtcacctaatttttctaaactgataaatattataatttggttttta
+hCoV-19/India/K tttaattatttgaagtcacctaatttttctaaactgataaatattataatttggttttta
+                ************************************************************
+
+hCoV-19/India/T ctattaagtgtttgcctaggttctttaatctactcaaccgctgctttaggtgttttaatg
+hCoV-19/India/K ctattaagtgtttgcctaggttctttaatctactcaaccgctgctttaggtgttttaatg
+hCoV-19/India/K ctattaagtgtttgcctaggttctttaatctactcaaccgctgctttaggtgttttaatg
+                ************************************************************
+
+hCoV-19/India/T tctaatttaggcatgccttcttactgtactggttacagagaaggctatttgaactctact
+hCoV-19/India/K tctaatttaggcatgccttcttactgtactggttacagagaaggctatttgaactctact
+hCoV-19/India/K tctaatttaggcatgccttcttactgtactggttacagagaaggctatttgaactctact
+                ************************************************************
+
+hCoV-19/India/T aatgtcactattgcaacctactgtactggttctatatcttgtagtgtttgtcttagtggt
+hCoV-19/India/K aatgtcactattgcaacctactgtactggttctataccttgtagtgtttgtcttagtggt
+hCoV-19/India/K aatgtcactattgcaacctactgtactggttctataccttgtagtgtttgtcttagtggt
+                ************************************.***********************
+
+hCoV-19/India/T ttagattctttagacacctatccttctttagaaactatacaaattaccatttcatctttt
+hCoV-19/India/K ttagattctttagacacctatccttctttagaaactatacaaattaccatttcatctttt
+hCoV-19/India/K ttagattctttagacacctatccttctttagaaactatacaaattaccatttcatctttt
+                ************************************************************
+
+hCoV-19/India/T aaatgggatttaactgcttttggcttagttgcagagtggtttttggcatatattcttttc
+hCoV-19/India/K aaatgggatttaactgcttttggcttagttgcagagtggtttttggcatatattcttttc
+hCoV-19/India/K aaatgggatttaactgcttttggcttagttgcagagtggtttttggcatatattcttttc
+                ************************************************************
+
+hCoV-19/India/T actaggtttttctatgtacttggattggctgcaatcatgcaattgtttttcagctatttt
+hCoV-19/India/K actaggtttttctatgtacttggattggctgcaatcatgcaattgtttttcagctatttt
+hCoV-19/India/K actaggtttttctatgtacttggattggctgcaatcatgcaattgtttttcagctatttt
+                ************************************************************
+
+hCoV-19/India/T gcagtacattttattagtaattcttggcttatgtggttaataattaatcttgtacaaatg
+hCoV-19/India/K gcagtacattttattagtaattcttggcttatgtggttaataattaatcttgtacaaatg
+hCoV-19/India/K gcagtacattttattagtaattcttggcttatgtggttaataattaatcttgtacaaatg
+                ************************************************************
+
+hCoV-19/India/T gccccgatttcagctatggttagaatgtacatcttctttgcatcattttattatgtatgg
+hCoV-19/India/K gccccgatttcagctatggttagaatgtacatcttctttgcatcattttattatgtatgg
+hCoV-19/India/K gccccgatttcagctatggttagaatgtacatcttctttgcatcattttattatgtatgg
+                ************************************************************
+
+hCoV-19/India/T aaaagttatgtgcatgttgtagacggttgtaattcatcaacttgtatgatgtgttacaaa
+hCoV-19/India/K aaaagttatgtgcatgttgtagacggttgtaattcatcaacttgtatgatgtgttacaaa
+hCoV-19/India/K aaaagttatgtgcatgttgtagacggttgtaattcatcaacttgtatgatgtgttacaaa
+                ************************************************************
+
+hCoV-19/India/T cgtaatagagcaacaagagtcgaatgtacaactattgttaatggtgttagaaggtccttt
+hCoV-19/India/K cgtaatagagcaacaagagtcgaatgtacaactattgttaatggtgttagaaggtccttt
+hCoV-19/India/K cgtaatagagcaacaagagtcgaatgtacaactattgttaatggtgttagaaggtccttt
+                ************************************************************
+
+hCoV-19/India/T tatgtctatgctaatggaggtaaaggcttttgcaaactacacaattggaattgtgttaat
+hCoV-19/India/K tatgtctatgctaatggaggtaaaggcttttgcaaactacacaattggaattgtgttaat
+hCoV-19/India/K tatgtctatgctaatggaggtaaaggcttttgcaaactacacaattggaattgtgttaat
+                ************************************************************
+
+hCoV-19/India/T tgtgatacattctgtgctggtagtacatttattagtgatgaagttgcgagagacttgtca
+hCoV-19/India/K tgtgatacattctgtgctggtagtacatttattagtgatgaagttgcgagagacttgtca
+hCoV-19/India/K tgtgatacattctgtgctggtagtacatttattagtgatgaagttgcgagagacttgtca
+                ************************************************************
+
+hCoV-19/India/T ctacagtttaaaagaccaataaatcctactgaccagtcttcttacatcgttgatagtgtt
+hCoV-19/India/K ctacagtttaaaagaccaataaatcctactgaccagtcttcttacatcgttgatagtgtt
+hCoV-19/India/K ctacagtttaaaagaccaataaatcctactgaccagtcttcttacatcgttgatagtgtt
+                ************************************************************
+
+hCoV-19/India/T acagtgaagaatggttccatccatctttactttgataaagctggtcaaaagacttatgaa
+hCoV-19/India/K acagtgaagaatggttccatccatctttactttgataaagctggtcaaaagacttatgaa
+hCoV-19/India/K acagtgaagaatggttccatccatctttactttgataaagctggtcaaaagacttatgaa
+                ************************************************************
+
+hCoV-19/India/T agacattctctctctcattttgttaacttagacaacctgagagctaataacactaaaggt
+hCoV-19/India/K agacattctctctctcattttgttaacttagacaacctgagagctaataacactaaaggt
+hCoV-19/India/K agacattctctctctcattttgttaacttagacaacctgagagctaataacactaaaggt
+                ************************************************************
+
+hCoV-19/India/T tcattgcctattaatgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgca
+hCoV-19/India/K tcattgcctattaatgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgca
+hCoV-19/India/K tcattgcctattaatgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgca
+                ************************************************************
+
+hCoV-19/India/T aaatcagcgtctgtttactacagtcagcttatgtgtcaacctatactgttactagatcag
+hCoV-19/India/K aaatcagcgtctgtttactacagtcagcttatgtgtcaacctatactgttactagatcag
+hCoV-19/India/K aaatcagcgtctgtttactacagtcagcttatgtgtcaacctatactgttactagatcag
+                ************************************************************
+
+hCoV-19/India/T gcattagtgtctgatgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttac
+hCoV-19/India/K gcattagtgtctgatgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttac
+hCoV-19/India/K gcattagtgtctgatgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttac
+                ************************************************************
+
+hCoV-19/India/T gttaatacgttttcatcaacttttaacgtaccaatggaaaaactcaaaacactagttgca
+hCoV-19/India/K gttaatacgttttcatcaacttttaacgtaccaatggaaaaactcaaaacactagttgca
+hCoV-19/India/K gttaatacgttttcatcaacttttaacgtaccaatggaaaaactcaaaacactagttgca
+                ************************************************************
+
+hCoV-19/India/T actgcagaagctgaacttgcaaagaatgtgtccttagacaatgtcttatctacttttatt
+hCoV-19/India/K actgcagaagctgaacttgcaaagaatgtgtccttagacaatgtcttatctacttttatt
+hCoV-19/India/K actgcagaagctgaacttgcaaagaatgtgtccttagacaatgtcttatctacttttatt
+                ************************************************************
+
+hCoV-19/India/T tcagcagctcggcaagggtttgttgattcagatgtagaaactaaagatgttgttgaatgt
+hCoV-19/India/K tcagcagctcggcaagggtttgttgattcagatgtagaaactaaagatgttgttgaatgt
+hCoV-19/India/K tcagcagctcggcaagggtttgttgattcagatgtagaaactaaagatgttgttgaatgt
+                ************************************************************
+
+hCoV-19/India/T cttaaattgtcacatcaatctgacatagaagttactggcgatagttgtaataactatatg
+hCoV-19/India/K cttaaattgtcacatcaatctgacatagaagttactggcgatagttgtaataactatatg
+hCoV-19/India/K cttaaattgtcacatcaatctgacatagaagttactggcgatagttgtaataactatatg
+                ************************************************************
+
+hCoV-19/India/T ctcacctataacaaagttgaaaacatgacaccccgtgaccttggtgcttgtattgactgt
+hCoV-19/India/K ctcacctataacaaagttgaaaacatgacaccccgtgaccttggtgcttgtattgactgt
+hCoV-19/India/K ctcacctataacaaagttgaaaacatgacaccccgtgaccttggtgcttgtattgactgt
+                ************************************************************
+
+hCoV-19/India/T agtgcgcgtcatattaatgcgcaggtagcaaaaagtcacaacattgctttgatatggaac
+hCoV-19/India/K agtgcgcgtcatattaatgcgcaggtagcaaaaagtcacaacattgctttgatatggaac
+hCoV-19/India/K agtgcgcgtcatattaatgcgcaggtagcaaaaagtcacaacattgctttgatatggaac
+                ************************************************************
+
+hCoV-19/India/T gttaaagatttcatgtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaa
+hCoV-19/India/K gttaaagatttcatgtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaa
+hCoV-19/India/K gttaaagatttcatgtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaa
+                ************************************************************
+
+hCoV-19/India/T aagaataacttaccttttaagttgacatgtgcaactactagacaagttgttaatgttgta
+hCoV-19/India/K aagaataacttaccttttaagttgacatgtgcaactactagacaagttgttaatgttgta
+hCoV-19/India/K aagaataacttaccttttaagttgacatgtgcaactactagacaagttgttaatgttgta
+                ************************************************************
+
+hCoV-19/India/T acaacaaagatagcacttaagggtggtaaaattgttaataattggttgaagcagttaatt
+hCoV-19/India/K acaacaaagatagcacttaagggtggtaaaattgttaataattggttgaagcagttaatt
+hCoV-19/India/K acaacaaagatagcacttaagggtggtaaaattgttaataattggttgaagcagttaatt
+                ************************************************************
+
+hCoV-19/India/T aaagttacacttgtgttcctttttgttgctgctattttctatttaataacacctgttcat
+hCoV-19/India/K aaagttacacttgtgttcctttttgttgctgctattttctatttaataacacctgttcat
+hCoV-19/India/K aaagttacacttgtgttcctttttgttgctgctattttctatttaataacacctgttcat
+                ************************************************************
+
+hCoV-19/India/T gtcatgtctaaacatactgacttttcaagtgaaatcataggatacaaggctattgatggt
+hCoV-19/India/K gtcatgtctaaacatactgacttttcaagtgaaatcataggatacaaggctattgatggt
+hCoV-19/India/K gtcatgtctaaacatactgacttttcaagtgaaatcataggatacaaggctattgatggt
+                ************************************************************
+
+hCoV-19/India/T ggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgatttt
+hCoV-19/India/K ggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgatttt
+hCoV-19/India/K ggtgtcactcgtgacatagcatctacagatacttgttttgctaacaaacatgctgatttt
+                ************************************************************
+
+hCoV-19/India/T gacacatggtttagccagcgtggtggtagttatactaatgacaaagcttgcccattgatt
+hCoV-19/India/K gacacatggtttagccagcgtggtggtagttatactaatgacaaagcttgcccattgatt
+hCoV-19/India/K gacacatggtttagccagcgtggtggtagttatactaatgacaaagcttgcccattgatt
+                ************************************************************
+
+hCoV-19/India/T gctgcagtcataacaagagaagtgggttttgtcgtgcctggtttgcctggcacgatatta
+hCoV-19/India/K gctgcagtcataacaagagaagtgggttttgtcgtgcctggtttgcctggcacgatatta
+hCoV-19/India/K gctgcagtcataacaagagaagtgggttttgtcgtgcctggtttgcctggcacgatatta
+                ************************************************************
+
+hCoV-19/India/T cgcacaactaatggtgactttttgcatttcttacctagagtttttagtgcagttggtaac
+hCoV-19/India/K cgcacaactaatggtgactttttgcatttcttacctagagtttttagtgcagttggtaac
+hCoV-19/India/K cgcacaactaatggtgactttttgcatttcttacctagagtttttagtgcagttggtaac
+                ************************************************************
+
+hCoV-19/India/T atctgttacacaccatcaaaacttatagagtacactgattttgcaacatcagcttgtgtt
+hCoV-19/India/K atctgttacacaccatcaaaacttatagagtacactgactttgcaacatcagcttgtgtt
+hCoV-19/India/K atctgttacacaccatcaaaacttatagagtacactgactttgcaacatcagcttgtgtt
+                **************************************.*********************
+
+hCoV-19/India/T ttggctgctgaatgtacaatttttaaagatgcttctggtaagccattaccatattgttat
+hCoV-19/India/K ttggctgctgaatgtacaatttttaaagatgcttctggtaagccagtaccatattgttat
+hCoV-19/India/K ttggctgctgaatgtacaatttttaaagatgcttctggtaagccagtaccatattgttat
+                ********************************************* **************
+
+hCoV-19/India/T gataccaatgtactagaaggttctgttgcttatgaaagtttacgccctgacacacgttat
+hCoV-19/India/K gataccaatgtactagaaggttctgttgcttatgaaagtttacgccctgacacacgttat
+hCoV-19/India/K gataccaatgtactagaaggttctgttgcttatgaaagtttacgccctgacacacgttat
+                ************************************************************
+
+hCoV-19/India/T gtgctcatggatggctctattattcaatttcctaacacctaccttgaaggttctgttaga
+hCoV-19/India/K gtgctcatggatggctctattattcaatttcctaacacctaccttgaaggttctgttaga
+hCoV-19/India/K gtgctcatggatggctctattattcaatttcctaacacctaccttgaaggttctgttaga
+                ************************************************************
+
+hCoV-19/India/T gtggtaacaacttttgattctgagtactgtaggcacggcacttgtgaaagatcagaagct
+hCoV-19/India/K gtggtaacaacttttgattctgagtactgtaggcacggcacttgtgaaagatcagaagct
+hCoV-19/India/K gtggtaacaacttttaattctgagtactgtaggcacggcacttgtgaaagatcagaagct
+                ***************.********************************************
+
+hCoV-19/India/T ggtgtttgtgtatctactagtggtagatgggtacttaacaatgattattacagatcttta
+hCoV-19/India/K ggtgtttgtgtatctactagtggtagatgggtacttaacaatgattattacagatcttta
+hCoV-19/India/K ggtgtttgtgtatctactagtggtagatgggtacttaacaatgattattacagatcttta
+                ************************************************************
+
+hCoV-19/India/T ccaggagttttctgtggtgtagatgctgtaaatttacttactaatatgtttacaccacta
+hCoV-19/India/K ccaggagttttctgtggtgtagatgctgtaaatttacttactaatatgtttacaccacta
+hCoV-19/India/K ccaggagttttctgtggtgtagatgctgtaaatttacttactaatatgtttacaccacta
+                ************************************************************
+
+hCoV-19/India/T attcaacctattggtgctttggacatatcagcatctatagtagctggtggtattgtagct
+hCoV-19/India/K attcaacctattggtgctttggacatatcagcatctatagtagctggtggtattgtagct
+hCoV-19/India/K attcaacctattggtgctttggacatatcagcatctatagtagctggtggtattgtagct
+                ************************************************************
+
+hCoV-19/India/T atcgtagtaacatgccttgcctactattttatgaggtttagaagagcttttggtgaatac
+hCoV-19/India/K atcttagtaacatgccttgcctactattttatgaggtttagaagagcttttggtgaatac
+hCoV-19/India/K atcgtagtaacatgccttgcctactattttatgaggtttagaagagcttttggtgaatac
+                *** ********************************************************
+
+hCoV-19/India/T agtcatgtagttgcctttaatactttactattccttatgtcattcactgtactctgttta
+hCoV-19/India/K agtcatgtagttgcctttaatactttactattccttatgtcattcactgtactctgttta
+hCoV-19/India/K agtcatgtagttgcctttaatactttactattccttatgtcattcactgtactctgttta
+                ************************************************************
+
+hCoV-19/India/T acaccagtttactcattcttacctggtgtttattctgttatttacttgtacttgacattt
+hCoV-19/India/K acaccagtttactcattcttacctggtgtttattctgttatttacttgtacttgacattt
+hCoV-19/India/K acaccagtttactcattcttacctggtgtttattctgttatttacttgtacttgacattt
+                ************************************************************
+
+hCoV-19/India/T tatcttactaatgatgtttcttttttagcacatattcagtggatggttatgttcacacct
+hCoV-19/India/K tatcttactaatgatgtttcttttttagcacatattcagtggatggttatgttcacacct
+hCoV-19/India/K tatcttactaatgatgtttcttttttagcacatattcagtggatggttatgttcacacct
+                ************************************************************
+
+hCoV-19/India/T ttagtacctttctggataacaattgcttatatcatttgtatttccacaaagcatttctat
+hCoV-19/India/K ttagtacctttctggataacaattgcttatatcatttgtatttccacaaagcatttctat
+hCoV-19/India/K ttagtaccttcctggataacaattgcttatatcatttgtatttccacaaagcatttctat
+                **********.*************************************************
+
+hCoV-19/India/T tggttctttagtaattacctaaagagacgtgtagtctttaatggtgtttcctttagtact
+hCoV-19/India/K tggttctttagtaattacctaaagagacgtgtagtctttaatggtgtttcctttagtact
+hCoV-19/India/K tggttctttagtaattacctaaagagacgtgtagtctttaatggtgtttcctttagtact
+                ************************************************************
+
+hCoV-19/India/T tttgaagaagctgcgctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgt
+hCoV-19/India/K tttgaagaagctgcgctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgt
+hCoV-19/India/K tttgaagaagctgcgctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgt
+                ************************************************************
+
+hCoV-19/India/T agtgatgtgctattacctcttacgcaatataatagatacttagctctttataataagtac
+hCoV-19/India/K agtgatgtgctattacctcttacgcaatataatagatacttagttctttataataagtac
+hCoV-19/India/K agtgatgtgctattacctcttacgcaatataatagatacttagctctttataataagtac
+                *******************************************.****************
+
+hCoV-19/India/T aagtattttagtggagcaatggatacaactagctacagagaagctgcttgttgtcatctc
+hCoV-19/India/K aagtattttagtggagcaatggatacaactagctacagagaagctgcttgttgtcatctc
+hCoV-19/India/K aagtattttagtggagcaatggatacaactagctacagagaagctgcttgttgtcatctc
+                ************************************************************
+
+hCoV-19/India/T gcaaaggctctcaatgacttcagtaactcaggttctgatgttctttaccaaccaccacaa
+hCoV-19/India/K gcaaaggctctcaatgacttcagtaactcaggttctgatgttctttaccaaccaccacaa
+hCoV-19/India/K gcaaaggctctcaatgacttcagtaactcaggttctgatgttctttaccaaccaccacaa
+                ************************************************************
+
+hCoV-19/India/T atctctatcacctcagctgttttgcagagtggttttagaaaaatggcattcccatctggt
+hCoV-19/India/K acctctatcacctcagctgttttgcagagtggttttagaaaaatggcattcccatctggt
+hCoV-19/India/K acctctatcacctcagctgttttgcagagtggttttagaaaaatggcattcccatctggt
+                *.**********************************************************
+
+hCoV-19/India/T aaagttgagggttgtatggtacaagtaacttgtggtacaactacacttaacggtctttgg
+hCoV-19/India/K aaagttgagggttgtatggtacaagtaacttgtggtacaactacacttaacggtctttgg
+hCoV-19/India/K aaagttgagggttgtatggtacaagtaacttgtggtacaactacacttaacggtctttgg
+                ************************************************************
+
+hCoV-19/India/T cttgatgacgtagtttactgtccaagacatgtgatctgcacctctgaagacatgcttaac
+hCoV-19/India/K cttgatgacgtagtttactgtccaagacatgtgatctgcacctctgaagacatgcttaac
+hCoV-19/India/K cttgatgacgtagtttactgtccaagacatgtgatctgcacctctgaagacatgcttaac
+                ************************************************************
+
+hCoV-19/India/T cctaattatgaagatttactcattcgtaagtctaatcataatttcttggtacaggctggt
+hCoV-19/India/K cctaattatgaagatttactcattcgtaagtctaatcataatttcttggtacaggctggt
+hCoV-19/India/K cctaattatgaagatttactcattcgtaagtctaatcataatttcttggtacaggctggt
+                ************************************************************
+
+hCoV-19/India/T aatgttcaactcagggttattggacattctatgcaaaattgtgtacttaagcttaaggtt
+hCoV-19/India/K aatgttcaactcagggttattggacattctatgcaaaattgtgtacttaagcttaaggtt
+hCoV-19/India/K aatgttcaactcagggttattggacattctatgcaaaattgtgtacttaagcttaaggtt
+                ************************************************************
+
+hCoV-19/India/T gatacagccaatcctaagacacctaagtataagtttgttcgcattcaaccaggacagact
+hCoV-19/India/K gatacagccaatcctaagacacctaagtataagtttgttcgcattcaaccaggacagact
+hCoV-19/India/K gatacagccaatcctaagacacctaagtataagtttgttcgcattcaaccaggacagact
+                ************************************************************
+
+hCoV-19/India/T ttttcagtgttagcttgttacaatggttcaccatctggtgtttaccaatgtgctatgagg
+hCoV-19/India/K ttttcagtgttagcttgttacaatggttcaccatctggtgtttaccaatgtgctatgagg
+hCoV-19/India/K ttttcagtgttagcttgttacaatggttcaccatctggtgtttaccaatgtgctatgagg
+                ************************************************************
+
+hCoV-19/India/T cccaatttcactattaagggttcattccttaatggttcatgtggtagtgttggttttaac
+hCoV-19/India/K cccaatttcactattaagggttcattccttaatggttcatgtggtagtgttggttttaac
+hCoV-19/India/K cccaatttcactattaagggttcattccttaatggttcatgtggtagtgttggttttaac
+                ************************************************************
+
+hCoV-19/India/T atagattatgactgtgtctctttttgttacatgcaccatatggaattaccaactggagtt
+hCoV-19/India/K atagattatgactgtgtctctttttgttacatgcaccatatggaattaccaactggagtt
+hCoV-19/India/K atagattatgactgtgtctctttttgttacatgcaccatatggaattaccaactggagtt
+                ************************************************************
+
+hCoV-19/India/T catgctggcacagacttagaaggtaacttttatggaccttttgttgacaggcaaacagca
+hCoV-19/India/K catgctggcacagacttagaaggtaacttttatggaccttttgttgacaggcaaacagca
+hCoV-19/India/K catgctggcacagacttagaaggtaacttttatggaccttttgttgacaggcaaacagca
+                ************************************************************
+
+hCoV-19/India/T caagcagctggtacggacacaactattacagttaatgttttagcttggttgtacgctgct
+hCoV-19/India/K caagcagctggtacggacacaactattacagttaatgttttagcttggttgtacgctgct
+hCoV-19/India/K caagcagctggtacggacacaactattacagttaatgttttagcttggttgtacgctgct
+                ************************************************************
+
+hCoV-19/India/T gttataaatggagacaggtggtttctcaatcgatttaccacaactcttaatgactttaac
+hCoV-19/India/K gttataaatggagacaggtggtttctcaatcgatttaccacaactcttaatgactttaac
+hCoV-19/India/K gttataaatggagacaggtggtttctcaatcgatttaccacaactcttaatgactttaac
+                ************************************************************
+
+hCoV-19/India/T cttgtggctatgaagtacaattatgaacctctaacacaagaccatgttgacatactagga
+hCoV-19/India/K cttgtggctatgaagtacaattatgaacctctaacacaagaccatgttgacatactagga
+hCoV-19/India/K cttgtggctatgaagtacaattatgaacctctaacacaagaccatgttgacatactagga
+                ************************************************************
+
+hCoV-19/India/T cctctttctgctcaaactggaattgccgttttagatatgtgtgcttcattaaaagaatta
+hCoV-19/India/K cctctttctgctcaaactggaattgccgttttagatatgtgtgcttcattaaaagaatta
+hCoV-19/India/K cctctttctgctcaaactggaattgccgttttagatatgtgtgcttcattaaaagaatta
+                ************************************************************
+
+hCoV-19/India/T ctgcaaaatggtatgaatggacgtaccatattgggtagtgctttattagaagatgaattt
+hCoV-19/India/K ctgcaaaatggtatgaatggacgtaccatattgggtagtgctttattagaagatgaattt
+hCoV-19/India/K ctgcaaaatggtatgaatggacgtaccatattgggtagtgctttattagaagatgaattt
+                ************************************************************
+
+hCoV-19/India/T acaccttttgatgttgttagacaatgctcaggtgttactttccaaagtgcagtgaaaaga
+hCoV-19/India/K acaccttttgatgttgttagacaatgctcaggtgttactttccaaagtgcagtgaaaaga
+hCoV-19/India/K acaccttttgatgttgttagacaatgctcaggtgttactttccaaagtgcagtgaaaaga
+                ************************************************************
+
+hCoV-19/India/T acaatcaagggtacacaccactggttgttactcacaattttgacttcacttttagtttta
+hCoV-19/India/K acaatcaagggtacacaccactggttgttactcacaattttgacttcacttttagtttta
+hCoV-19/India/K acaatcaagggtacacaacactggttgttactcacaattttgacttcacttttagtttta
+                ***************** ******************************************
+
+hCoV-19/India/T gtccagagtactcaatggtctttgttcttttttttgtatgaaaatgcctttttacctttt
+hCoV-19/India/K gtccagagtactcaatggtctttgttcttttttttgtatgaaaatgcctttttacctttt
+hCoV-19/India/K gtccagagtactcaatggtctttgttcttttttttgtatgaaaatgcctttttacctttt
+                ************************************************************
+
+hCoV-19/India/T gctatgggtattattgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgca
+hCoV-19/India/K gctatgggtattattgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgca
+hCoV-19/India/K gctatgggtattattgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgca
+                ************************************************************
+
+hCoV-19/India/T tttctttgtttgtttttgttaccttctcttgccgctgtagcttattttaatatggtctat
+hCoV-19/India/K tttctctgtttgtttttgttaccttctcttgccactgtagcttattttaatatggtctat
+hCoV-19/India/K tttctctgtttgtttttgttaccttctcttgccactgtagcttattttaatatggtctat
+                *****.***************************.**************************
+
+hCoV-19/India/T atgcctgctagttgggtgatgcgtattatgacatggttggatatggttgatactagtttg
+hCoV-19/India/K atgcctgctagttgggtgatgcgtattatgacatggttggatatggttgatactagtttg
+hCoV-19/India/K atgcctgctagttgggtgatgcgtattatgacatggttggatatggttgatactagtttg
+                ************************************************************
+
+hCoV-19/India/T tctggttttaagctaaaagactgtgttatgtatgcatcagctgtggtgttactaatcctt
+hCoV-19/India/K tctggttttaagctaaaagactgtgttatgtatgcatcagctgtagtgttactaatcctt
+hCoV-19/India/K tctggttttaagctaaaagactgtgttatgtatgcatcagctgtagtgttactaatcctt
+                ********************************************.***************
+
+hCoV-19/India/T atgacagcaagaactgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtc
+hCoV-19/India/K atgacagcaagaactgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtc
+hCoV-19/India/K atgacagcaagaactgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtc
+                ************************************************************
+
+hCoV-19/India/T ttgacactcgtttataaagtttattatggtaatgctttagatcaagccatttccatgtgg
+hCoV-19/India/K ttgacactcgcttataaagtttattatggtaatgctttagatcaagccatttccatgtgg
+hCoV-19/India/K ttgacactcgtttataaagtttattatggtaatgctttagatcaagccatttccatgtgg
+                **********.*************************************************
+
+hCoV-19/India/T gctcttataatctctgttacttctaactactcaggtgtagttacaactgtcatgtttttg
+hCoV-19/India/K gctcttataatctctgttacttctaactactcaggtgtagttacaactgtcatgtttttg
+hCoV-19/India/K gctcttataatctctgttacttctaactactcaggtgtagttacaactgtcatgtttttg
+                ************************************************************
+
+hCoV-19/India/T gccagaggtattgtttttatgtgtgttgagtattgccctattttcttcataactggtaat
+hCoV-19/India/K gccagaggtattgtttttatgtgtgttgagtattgccctattttcttcataactggtaat
+hCoV-19/India/K gccagaggtattgtttttatgtgtgttgagtattgccctattttcttcataactggtaat
+                ************************************************************
+
+hCoV-19/India/T acacttcagtgtataatgctagtttattgtttcttaggctatttttgtacttgttacttt
+hCoV-19/India/K acacttcagtgtataatgctagtttattgtttcttaggctatttttgtacttgttacttt
+hCoV-19/India/K acacttcagtgtataatgctagtttattgtttcttaggctatttttgtacttgttacttt
+                ************************************************************
+
+hCoV-19/India/T ggcctcttttgtttactcaaccgctactttagactgactcttggtgtttatgattactta
+hCoV-19/India/K ggcctcttttgtttactcaaccgctactttagactgactcttggtgtttatgattactta
+hCoV-19/India/K ggcctcttttgtttactcaaccgctactttagactgactcttggtgtttatgattactta
+                ************************************************************
+
+hCoV-19/India/T gtttctacacaggagtttagatatatgaattcacagggactactcccacccaagaatagc
+hCoV-19/India/K gtttctacacaggagtttagatatatgaattcacagggactactcccacccaagaatagc
+hCoV-19/India/K gtttctacacaggagtttagatatatgaattcacagggactactcccacccaagaatagc
+                ************************************************************
+
+hCoV-19/India/T atagatgccttcaaactcaacattaaattgttgggtgttggtggcaaaccttgtatcaaa
+hCoV-19/India/K atagatgccttcaaactcaacattaaattgttgggtgttggtggcaaaccttgtatcaaa
+hCoV-19/India/K atagatgccttcaaactcaacattaaattgttgggtgttggtggcaaaccttgtatcaaa
+                ************************************************************
+
+hCoV-19/India/T gtagccactgtacagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctca
+hCoV-19/India/K gtagccactgtacagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctca
+hCoV-19/India/K gtagccactgtacagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctca
+                ************************************************************
+
+hCoV-19/India/T gttttgcaacaactcagagtagaatcatcatctaaattgtgggctcaatgtgtccagtta
+hCoV-19/India/K gttttgcaacaactcagagtagaatcatcatctaaattgtgggctcaatgtgtccagtta
+hCoV-19/India/K gttttgcaacaactcagagtagaatcatcatctaaattgtgggctcaatgtgtccagtta
+                ************************************************************
+
+hCoV-19/India/T cacaatgacattctcttagctaaagatactactgaagcctttgaaaaaatggtttcacta
+hCoV-19/India/K cacaatgacattctcttagctaaagatactactgaagcctttgaaaaaatggtttcacta
+hCoV-19/India/K cacaatgacattctcttagctaaagatactactgaagcctttgaaaaaatggtttcacta
+                ************************************************************
+
+hCoV-19/India/T ctttctgttttgctttccatgcagggtgctgtagacataaacaagctttgtgaagaaatg
+hCoV-19/India/K ctttctgttttgctttccatgcagggtgctgtagacataaacaagctttgtgaagaaatg
+hCoV-19/India/K ctttctgttttgctttccatgcagggtgctgtagacataaacaagctttgtgaagaaata
+                ***********************************************************.
+
+hCoV-19/India/T ctggacaacagggcaaccttacaagctatagcctcagagtttagttcccttccatcatat
+hCoV-19/India/K ctggacaacagggcaaccttacaagctatagcctcagagtttagttcccttccatcatat
+hCoV-19/India/K ctggacaacagggcaaccttacaagctatagcctcagagtttagttcccttccatcatat
+                ************************************************************
+
+hCoV-19/India/T gcagcttttgctactgctcaagaagcttatgagcaggctgttgctaatggtgattctgaa
+hCoV-19/India/K gcagcttttgctactgctcaagaagcttatgagcaggctgttgctaatggtgattctgaa
+hCoV-19/India/K gcagcttttgctactgctcaagaagcttatgagcaggctgttgctaatggtgattctgaa
+                ************************************************************
+
+hCoV-19/India/T gttgttcttaaaaagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgat
+hCoV-19/India/K gttgttcttaaaaagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgat
+hCoV-19/India/K gttgttcttaaaaagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgat
+                ************************************************************
+
+hCoV-19/India/T gcagccatgcaacgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaa
+hCoV-19/India/K gcagccatgcaacgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaa
+hCoV-19/India/K gcagccatgcaacgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaa
+                ************************************************************
+
+hCoV-19/India/T caggctagatctgaggacaagagggcaaaagttactagtgctatgcagacaatgcttttc
+hCoV-19/India/K caggctagatctgaggacaagagggcaaaagttactagtgctatgcagacaatgcttttc
+hCoV-19/India/K caggctagatctgaggacaagagggcaaaagttactagtgctatgcagacaatgcttttc
+                ************************************************************
+
+hCoV-19/India/T actatgcttagaaagttggataatgatgcactcaacaacattatcaacaatgcaagagat
+hCoV-19/India/K actatgcttagaaagttggataatgatgcactcaacaacattatcaacaatgcaagagat
+hCoV-19/India/K actatgcttagaaagttggataatgatgcactcaacaacattatcaacaatgcaagagat
+                ************************************************************
+
+hCoV-19/India/T ggttgtgttcccttgaacataatacctcttacaacagcagccaaactaatggttgtcata
+hCoV-19/India/K ggttgtgttcccttgaacataatacctcttacaacagcagccaaactaatggttgtcata
+hCoV-19/India/K ggttgtgttcccttgaacataatacctcttacaacagcagccaaactaatggttgtcata
+                ************************************************************
+
+hCoV-19/India/T ccagactataacacatataaaaatacgtgtgatggtacaacatttacttatgcatcagca
+hCoV-19/India/K ccagactataacacatataaaaatacgtgtgatggtacaacatttacttatgcatcagca
+hCoV-19/India/K ccagactataacacatataaaaatacgtgtgatggtacaacatttacttatgcatcagca
+                ************************************************************
+
+hCoV-19/India/T ttgtgggaaatccaacaggttgtagatgcagatagtaaaattgttcaacttagtgaaatt
+hCoV-19/India/K ttgtgggaaatccaacaggttgtagatgcagatagtaaaattgttcaacttagtgaaatt
+hCoV-19/India/K ttgtgggaaatccaacaggttgtagatgcagatagtaaaattgttcaacttagtgaaatt
+                ************************************************************
+
+hCoV-19/India/T agtatggacaattcacctaatttagcatggcctcttattgtaacagctttaagggccaat
+hCoV-19/India/K agtatggacaattcacctaatttagcatggcctcttattgtaacagctttaagggccaat
+hCoV-19/India/K agtatggacaattcacctaatttagcatggcctcttattgtaacagctttaagggccaat
+                ************************************************************
+
+hCoV-19/India/T tctgctgtcaaattacagaataatgagcttagtcctgttgcactacgacagatgtcttgt
+hCoV-19/India/K tctgctgtcaaattacagaataatgagcttagtcctgttgcactacgacagatgtcttgt
+hCoV-19/India/K tctgctgtcaaattacagaataatgagcttagtcctgttgcactacgacagatgtcttgt
+                ************************************************************
+
+hCoV-19/India/T gctgccggtactacacaaactgcttgcactgatgacaatgcgttagcttactacaacaca
+hCoV-19/India/K gctgccggtactacacaaactgcttgcactgatgacaatgcgttagcttactacaacaca
+hCoV-19/India/K gctgccggtactacacaaactgcttgcactgatgacaatgcgttagcttactacaacaca
+                ************************************************************
+
+hCoV-19/India/T acaaagggaggtaggtttgtacttgcactgttatccgatttacaggatttgaaatgggct
+hCoV-19/India/K acaaagggaggtaggtttgtacttgcactgttatccgatttacaggatttgaaatgggct
+hCoV-19/India/K acaaagggaggtaggtttgtacttgcactgttatccgatttacaggatttgaaatgggct
+                ************************************************************
+
+hCoV-19/India/T agattccctaagagtgatggaactggtactatctatacagaactggaaccaccttgtagg
+hCoV-19/India/K agattccctaagagtgatggaactggtactatctatacagaactggaaccaccttgtagg
+hCoV-19/India/K agattccctaagagtgatggaactggtactatctatacagaactggaaccaccttgtagg
+                ************************************************************
+
+hCoV-19/India/T tttgttacagacacacctaaaggtcctaaagtgaagtatttatactttattaaaggatta
+hCoV-19/India/K tttgttacagacacacctaaaggtcctaaagtgaagtacttatactttattaaaggatta
+hCoV-19/India/K tttgttacagacacacctaaaggtcctaaagtgaagtatttatactttattaaaggatta
+                **************************************.*********************
+
+hCoV-19/India/T aacaacctaaatagaggtatggtacttggtagtttagctgccacagtacgtctacaagct
+hCoV-19/India/K aacaacctaaatagaggtatggtacttggtagtttagctgccacagtacgtctacaagct
+hCoV-19/India/K aacaacctaaatagaggtatggtacttggtagtttagctgccacagtacgtctacaagct
+                ************************************************************
+
+hCoV-19/India/T ggtaatgcaacagaagtgcctgccaattcaactgtattatctttctgtgcttttgctgta
+hCoV-19/India/K ggtaatgcaacagaagtgcctgccaattcaactgtattatctttctgtgcttttgctgta
+hCoV-19/India/K ggtaatgcaacagaagtgcctgccaattcaactgtattatctttctgtgcttttgctgta
+                ************************************************************
+
+hCoV-19/India/T gatgctgctaaagcttacaaagattatctagctagtgggggacaaccaatcactaattgt
+hCoV-19/India/K gatgctgctaaagcttacaaagattatctagctagtgggggacaaccaatcactaattgt
+hCoV-19/India/K gatgctgctaaagcttacaaagattatctagctagtgggggacaaccaatcactaattgt
+                ************************************************************
+
+hCoV-19/India/T gttaagatgttgtgtacacacactggtactggtcaggcaataacagttacaccggaagcc
+hCoV-19/India/K gttaagatgttgtgtacacacactggtactggtcaggcaataacagttacaccggaagcc
+hCoV-19/India/K gttaagatgttgtgtacacacactggtactggtcaggcaataacagttacaccggaagcc
+                ************************************************************
+
+hCoV-19/India/T aatatggatcaagaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacata
+hCoV-19/India/K aatatggatcaagaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacata
+hCoV-19/India/K aatatggatcaagaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacata
+                ************************************************************
+
+hCoV-19/India/T gatcatccaaatcctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctaca
+hCoV-19/India/K gatcatccaaatcctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctaca
+hCoV-19/India/K gatcatccaaatcctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctaca
+                ************************************************************
+
+hCoV-19/India/T acttgtgctaatgaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggt
+hCoV-19/India/K acttgtgctaatgaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggt
+hCoV-19/India/K acttgtgctaatgaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggt
+                ************************************************************
+
+hCoV-19/India/T atgtggaaaggttatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagct
+hCoV-19/India/K atgtggaaaggttatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagct
+hCoV-19/India/K atgtggaaaggttatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagct
+                ************************************************************
+
+hCoV-19/India/T gatgcacaatcgtttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcg
+hCoV-19/India/K gatgcacaatcgtttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcg
+hCoV-19/India/K gatgcacaatcgtttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcg
+                ************************************************************
+
+hCoV-19/India/T gcacaggcactagtactgatgtcgtatacagggcttttgacatctacaatgataaagtag
+hCoV-19/India/K gcacaggcactagtactgatgtcgtatacagggcttttgacatctacaatgataaagtag
+hCoV-19/India/K gcacaggcactagtactgatgtcgtatacagggcttttgacatctacaatgataaagtag
+                ************************************************************
+
+hCoV-19/India/T ctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatg
+hCoV-19/India/K ctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatg
+hCoV-19/India/K ctggttttgctaaattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatg
+                ************************************************************
+
+hCoV-19/India/T acaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatg
+hCoV-19/India/K acaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatg
+hCoV-19/India/K acaatttaattgattcttactttgtagttaagagacacactttctctaactaccaacatg
+                ************************************************************
+
+hCoV-19/India/T aagaaacaatttataatttacttaaggattgtccagctgttgctaaacatgacttcttta
+hCoV-19/India/K aagaaacaatttataatttacttaaggattgtccagctgttgctaaacatgacttcttta
+hCoV-19/India/K aagaaacaatttataatttacttaaggattgtccagctgttgctaaacatgacttcttta
+                ************************************************************
+
+hCoV-19/India/T agtttagaatagacggtgacatggtaccacatatatcacgtcaacgtcttactaaataca
+hCoV-19/India/K agtttagaatagacggtgacatggtaccacatatatcacgtcaacgtcttactaaataca
+hCoV-19/India/K agtttagaatagacggtgacatggtaccacatatatcacgtcaacgtcttactaaataca
+                ************************************************************
+
+hCoV-19/India/T caatggcagacctcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaa
+hCoV-19/India/K caatggcagacctcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaa
+hCoV-19/India/K caatggcagacctcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaa
+                ************************************************************
+
+hCoV-19/India/T aagaaatacttgtcacatacaattgttgtgatgatgattatttcaataaaaaggactggt
+hCoV-19/India/K aagaaatacttgtcacatacaattgttgtgatgatgattatttcaataaaaaggactggt
+hCoV-19/India/K aagaaatacttgtcacatacaattgttgtgatgatgattatttcaataaaaaggactggt
+                ************************************************************
+
+hCoV-19/India/T atgattttgtagaaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtac
+hCoV-19/India/K atgattttgtagaaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtac
+hCoV-19/India/K atgattttgtagaaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtac
+                ************************************************************
+
+hCoV-19/India/T gccaagctttgttaaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttg
+hCoV-19/India/K gccaagctttgttaaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttg
+hCoV-19/India/K gccaagctttgttaaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttg
+                ************************************************************
+
+hCoV-19/India/T gtgtactgacattagataatcaagatctcaatggtaactggtatgatttcggtgatttca
+hCoV-19/India/K gtgtactgacattagataatcaagatctcaatggtaactggtatgatttcggtgatttca
+hCoV-19/India/K gtgtactgacattagataatcaagatctcaatggtaactggtatgatttcggtgatttca
+                ************************************************************
+
+hCoV-19/India/T tacaaaccacgccaggtagtggagttcctgttgtagattcttattattcattgttaatgc
+hCoV-19/India/K tacaaaccacgccaggtagtggagttcctgttgtagattcttattattcattgttaatgc
+hCoV-19/India/K tacaaaccacgccaggtagtggagttcctgttgtagattcttattattcattgttaatgc
+                ************************************************************
+
+hCoV-19/India/T ctatattaaccttgaccagggctttaactgcagagtcacatgttgacactgacttaacaa
+hCoV-19/India/K ctatattaaccttgaccagggctttaactgcagagtcacatgttgacactgacttaacaa
+hCoV-19/India/K ctatattaaccttgaccagggctttaactgcagagtcacatgttgacactgacttaacaa
+                ************************************************************
+
+hCoV-19/India/T agccttacattaagtgggatttgttaaaatatgacttcacggaagagaggttaaaactct
+hCoV-19/India/K agccttacattaagtgggatttgttaaaatatgatttcacggaagagaggttaaaactct
+hCoV-19/India/K agccttacattaagtgggatttgttaaaatatgacttcacggaagagaggttaaaactct
+                **********************************.*************************
+
+hCoV-19/India/T ttgaccgttattttaaatattgggatcagacataccacccaaattgtgttaactgtttgg
+hCoV-19/India/K ttgaccgttattttaaatattgggatcagacataccacccaaattgtgttaactgtttgg
+hCoV-19/India/K ttgaccgttattttaaatattgggatcagacataccacccaaattgtgttaactgtttgg
+                ************************************************************
+
+hCoV-19/India/T atgacagatgcattctgcattgtgcaaactttaatgttttattctctacagtgttcccac
+hCoV-19/India/K atgacagatgcattctgcattgtgcaaactttaatgttttattctctacagtgttcccac
+hCoV-19/India/K atgacagatgcattctgcattgtgcaaactttaatgttttattctctacagtgttcccac
+                ************************************************************
+
+hCoV-19/India/T ttacaagttttggaccactagtgagaaaaatatttgttgatggtgttccatttgtagttt
+hCoV-19/India/K ttacaagttttggaccactagtgagaaaaatatttgttgatggtgttccatttgtagttt
+hCoV-19/India/K ttacaagttttggaccactagtgagaaaaatatttgttgatggtgttccatttgtagttt
+                ************************************************************
+
+hCoV-19/India/T caactggataccacttcagagagctaggtgttgtacataatcaggatgtaaacttacata
+hCoV-19/India/K caactggataccacttcagagagctaggtgttgtacataatcaggatgtaaacttacata
+hCoV-19/India/K caactggataccacttcagagagctaggtgttgtacataatcaggatgtaaacttacata
+                ************************************************************
+
+hCoV-19/India/T gctctagacttagttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctg
+hCoV-19/India/K gctctagacttagttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctg
+hCoV-19/India/K gctctagacttagttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctg
+                ************************************************************
+
+hCoV-19/India/T cttctggtaatctattactagataaacgcactacgtgcttttcagtagctgcacttacta
+hCoV-19/India/K cttctggtaatctattactagataaacgcactacgtgcttttcagtagctgcacttacta
+hCoV-19/India/K cttctggtaatctattactagataaacgcactacgtgcttttcagtagctgcacttacta
+                ************************************************************
+
+hCoV-19/India/T acaatgttgcttttcaaactgtcaaacccggtaattttaacaaagacttctatgactttg
+hCoV-19/India/K acaatgttgcttttcaaactgtcaaacccggtaattttaacaaagacttctatgactttg
+hCoV-19/India/K acaatgttgcttttcaaactgtcaaacccggtaattttaacaaagacttctatgactttg
+                ************************************************************
+
+hCoV-19/India/T ctgtgtctaagggtttctttaaggaaggaagttctgttgaattaaaacacttcttctttg
+hCoV-19/India/K ctgtgtctaagggtttctttaaggaaggaagttctgttgaattaaaacacttcttctttg
+hCoV-19/India/K ctgtgtctaagggtttctttaaggaaggaagttctgttgaattaaaacacttcttctttg
+                ************************************************************
+
+hCoV-19/India/T ctcaggatggtaatgctgctatcagcgattatgactactatcgttataatctaccaacaa
+hCoV-19/India/K ctcaggatggtaatgctgctatcagcgattatgactactatcgttataatctaccaacaa
+hCoV-19/India/K ctcaggatggtaatgctgctatcagcgattatgactactatcgttataatctaccaacaa
+                ************************************************************
+
+hCoV-19/India/T tgtgtgatatcagacaactactatttgtagttgaagttgttgataagtactttgattgtt
+hCoV-19/India/K tgtgtgatatcagacaactactatttgtagttgaagttgttgataagtactttgattgtt
+hCoV-19/India/K tgtgtgatatcagacaactactatttgtagttgaagttgttgataagtactttgattgtt
+                ************************************************************
+
+hCoV-19/India/T acgatggtggctgtattaatgctaaccaagtcatcgtcaacaacctagacaaatcagctg
+hCoV-19/India/K acgatggtggctgtattaatgctaaccaagtcatcgtcaacaacctagacaaatcagctg
+hCoV-19/India/K acgatggtggctgtattaatgctaaccaagtcatcgtcaacaacctagacaaatcagctg
+                ************************************************************
+
+hCoV-19/India/T gttttccatttaataaatggggtaaggctagactttattatgattcaatgagttatgagg
+hCoV-19/India/K gttttccatttaataaatggggtaaggctagactttattatgattcaatgagttatgagg
+hCoV-19/India/K gttttccatttaataaatggggtaaggctagactttattatgattcaatgagttatgagg
+                ************************************************************
+
+hCoV-19/India/T atcaagatgcacttttcgcatatacaaaacgtaatgtcatccctactataactcaaatga
+hCoV-19/India/K atcaagatgcacttttcgcatatacaaaacgtaatgtcatccctactataactcaaatga
+hCoV-19/India/K atcaagatgcacttttcgcatatacaaaacgtaatgtcatccctactataactcaaatga
+                ************************************************************
+
+hCoV-19/India/T atcttaagtatgccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatct
+hCoV-19/India/K atcttaagtatgccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatct
+hCoV-19/India/K atcttaagtatgccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatct
+                ************************************************************
+
+hCoV-19/India/T gtagtactatgaccaatagacagtttcatcaaaaattattgaaatcaatagccgccacta
+hCoV-19/India/K gtagtactatgaccaatagacagtttcatcaaaaattattgaaatcaatagccgccacta
+hCoV-19/India/K gtagtactatgaccaatagacagtttcatcaaaaattattgaaatcaatagccgccacta
+                ************************************************************
+
+hCoV-19/India/T gaggagctactgtagtaattggaacaagcaaattctatggtggttggcacaacatgttaa
+hCoV-19/India/K gaggagctactgtagtaattggaacaagcaaattctatggtggttggcacaacatgttaa
+hCoV-19/India/K gaggagctactgtagtaattggaacaagcaaattctatggtggttggcacaacatgttaa
+                ************************************************************
+
+hCoV-19/India/T aaactgtttatagtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtg
+hCoV-19/India/K aaactgtttatagtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtg
+hCoV-19/India/K aaactgtttatagtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtg
+                ************************************************************
+
+hCoV-19/India/T atagagccatgcctaacatgcttagaattatggcctcacttgttcttgctcgcaaacata
+hCoV-19/India/K atagagccatgcctaacatgcttagaattatggcctcacttgttcttgctcgcaaacata
+hCoV-19/India/K atagagccatgcctaacatgcttagaattatggcctcacttgttcttgctcgcaaacata
+                ************************************************************
+
+hCoV-19/India/T caacgtgttgtagcttgtcacaccgtttctatagattagctaatgagtgtgctcaagtat
+hCoV-19/India/K caacgtgttgtagcttgtcacaccgtttctatagattagctaatgagtgtgctcaagtat
+hCoV-19/India/K caacgtgttgtagcttgtcacaccgtttctatagattagctaatgagtgtgctcaagtat
+                ************************************************************
+
+hCoV-19/India/T tgagtgaaatggtcatgtgtggcagttcactatatgttaaaccaggtggaacctcatcag
+hCoV-19/India/K tgagtgaaatggtcatgtgtggcagttcactatatgttaaaccaggtggaacctcatcag
+hCoV-19/India/K tgagtgaaatggtcatgtgtggcggttcactatatgttaaaccaggtggaacctcatcag
+                ***********************.************************************
+
+hCoV-19/India/T gagatgccacaactgcttatgctaatagtgtttttaacatttgtcaagctgtcacggcca
+hCoV-19/India/K gagatgccacaactgcttatgctaatagtgtttttaacatttgtcaagctgtcacggcca
+hCoV-19/India/K gagatgccacaactgcttatgctaatagtgtttttaacatttgtcaagctgtcacggcca
+                ************************************************************
+
+hCoV-19/India/T atgttaatgcacttttatctactgatggtaacaaaattgccgataagtatgtccgcaatt
+hCoV-19/India/K atgttaatgcacttttatctactgatggtaacaaaattgccgataagtatgtccgcaatt
+hCoV-19/India/K atgttaatgcacttttatctactgatggtaacaaaattgccgataagtatgtccgcaatt
+                ************************************************************
+
+hCoV-19/India/T tacaacacagactttatgagtgtctctatagaaatagagatgttgacacagactttgtga
+hCoV-19/India/K tacaacacagactttatgagtgtctctatagaaatagagatgttgacacagactttgtga
+hCoV-19/India/K tacaacacagactttatgagtgtctctatagaaatagagatgttgacacagactttgtga
+                ************************************************************
+
+hCoV-19/India/T atgagttttacgcatatttgcgtaaacatttctcaatgatgatactctctgacgatgctg
+hCoV-19/India/K atgagttttacgcatatttgcgtaaacatttctcaatgatgatactctctgacgatgctg
+hCoV-19/India/K atgagttttacgcatatttgcgtaaacatttctcaatgatgatactctctgacgatgctg
+                ************************************************************
+
+hCoV-19/India/T ttgtgtgtttcaatagcacttatgcatctcaaggtctagtggctagcataaagaacttta
+hCoV-19/India/K ttgtgtgtttcaatagcacttatgcatctcaaggtctagtggctagcataaagaacttta
+hCoV-19/India/K ttgtgtgtttcaatagcacttatgcatctcaaggtctagtggctagcataaagaacttta
+                ************************************************************
+
+hCoV-19/India/T agtcagttctttattatcaaaacaatgtttttatgtctgaagcaaaatgttggactgaga
+hCoV-19/India/K agtcagttctttattatcaaaacaatgtttttatgtctgaagcaaaatgttggactgaga
+hCoV-19/India/K agtcagttctttattatcaaaacaatgtttttatgtctgaagcaaaatgttggactgaga
+                ************************************************************
+
+hCoV-19/India/T ctgaccttactaaaggacctcatgaattttgctctcaacatacaatgctagttaaacagg
+hCoV-19/India/K ctgaccttactaaaggacctcatgaattttgctctcaacatacaatgctagttaaacagg
+hCoV-19/India/K ctgaccttactaaaggacctcatgaattttgctctcaacatacaatgctagttaaacagg
+                ************************************************************
+
+hCoV-19/India/T gtgatgattatgtgtaccttccttacccagatccatcaagaatcctaggggccggctgtt
+hCoV-19/India/K gttatgattatgtgtaccttccttacccagatccatcaagaatcctaggggccggctgtt
+hCoV-19/India/K gtgatgattatgtgtaccttccttacccagatccatcaagaatcctaggggccggctgtt
+                ** *********************************************************
+
+hCoV-19/India/T ttgtagatgatatcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttag
+hCoV-19/India/K ttgtagatgatatcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttag
+hCoV-19/India/K ttgtagatgatatcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttag
+                ************************************************************
+
+hCoV-19/India/T ctatagatgcttacccacttactaaacatcctaatcaggagtatgctgatgtctttcatt
+hCoV-19/India/K ctatagatgcttacccacttactaaacatcctaatcaggagtatgctgatgtctttcatt
+hCoV-19/India/K ctatagatgcttacccacttactaaacatcctaatcaggagtatgctgatgtctttcatt
+                ************************************************************
+
+hCoV-19/India/T tgtacttacaatacataagaaagctacatgatgagttaacaggacacatgttagacatgt
+hCoV-19/India/K tgtacttacaatacataagaaagctacatgatgagttaacaggacacatgttagacatgt
+hCoV-19/India/K tgtacttacaatacataagaaagctacatgatgagttaacaggacacatgttagacatgt
+                ************************************************************
+
+hCoV-19/India/T attctgttatgcttactaatgataacacttcaaggtattgggaacctgagttttatgagg
+hCoV-19/India/K attctgttatgcttactaatgataacacttcaaggtattgggaacctgagttttatgagg
+hCoV-19/India/K attctgttatgcttactaatgataacacttcaaggtattgggaacctgagttttatgagg
+                ************************************************************
+
+hCoV-19/India/T ctatgtacacaccgcatacagtcttacaggctgttggggcttgtgttctttgcaattcac
+hCoV-19/India/K ctatgtacacaccgcatacagtcttacaggctgttggggcttgtgttctttgcaattcac
+hCoV-19/India/K ctatgtacacaccgcatacagtcttacaggctgttggggcttgtgttctttgcaattcac
+                ************************************************************
+
+hCoV-19/India/T agacttcattaagatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgtt
+hCoV-19/India/K agacttcattaagatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgtt
+hCoV-19/India/K agacttcattaagatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgtt
+                ************************************************************
+
+hCoV-19/India/T acgaccatgtcatatcaacatcacataaattagtcttgtctgttaatccgtatgtttgca
+hCoV-19/India/K acgaccatgtcatatcaacatcacataaattagtcttgtctgttaatccgtatgtttgca
+hCoV-19/India/K acgaccatgtcatatcaacatcacataaattagtcttgtctgttaatccgtatgtttgca
+                ************************************************************
+
+hCoV-19/India/T atgctccaggttgtgatgtcacagatgtgactcaactttacttaggaggtatgagctatt
+hCoV-19/India/K atgctccaggttgtgatgtcacagatgtgactcaactttacttaggaggtatgagctatt
+hCoV-19/India/K atgctccaggttgtgatgtcacagatgtgactcaactttacttaggaggtatgagctatt
+                ************************************************************
+
+hCoV-19/India/T attgtaaatcacataaactacccattagttttccattgtgtgctaatggacaagtttttg
+hCoV-19/India/K attgtaaatcacataaactacccattagttttccattgtgtgctaatggacaagtttttg
+hCoV-19/India/K attgtaaatcacataaaccacccattagttttccattgtgtgctaatggacaagtttttg
+                ******************.*****************************************
+
+hCoV-19/India/T gtttatataaaaatacatgtgttggtagcgataatgttactgactttaatgcaattgcaa
+hCoV-19/India/K gtttatataaaaatacatgtgttggtagcgataatgttactgactttaatgcaattgcaa
+hCoV-19/India/K gtttatataaaaatacatgtgttggtagcgataatgttactgactttaatgcaattgcaa
+                ************************************************************
+
+hCoV-19/India/T catgtgactggacaaatgctggtgattacattttagctaacacctgtactgaaagactca
+hCoV-19/India/K catgtgactggacaaatgctggtgattacattttagctaacacctgtactgaaagactca
+hCoV-19/India/K catgtgactggacaaatgctggtgattacattttagctaacacctgtactgaaagactca
+                ************************************************************
+
+hCoV-19/India/T agctttttgcagcagaaacgctcaaagctactgaggagacatttaaactgtcttatggta
+hCoV-19/India/K agctttttgcagcagaaacgctcaaagctactgaggagacatttaaactgtcttatggta
+hCoV-19/India/K agctttttgcagcagaaacgctcaaagctactgaggagacatttaaactgtcttatggta
+                ************************************************************
+
+hCoV-19/India/T ttgctactgtacgtgaagtgctgtctgacagagaattacatctttcatgggaagttggta
+hCoV-19/India/K ttgctactgtacgtgaagtgctgtctgacagagaattacatctttcatgggaagttggta
+hCoV-19/India/K ttgctactgtacgtgaagtgctgtctgacagagaattacatctttcatgggaagttggta
+                ************************************************************
+
+hCoV-19/India/T aacctagaccaccacttaaccgaaattatgtctttactggttatcgtgtaactaaaaaca
+hCoV-19/India/K aacctagaccaccacttaaccgaaattatgtctttactggttatcgtgtaactaaaaaca
+hCoV-19/India/K aacctagaccaccacttaaccgaaattatgtctttactggttatcgtgtaactaaaaaca
+                ************************************************************
+
+hCoV-19/India/T gtaaagtacaaataggagagtacacctttgaaaaaggtgactatggtgatgctgttgttt
+hCoV-19/India/K gtaaagtacaaataggagagtacacctttgaaaaaggtgactatggtgatgctgttgttt
+hCoV-19/India/K gtaaagtacaaataggagagtacacctttgaaaaaggtgactatggtgatgctgttgttt
+                ************************************************************
+
+hCoV-19/India/T accgaggtacaacaacttacaaattaaatgttggtgattattttgtgctgacatcacata
+hCoV-19/India/K accgaggtacaacaacttacaaattaaatgttggtgattattttgtgctgacatcacata
+hCoV-19/India/K accgaggtacaacaacttacaaattaaatgttggtgattattttgtgctgacatcacata
+                ************************************************************
+
+hCoV-19/India/T cagtaatgccattaagtgcacctacactagtgccacaagagcactatgttagaattactg
+hCoV-19/India/K cagtaatgccattaagtgcacctacactagtgccacaagagcactatgttagaattactg
+hCoV-19/India/K cagtaatgccattaagtgcacctacactagtgccacaagagcactatgttagaattactg
+                ************************************************************
+
+hCoV-19/India/T gcttatacccaacactcaatatctcagatgagttttctagcaatgttgcaaattatcaaa
+hCoV-19/India/K gcttatacccaacactcaatatctcagatgagttttctagcaatgttgcaaattatcaaa
+hCoV-19/India/K gcttatacccaacactcaatatctcagatgagttttctagcaatgttgcaaattatcaaa
+                ************************************************************
+
+hCoV-19/India/T aggttggtatgcaaaagtattctacactccagggaccacctggtactggtaagagtcatt
+hCoV-19/India/K aggttggtatgcaaaagtattctacactccagggaccacctggtactggtaagagtcatt
+hCoV-19/India/K aggttggtatgcaaaagtattctacactccagggaccacctggtactggtaagagtcatt
+                ************************************************************
+
+hCoV-19/India/T ttgctattggcctagctctctactacccttctgctcgcatagtgtatacagcttgctctc
+hCoV-19/India/K ttgctattggcctagctctctactacccttctgctcgcatagtgtatacagcttgctctc
+hCoV-19/India/K ttgctattggcctagctctctactacccttctgctcgcatagtgtatacagcttgctctc
+                ************************************************************
+
+hCoV-19/India/T atgccgctgttgatgcactatgtgagaaggcattaaaatatttgcctatagataaatgta
+hCoV-19/India/K atgccgctgttgatgcactatgtgagaaggcattaaaatatttgcctatagataaatgta
+hCoV-19/India/K atgccgctgttgatgcactatgtgagaaggcattaaaatatttgcctatagataaatgta
+                ************************************************************
+
+hCoV-19/India/T gtagaattatacctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaa
+hCoV-19/India/K gtagaattatacctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaa
+hCoV-19/India/K gtagaattatacctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaa
+                ************************************************************
+
+hCoV-19/India/T cattagaacagtatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatag
+hCoV-19/India/K cattagaacagtatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatag
+hCoV-19/India/K cattagaacagtatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatag
+                ************************************************************
+
+hCoV-19/India/T ttgtctttgatgaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagat
+hCoV-19/India/K ttgtctttgatgaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagat
+hCoV-19/India/K ttgtctttgatgaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagat
+                ************************************************************
+
+hCoV-19/India/T tacgtgctaagcactatgtgtacattggcgaccctgctcaattacctgcaccacgcacat
+hCoV-19/India/K tacgtgctaagcactatgtgtacattggcgaccctgctcaattacctgcaccacgcacat
+hCoV-19/India/K tacgtgctaagcactatgtgtacattggcgaccctgctcaattacctgcaccacgcacat
+                ************************************************************
+
+hCoV-19/India/T tgctaactaagggcacactagaaccagaatatttcaattcagtgtgtagacttatgaaaa
+hCoV-19/India/K tgctaactaagggcacactagaaccagaatatttcaattcagtgtgtagacttatgaaaa
+hCoV-19/India/K tgctaactaagggcacactagaaccagagtatttcaattcagtgtgtagacttatgaaaa
+                ****************************.*******************************
+
+hCoV-19/India/T ctataggtccagacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgaca
+hCoV-19/India/K ctataggtccagacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgaca
+hCoV-19/India/K ctataggtccagacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgaca
+                ************************************************************
+
+hCoV-19/India/T ctgtgagtgctttggtttatgataataagcttaaagcacataaagacaaatcagctcaat
+hCoV-19/India/K ctgtgagtgctttggtttatgataataagcttaaagcacataaagacaaatcagctcaat
+hCoV-19/India/K ctgtgagtgctttggtttatgataataagcttaaagcacataaagacaaatcagctcaat
+                ************************************************************
+
+hCoV-19/India/T gctttaaaatgttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggc
+hCoV-19/India/K gctttaaaatgttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggc
+hCoV-19/India/K gctttaaaatgttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggc
+                ************************************************************
+
+hCoV-19/India/T cacaaataggcgtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtct
+hCoV-19/India/K cacaaataggcgtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtct
+hCoV-19/India/K cacaaataggcgtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtct
+                ************************************************************
+
+hCoV-19/India/T ttatttcaccttataattcacagaatgctgtagcctcaaagattttgggactaccaactc
+hCoV-19/India/K ttatttcaccttataattcacagaatgctgtagcctcaaagattttgggactaccaactc
+hCoV-19/India/K ttatttcaccttataattcacagaatgctgtagcctcaaagattttgggactaccanctc
+                ******************************************************** ***
+
+hCoV-19/India/T aaactgttgattcatcacagggctcagaatatgactatgtcatattcactcaaaccactg
+hCoV-19/India/K aaactgttgattcatcacagggctcagaatatgactatgtcatattcactcaaaccactg
+hCoV-19/India/K aaactgttgattcatcacagggctcagaatatgactatgtcatattcactcaaaccactg
+                ************************************************************
+
+hCoV-19/India/T aaacagctcactcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtag
+hCoV-19/India/K aaacagctcactcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtag
+hCoV-19/India/K aaacagctcactcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtag
+                ************************************************************
+
+hCoV-19/India/T gcatactttgcataatgtctgatagagacctttatgacaagttgcaatttacaagtcttg
+hCoV-19/India/K gcatactttgcataatgtctgatagagacctttatgacaagttgcaatttacaagtcttg
+hCoV-19/India/K gcatactttgcataatgtctgatagagacctttatgacaagttgcaatttacaagtcttg
+                ************************************************************
+
+hCoV-19/India/T aaattccacgtaggaatgtggcaactttacaagctgaaaatgtaacaggactctttaaag
+hCoV-19/India/K aaattccacgtaggaatgtggcaactttacaagctgaaaatgtaacaggactctttaaag
+hCoV-19/India/K aaattccacgtaggaatgtggcaactttacaagctgaaaatgtaacaggactctttaaag
+                ************************************************************
+
+hCoV-19/India/T attgtagtaaggtaatcactgggttacatcctacacaggcacctacacacctcagtgttg
+hCoV-19/India/K attgtagtaaggtaatcactgggttacatcctacacaggcacctacacacctcagtgttg
+hCoV-19/India/K attgtagtaaggtaatcactgggttacatcctacacaggcacctacacacctcagtgttg
+                ************************************************************
+
+hCoV-19/India/T acactaaattcaaaactgaaggtttatgtgttgacatacctggcatacctaaggacatga
+hCoV-19/India/K acactaaattcaaaactgaaggtttatgtgttgacatacctggcatacctaaggacatga
+hCoV-19/India/K acactaaattcaaaactgaaggtttatgtgttgacatacctggcatacctaaggacatga
+                ************************************************************
+
+hCoV-19/India/T cctatagaagactcatctctatgatgggttttaaaatgaattatcaagttaatggttacc
+hCoV-19/India/K cctatagaagactcatctctatgatgggttttaaaatgaattatcaagttaatggttacc
+hCoV-19/India/K cctatagaagactcatctctatgatgggttttaaaatgaattatcaagttaatggttacc
+                ************************************************************
+
+hCoV-19/India/T ctaacatgtttatcacccgcgaagaagctataagacatgtacgttcatggattggcttcg
+hCoV-19/India/K ctaacatgtttatcacccgcgaagaagctataagacatgtacgtgcatggattggcttcg
+hCoV-19/India/K ctaacatgtttatcacccgcgaagaagctataagacatgtacgtgcatggattggcttcg
+                ******************************************** ***************
+
+hCoV-19/India/T atgtcgaggggtgtcatgctactagagaagctgttggtaccaatttacctttacagctag
+hCoV-19/India/K atgtcgaggggtgtcatgctactagagaagctgttggtaccaatttacctttacagctag
+hCoV-19/India/K atgtcgaggggtgtcatgctactagagaagctgttggtaccaatttacctttacagctag
+                ************************************************************
+
+hCoV-19/India/T gtttttctacaggtgttaacctagttgctgtacctacaggttatgttgatacacctaata
+hCoV-19/India/K gtttttctacaggtgttaacctagttgctgtacctacaggttatgttgatacacctaata
+hCoV-19/India/K gtttttctacaggtgttaacctagttgctgtacctacaggttatgttgatacacctaata
+                ************************************************************
+
+hCoV-19/India/T atacagatttttccagagttagtgctaaaccaccgcctggagatcaatttaaacacctca
+hCoV-19/India/K atacagatttttccagagttagtgctaaaccaccgcctggagatcaatttaaacacctca
+hCoV-19/India/K atacagatttttccagagttagtgctaaaccaccgcctggagatcaatttaaacacctca
+                ************************************************************
+
+hCoV-19/India/T taccacttatgtacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgt
+hCoV-19/India/K taccacttatgtacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgt
+hCoV-19/India/K taccacttatgtacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgt
+                ************************************************************
+
+hCoV-19/India/T taagtgacacacttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggct
+hCoV-19/India/K taagtgacacacttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggct
+hCoV-19/India/K taagtgacacacttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggct
+                ************************************************************
+
+hCoV-19/India/T ttgagttgacatctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctat
+hCoV-19/India/K ttgagttgacatctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctat
+hCoV-19/India/K ttgagttgacatctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctat
+                ************************************************************
+
+hCoV-19/India/T gtgatagacgtgccacatgcttttccactgcttcagacacttatgcctgttggcatcatt
+hCoV-19/India/K gtgatagacgtgccacatgcttttccactgcttcagacacttatgcctgttggcatcatt
+hCoV-19/India/K gtgatagacgtgccacatgcttttccactgcttcagacacttatgcctgttggcatcatt
+                ************************************************************
+
+hCoV-19/India/T ctattggatttgattacgtctataatccgtttatgattgatgttcaacaatggggtttta
+hCoV-19/India/K ctattggatttgattacgtctataatccgtttatgattgatgttcaacaatggggtttta
+hCoV-19/India/K ctattggatttgattacgtctataatccgtttatgattgatgttcaacaatggggtttta
+                ************************************************************
+
+hCoV-19/India/T caggtaacctacaaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtag
+hCoV-19/India/K caggtaacctacaaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtag
+hCoV-19/India/K caggtaacctacaaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtag
+                ************************************************************
+
+hCoV-19/India/T ctagttgtgatgcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtg
+hCoV-19/India/K ctagttgtgatgcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtg
+hCoV-19/India/K ctagttgtgatgcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtg
+                ************************************************************
+
+hCoV-19/India/T ttgactggactattgaatatcctataattggtgatgaactgaagattaatgcggcttgta
+hCoV-19/India/K ttgactggactattgaatatcctataattggtgatgaactgaagattaatgcggcttgta
+hCoV-19/India/K ttgactggactattgaatatcctataattggtgatgaactgaagattaatgcggcttgta
+                ************************************************************
+
+hCoV-19/India/T gaaaggttcaacacatggttgttaaagctgcattattagcagacaaattcccagttcttc
+hCoV-19/India/K gaaaggttcaacacatggttgttaaagctgcattattagcagacaaattcccagttcttc
+hCoV-19/India/K gaaaggttcaacacatggttgttaaagctgcattattagcagacaaattcccagttcttc
+                ************************************************************
+
+hCoV-19/India/T acgacattggtaaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagt
+hCoV-19/India/K acgacattggtaaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagt
+hCoV-19/India/K acgacattggtaaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagt
+                ************************************************************
+
+hCoV-19/India/T tctatgatgcacagccttgtagtgacaaagcttataaaatagaagaattattctattctt
+hCoV-19/India/K tctatgatgcacagccttgtagtgacaaagcttataaaatagaagaattattctattctt
+hCoV-19/India/K tctatgatgcacagccttgtagtgacaaagcttataaaatagaagaattattctattctt
+                ************************************************************
+
+hCoV-19/India/T atgccacacattctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcg
+hCoV-19/India/K atgccacacattctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcg
+hCoV-19/India/K atgccacacattctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcg
+                ************************************************************
+
+hCoV-19/India/T atagatatcctgttaattccattgtttgtagatttgacactagagtgctatctaacctta
+hCoV-19/India/K atagatatcctgctaattccattgtttgtagatttgacactagagtgctatctaacctta
+hCoV-19/India/K atagatatcctgctaattccattgtttgtagatttgacactagagtgctatctaacctta
+                ************.***********************************************
+
+hCoV-19/India/T acttgcctggttgtgatggtggcagtttgtatgtaaataaacatgcattccacacaccag
+hCoV-19/India/K acttgcctggttgtgatggtggcagtttgtatgtaaataaacatgcattccacacaccag
+hCoV-19/India/K acttgcctggttgtgatggtggcagtttgtatgtaaataaacatgcattccacacaccag
+                ************************************************************
+
+hCoV-19/India/T cttttgataaaagtgcttttgttaatttaaaacaattaccatttttctattactctgaca
+hCoV-19/India/K cttttgataaaagtgcttttgttaatttaaaacaattaccatttttctattactctgaca
+hCoV-19/India/K cttttgataaaagtgcttttgttaatttaaaacaattaccatttttctattactctgaca
+                ************************************************************
+
+hCoV-19/India/T gtccatgtgagtctcatggaaaacaagtagtgtcagatatagattatgtaccactaaagt
+hCoV-19/India/K gtccatgtgagtctcatggaaaacaagtagtgtcagatatagattatgtaccactaaagt
+hCoV-19/India/K gtccatgtgagtctcatggaaaacaagtagtgtcagatatagattatgtaccactaaagt
+                ************************************************************
+
+hCoV-19/India/T ctgctacgtgtataacacgttgcaatttaggtggtgctgtctgtagacatcatgctaatg
+hCoV-19/India/K ctgctacgtgtataacacgttgcaatttaggtggtgctgtctgtagacatcatgctaatg
+hCoV-19/India/K ctgctacgtgtataacacgttgcaatttaggtggtgctgtctgtagacatcatgctaatg
+                ************************************************************
+
+hCoV-19/India/T agtacagattgtatctcgatgcttataacatgatgatctcagctggctttagcttgtggg
+hCoV-19/India/K agtacagattgtatctcgatgcttataacatgatgatctcagctggctttagcttgtggg
+hCoV-19/India/K agtacagattgtatctcgatgcttataacatgatgatctcagctggctttagcttgtggg
+                ************************************************************
+
+hCoV-19/India/T tttacaaacaatttgatacttataacctctggaacacttttacaagacttcagagtttag
+hCoV-19/India/K tttacaaacaatttgatacttataacctctggaacacttttacaagacttcagagtttag
+hCoV-19/India/K tttacaaacaatttgatacttataacctctggaacacttttacaagacttcagagtttag
+                ************************************************************
+
+hCoV-19/India/T aaaatgtggcttttaatgttgtaaataagggacactttgatggacaacagggtgaagtac
+hCoV-19/India/K aaaatgtggcttttaatgttgtaaataagggacactttgatggacaacagggtgaagtac
+hCoV-19/India/K aaaatgtggcttttaatgttgtaaataagggacactttgatggacaacagggtgaagtac
+                ************************************************************
+
+hCoV-19/India/T cagtttctatcattaataacactgtttacacaaaagttgatggtgttgatgtagaattgt
+hCoV-19/India/K cagtttctatcattaataacactgtttacacaaaagttgatggtgttgatgtagaattgt
+hCoV-19/India/K cagtttctatcattaataacactgtttacacaaaagttgatggtgttgatgtagaattgt
+                ************************************************************
+
+hCoV-19/India/T ttgaaaataaaacaacattacctgttaatgtagcatttgagctttgggctaagcgcaaca
+hCoV-19/India/K ttgaaaataaaacaacattacctgttaatgtagcatttgagctttgggctaagcgcaaca
+hCoV-19/India/K ttgaaaataaaacaacattacctgttaatgtagcatttgagctttgggctaagcgcaaca
+                ************************************************************
+
+hCoV-19/India/T ttaaaccagtaccagaggtgaaaatactcaataatttgggtgtggacattgctgctaata
+hCoV-19/India/K ttaaaccagtaccagaggtgaaaatactcaataatttgggtgtggacattgctgctaata
+hCoV-19/India/K ttaaaccagtaccagaggtgaaaatactcaataatttgggtgtggacattgctgctaata
+                ************************************************************
+
+hCoV-19/India/T ctgtgatctgggactacaaaagagatgctccagcacatatatctactattggtgtttgtt
+hCoV-19/India/K ctgtgatctgggactacaaaagagatgctccagcacatatatctactattggtgtttgtt
+hCoV-19/India/K ctgtgatctgggactacaaaagagatgctccagcacatatatctactattggtgtttgtt
+                ************************************************************
+
+hCoV-19/India/T ctatgactgacatagccaagaaaccaactgaaacgatttgtgcaccactcactgtctttt
+hCoV-19/India/K ctatgactgacatagccaagaaaccaactgaaacgatttgtgcaccactcactgtctttt
+hCoV-19/India/K ctatgactgacatagccaagaaaccaactgaaacgatttgtgcaccactcactgtctttt
+                ************************************************************
+
+hCoV-19/India/T ttgatggtagagttgatggtcaagtagacttatttagaaatgcccgtaatggtgttctta
+hCoV-19/India/K ttgatggtagagttgatggtcaagtagacttatttagaaatgcccgtaatggtgttctta
+hCoV-19/India/K ttgatggtagagttgatggtcaagtagacttatttagaaatgcccgtaatggtgttctta
+                ************************************************************
+
+hCoV-19/India/T ttacagaaggtagtgttaaaggtttacaaccatctgtaggtcccaaacaagctagtctta
+hCoV-19/India/K ttacagaaggtagtgttaaaggtttacaaccatctgtaggtcccaaacaagctagtctta
+hCoV-19/India/K ttacagaaggtagtgttaaaggtttacaaccatctgtaggtcccaaacaagctagtctta
+                ************************************************************
+
+hCoV-19/India/T atggagtcacattaattggagaagccgtaaaaacacagttcaattattataagaaagttg
+hCoV-19/India/K atggagtcacattaattggagaagccgtaaaaacacagttcaattattataagaaagttg
+hCoV-19/India/K atggagtcacattaattggagaagccgtaaaaacacagttcaattattataagaaagttg
+                ************************************************************
+
+hCoV-19/India/T atggtgttgtccaacaattacctgaaacttactttactcagagtagaaatttacaagaat
+hCoV-19/India/K atggtgttgtccaacaattacctgaaacttactttactcagagtagaaatttacaagaat
+hCoV-19/India/K atggtgttgtccaacaattacctgaaacttactttactcagagtagaaatttacaagaat
+                ************************************************************
+
+hCoV-19/India/T ttaaacccaggagtcaaatggaaattgatttcttagaattagctatggatgaattcattg
+hCoV-19/India/K ttaaacccaggagtcaaatggaaattgatttcttggaattagctatggatgaattcattg
+hCoV-19/India/K ttaaacccaggagtcaaatggaaattgatttcttagaattagctatggatgaattcattg
+                **********************************.*************************
+
+hCoV-19/India/T aacggtataaattagaaggctatgccttcgaacatatcgtttatggagattttagtcata
+hCoV-19/India/K aacggtataaattagaaggctatgccttcgaatatatcgtttatggagattttagtcata
+hCoV-19/India/K aacggtataaattagaaggctatgccttcgaacatatcgtttatggagattttagtcata
+                ********************************.***************************
+
+hCoV-19/India/T gtcagttaggtggtttacatctactgattggactagctaaacgttttaaggaatcacctt
+hCoV-19/India/K gtcagttaggtggtttacatctactgattggactagctaaacgttttaaggaatcacctt
+hCoV-19/India/K gtcagttaggtggtttacatctactgattggactagctaaacgttttagggaatcacctt
+                ************************************************.***********
+
+hCoV-19/India/T ttgaattagaagattttattcctatggacagtacagttaaaaactatttcataacagatg
+hCoV-19/India/K ttgaattagaagattttattcctatggacagtacagttaaaaactatttcataacagatg
+hCoV-19/India/K ttgaattagaagattttattcctatggacagtacagttaaaaactatttcataacagatg
+                ************************************************************
+
+hCoV-19/India/T cgcaaacaggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttg
+hCoV-19/India/K cgcaaacaggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttg
+hCoV-19/India/K cgcaaacaggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttg
+                ************************************************************
+
+hCoV-19/India/T ttgaaataataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattg
+hCoV-19/India/K ttgaaataataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattg
+hCoV-19/India/K ttgaaataataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattg
+                ************************************************************
+
+hCoV-19/India/T actatacagaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacc
+hCoV-19/India/K actatacagaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacc
+hCoV-19/India/K actatacagaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacc
+                ************************************************************
+
+hCoV-19/India/T caaaattacaatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaa
+hCoV-19/India/K caaaattacaatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaa
+hCoV-19/India/K caaaattacaatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaa
+                ************************************************************
+
+hCoV-19/India/T tgcaaagaatgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattac
+hCoV-19/India/K tgcaaagaatgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattac
+hCoV-19/India/K tgcaaagaatgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattac
+                ************************************************************
+
+hCoV-19/India/T ctaaaggcataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacat
+hCoV-19/India/K ctaaaggcataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacat
+hCoV-19/India/K ctaaaggcataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacat
+                ************************************************************
+
+hCoV-19/India/T taacattagctgtaccctataatatgagagttatacattttggtgctggttctgataaag
+hCoV-19/India/K taacattagctgtaccctataatatgagagttatacattttggtgctggttctgataaag
+hCoV-19/India/K taacattagctgtaccctataatatgagagttatacattttggtgctggttctgataaag
+                ************************************************************
+
+hCoV-19/India/T gagttgcaccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcg
+hCoV-19/India/K gagttgcaccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcg
+hCoV-19/India/K gagttgcaccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcg
+                ************************************************************
+
+hCoV-19/India/T attcagatcttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaa
+hCoV-19/India/K attcagatcttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaa
+hCoV-19/India/K attcagatcttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaa
+                ************************************************************
+
+hCoV-19/India/T ctgtacatacagctaataaatgggatctcattattagtgatatgtacgaccctaagacta
+hCoV-19/India/K ctgtacatacagctaataaatgggatctcattattagtgatatgtacgaccctaagacta
+hCoV-19/India/K ctgtacatacagctaataaatgggatctcattattagtgatatgtacgaccctaagacta
+                ************************************************************
+
+hCoV-19/India/T aaaatgttacaaaagaaaatgactctaaagagggttttttcacttacatttgtgggttta
+hCoV-19/India/K aaaatgttacaaaagaaaatgactctaaagagggttttttcacttacatttgtgggttta
+hCoV-19/India/K aaaatgttacaaaagaaaatgactctaaagagggttttttcacttacatttgtgggttta
+                ************************************************************
+
+hCoV-19/India/T tacaacaaaagctagctcttggaggttccgtggctataaagataacagaacattcttgga
+hCoV-19/India/K tacaacaaaagctagctcttggaggttccgtggctataaagataacagaacattcttgga
+hCoV-19/India/K tacaacaaaagctagctcttggaggttccgtggctataaagataacagaacattcttgga
+                ************************************************************
+
+hCoV-19/India/T atgctgatctttataagctcatgggacacttcgcatggtggacagcctttgttactaatg
+hCoV-19/India/K atgctgatctttataagctcatgggacacttcgcatggtggacagcctttgttactaatg
+hCoV-19/India/K atgctgatctttataagctcatgggacacttcgcatggtggacagcctttgttactaatg
+                ************************************************************
+
+hCoV-19/India/T tgaatgcgtcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcg
+hCoV-19/India/K tgaatgcgtcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcg
+hCoV-19/India/K tgaatgcgtcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcg
+                ************************************************************
+
+hCoV-19/India/T aacaaatagatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaa
+hCoV-19/India/K aacaaatagatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaa
+hCoV-19/India/K aacaaatagatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaa
+                ************************************************************
+
+hCoV-19/India/T ttcagttgtcttcctattctttatttgacatgagtaaatttccccttaaattaaggggta
+hCoV-19/India/K ttcagttgtcttcctattctttatttgacatgagtaaatttccccttaaattaaggggta
+hCoV-19/India/K ttcagttgtcttcctattctttatttgacatgagtaaatttccccttaaattaaggggta
+                ************************************************************
+
+hCoV-19/India/T ctgctgttatgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagta
+hCoV-19/India/K ctgctgttatgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagta
+hCoV-19/India/K ctgctgttatgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagta
+                ************************************************************
+
+hCoV-19/India/T aaggtagacttataattagagaaaacaacagagttgttatttctagtgatgttcttgtta
+hCoV-19/India/K aaggtagacttataattagagaaaacaacagagttgttatttctagtgatgttcttgtta
+hCoV-19/India/K aaggtagacttataattagagaaaacaacagagttgttatttctagtgatgttcttgtta
+                ************************************************************
+
+hCoV-19/India/T acaactaaacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgt
+hCoV-19/India/K acaactaaacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgt
+hCoV-19/India/K acaactaaacgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgt
+                ************************************************************
+
+hCoV-19/India/T gttaatcttagaaccagaactcaattaccccctgcatacactaattctttcacacgtggt
+hCoV-19/India/K gttaatcttagaaccagaactcaattaccccctgcatacactaattctttcacacgtggt
+hCoV-19/India/K gttaatcttagaaccagaactcaattaccccctgcatacactaattctttcacacgtggt
+                ************************************************************
+
+hCoV-19/India/T gtttattaccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttc
+hCoV-19/India/K gtttattaccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttc
+hCoV-19/India/K gtttattaccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttc
+                ************************************************************
+
+hCoV-19/India/T ttacctttcttttccaatgttacttggttccatgctatacatgtctctgggaccaatggt
+hCoV-19/India/K ttacctttcttttccaannnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+hCoV-19/India/K ttacctttcttttccaatgttacttggttccatgctatnnnnnnnnnnnnnnnnnnnnnn
+                *****************                                           
+
+hCoV-19/India/T actaagaggtttgataaccctgtcctaccatttaatgatggtgtttattttgcttccatt
+hCoV-19/India/K nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+hCoV-19/India/K nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/India/T gagaagtctaacataataagaggctggatttttggtactactttagattcgaagacccag
+hCoV-19/India/K nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+hCoV-19/India/K nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/India/T tccctacttattgttaataacgctactaatgttgttattaaagtctgtgaatttcaattt
+hCoV-19/India/K nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcaattt
+hCoV-19/India/K nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntcaattt
+                                                                     *******
+
+hCoV-19/India/T tgtaatgatccatttttgggtgtttattaccacaaaaacaacaaaagttggatggaaagt
+hCoV-19/India/K tgtaatgatccatttttgggtgtttattaccacaaaaacaacaaaagttggatggaaagt
+hCoV-19/India/K tgtaatgatccatttttgggtgtttattaccacaaaaacaacaaaagttggatggaaagt
+                ************************************************************
+
+hCoV-19/India/T gagttcagagtttattctagtgcgaataattgcacttttgaatatgtctctcagcctttt
+hCoV-19/India/K gagttcagagtttattctagtgcgaataattgcacttttgaatatgtctctcagcctttt
+hCoV-19/India/K gagttcagagtttattctagtgcgaataattgcacttttgaatatgtctctcagcctttt
+                ************************************************************
+
+hCoV-19/India/T cttatggaccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaag
+hCoV-19/India/K cttatggaccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaag
+hCoV-19/India/K cttatggaccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaag
+                ************************************************************
+
+hCoV-19/India/T aatattgatggttattttaaaatatattctaagcacacgcctattaatttagtgcgtgat
+hCoV-19/India/K aatattgatggttattttaaaatatattctaagcacacgcctattaatttagtgcgtgat
+hCoV-19/India/K aatattgatggttattttaaaatatattctaagcacacgcctattaatttagtgcgtgat
+                ************************************************************
+
+hCoV-19/India/T ctccctcagggtttttcggctttagaaccattggtagatttgccaataggtattaacatc
+hCoV-19/India/K ctccctcagggtttttcggctttagaaccattggtagatttgccaataggtattaacatc
+hCoV-19/India/K ctccctcagggtttttcggctttagaaccattggtagatttgccaataggtattaacatc
+                ************************************************************
+
+hCoV-19/India/T actaggtttcaaactttacttgctttacatagaagttatttgactcctggtgattcttct
+hCoV-19/India/K actaggtttcaaactttacttgctttacatagaagttatttgactcctggtgattcttct
+hCoV-19/India/K actaggtttcaaactttacttgctttacatagaagttatttgactcctggtgattcttct
+                ************************************************************
+
+hCoV-19/India/T tcaggttggacagctggtgctgcagcttattatgtgggttatcttcaacctaggactttt
+hCoV-19/India/K tcaggttggacagctggtgctgcagcttattatgtgggttatcttcaacctaggactttt
+hCoV-19/India/K tcaggttggacagctggtgctgcagcttattatgtgggttatcttcaacctaggactttt
+                ************************************************************
+
+hCoV-19/India/T ctattaaaatataatgaaaatggaaccattacagatgctgtagactgtgcacttgaccct
+hCoV-19/India/K ctattaaaatataatgaaaatggaaccattacagatgctgtagactgtgcacttgaccct
+hCoV-19/India/K ctattaaaatataatgaaaatggaaccattacagatgctgtagactgtgcacttgaccct
+                ************************************************************
+
+hCoV-19/India/T ctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaact
+hCoV-19/India/K ctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaact
+hCoV-19/India/K ctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaact
+                ************************************************************
+
+hCoV-19/India/T tctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaacttg
+hCoV-19/India/K tctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaacttg
+hCoV-19/India/K tctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaacttg
+                ************************************************************
+
+hCoV-19/India/T tgcccttttggtgaagtttttaacgccaccagatttgcatctgtttatgcttggaacagg
+hCoV-19/India/K tgcccttttggtgaagtttttaacgccaccagatttgcatctgtttatgcttggaacagg
+hCoV-19/India/K tgcccttttggtgaagtttttaacgccaccagatttgcatctgtttatgcttggaacagg
+                ************************************************************
+
+hCoV-19/India/T aagagaatcagcaactgtgttgctgattattctgtcctatataattccgcatcattttcc
+hCoV-19/India/K aagagaatcagcaactgtgttgctgattattctgtcctatataattccgcatcattttcc
+hCoV-19/India/K aagagaatcagcaactgtgttgctgattattctgtcctatataattccgcatcattttcc
+                ************************************************************
+
+hCoV-19/India/T acttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgtc
+hCoV-19/India/K acttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgtc
+hCoV-19/India/K acttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgtc
+                ************************************************************
+
+hCoV-19/India/T tatgcagattcatttgtaattagaggtgatgaagtcagacaaatcgctccagggcaaact
+hCoV-19/India/K tatgcagattcatttgtaattagaggtgatgaagtcagacaaatagctccagggcaaact
+hCoV-19/India/K tatgcagattcatttgtaattagaggtgatgaagtcagacaaatcgctccagggcaaact
+                ******************************************** ***************
+
+hCoV-19/India/T ggaaagattgctgattataattataaattaccagatgattttacaggctgcgttatagct
+hCoV-19/India/K ggaaagattgctgattataattataaattaccagatgattttacaggctgcgttatagct
+hCoV-19/India/K ggaaagattgctgattataattataaattaccagatgattttacaggctgcgttatagct
+                ************************************************************
+
+hCoV-19/India/T tggaattctaacaatcttgattctaaggttggtggtaattataattaccggtatagattg
+hCoV-19/India/K tggaattctaacaatcttgattctaaggttggtggtaattataattaccggtatagattg
+hCoV-19/India/K tggaattctaacaatcttgattctaaggttggtggtaattataattaccggtatagattg
+                ************************************************************
+
+hCoV-19/India/T tttaggaagtctaatctcaaaccttttgagagagatatttcaactgaaatctatcaggcc
+hCoV-19/India/K tttaggaagtctaatctcaaaccttttgagagagatatttcaactgaaatctatcaggcc
+hCoV-19/India/K tttaggaagtctaatctcaaaccttttgagagagatatttcaactgaaatctatcaggcc
+                ************************************************************
+
+hCoV-19/India/T ggtagcaaaccttgtaatggtgttgaaggttttaattgttactttcctttacaatcatat
+hCoV-19/India/K ggtagcaaaccttgtaatggtgttgaaggttttaattgttactttcctttacaatcatat
+hCoV-19/India/K ggtagcaaaccttgtaatggtgttgaaggttttaattgttactttcctttacaatcatat
+                ************************************************************
+
+hCoV-19/India/T ggtttccaacccactaatggtgttggttaccaaccatacagagtagtagtactttctttt
+hCoV-19/India/K ggtttccaacccactaatggtgttggttaccaaccatacagagtagtagtactttctttt
+hCoV-19/India/K ggtttccaacccactaatggtgttggttaccaaccatacagagtagtagtactttctttt
+                ************************************************************
+
+hCoV-19/India/T gaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaaa
+hCoV-19/India/K gaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaaa
+hCoV-19/India/K gaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaaa
+                ************************************************************
+
+hCoV-19/India/T aacaaatgtgtcaatttcaacttcaatggtttaacaggcacaggtgttcttactgagtct
+hCoV-19/India/K aacaaatgtgtcaatttcaacttcaatggtttaacaggcacaggtgttcttactgagtct
+hCoV-19/India/K aacaaatgtgtcaatttcaacttcaatggtttaacaggcacaggtgttcttactgagtct
+                ************************************************************
+
+hCoV-19/India/T aacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgct
+hCoV-19/India/K aacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgct
+hCoV-19/India/K aacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgct
+                ************************************************************
+
+hCoV-19/India/T gtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgtc
+hCoV-19/India/K gtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgtc
+hCoV-19/India/K gtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgtc
+                ************************************************************
+
+hCoV-19/India/T agtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgtt
+hCoV-19/India/K agtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgtt
+hCoV-19/India/K agtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgtt
+                ************************************************************
+
+hCoV-19/India/T aactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgtt
+hCoV-19/India/K aactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgtt
+hCoV-19/India/K aactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgtt
+                ************************************************************
+
+hCoV-19/India/T tattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaacat
+hCoV-19/India/K tattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaacat
+hCoV-19/India/K tattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaacat
+                ************************************************************
+
+hCoV-19/India/T gtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatcag
+hCoV-19/India/K gtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatcag
+hCoV-19/India/K gtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatcag
+                ************************************************************
+
+hCoV-19/India/T actcagactaattctcgtcggcgggcacgtagtgtagctagtcaatccatcattgcctac
+hCoV-19/India/K actcagactaattctcgtcggcgggcacgtagtgtagctagtcaatccatcattgcctac
+hCoV-19/India/K actcagactaattctcgtcggcgggcacgtagtgtagctagtcaatccatcattgcctac
+                ************************************************************
+
+hCoV-19/India/T actatgtcacttggtgcagaaaattcagttgcttactctaataactctattgccataccc
+hCoV-19/India/K actatgtcacttggtgcagaaaattcagttgcttactctaataactctattgccataccc
+hCoV-19/India/K actatgtcacttggtgcagaaaattcagttgcttactctaataactctattgccataccc
+                ************************************************************
+
+hCoV-19/India/T acaaattttactattagtgttaccacagaaattctaccagtgtctatgaccaagacatca
+hCoV-19/India/K acaaattttactattagtgttaccacagaaattctaccagtgtctatgaccaagacatca
+hCoV-19/India/K acaaattttactattagtgttaccacagaaattctaccagtgtctatgaccaagacatca
+                ************************************************************
+
+hCoV-19/India/T gtagattgtacaatgtacatttgtggtgattcaactgaatgcagcaatcttttgttgcaa
+hCoV-19/India/K gtagattgtacaatgtacatttgtggtgattcaactgaatgcagcaatcttttgttgcaa
+hCoV-19/India/K gtagattgtacaatgtacatttgtggtgattcaactgaatgcagcaatcttttgttgcaa
+                ************************************************************
+
+hCoV-19/India/T tatggcagtttttgtacacaattaaaccgtgctttaactggaatagctgttgaacaagac
+hCoV-19/India/K tatggcagtttttgtacacaattaaaccgtgctttaactggaatagctgttgaacaagac
+hCoV-19/India/K tatggcagtttttgtacacaattaaaccgtgctttaactggaatagctgttgaacaagac
+                ************************************************************
+
+hCoV-19/India/T aaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaaa
+hCoV-19/India/K aaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaaa
+hCoV-19/India/K aaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaaa
+                ************************************************************
+
+hCoV-19/India/T gattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagagg
+hCoV-19/India/K gattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagagg
+hCoV-19/India/K gattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagagg
+                ************************************************************
+
+hCoV-19/India/T tcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaaa
+hCoV-19/India/K tcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaaa
+hCoV-19/India/K tcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaaa
+                ************************************************************
+
+hCoV-19/India/T caatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagttt
+hCoV-19/India/K caatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagttt
+hCoV-19/India/K caatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagttt
+                ************************************************************
+
+hCoV-19/India/T aacggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttct
+hCoV-19/India/K aacggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttct
+hCoV-19/India/K aacggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttct
+                ************************************************************
+
+hCoV-19/India/T gcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattacaa
+hCoV-19/India/K gcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattacaa
+hCoV-19/India/K gcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattacaa
+                ************************************************************
+
+hCoV-19/India/T ataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgtt
+hCoV-19/India/K ataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgtt
+hCoV-19/India/K ataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgtt
+                ************************************************************
+
+hCoV-19/India/T ctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattcaa
+hCoV-19/India/K ctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattcaa
+hCoV-19/India/K ctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattcaa
+                ************************************************************
+
+hCoV-19/India/T gactcactttcttccacagcaagtgcacttggaaaacttcaaaatgtggtcaaccaaaat
+hCoV-19/India/K gactcactttcttccacagcaagtgcacttggaaaacttcaaaatgtggtcaaccaaaat
+hCoV-19/India/K gactcactttcttccacagcaagtgcacttggaaaacttcaaaatgtggtcaaccaaaat
+                ************************************************************
+
+hCoV-19/India/T gcacaagctttaaacacgcttgttaaacaacttagctccaattttggtgcaatttcaagt
+hCoV-19/India/K gcacaagctttaaacacgcttgttaaacaacttagctccaattttggtgcaatttcaagt
+hCoV-19/India/K gcacaagctttaaacacgcttgttaaacaacttagctccaattttggtgcaatttcaagt
+                ************************************************************
+
+hCoV-19/India/T gttttaaatgatatcctttcacgtcttgacaaagttgaggctgaagtgcaaattgatagg
+hCoV-19/India/K gttttaaatgatatcctttcacgtcttgacaaagttgaggctgaagtgcaaattgatagg
+hCoV-19/India/K gttttaaatgatatcctttcacgtcttgacaaagttgaggctgaagtgcaaattgatagg
+                ************************************************************
+
+hCoV-19/India/T ttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagct
+hCoV-19/India/K ttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagct
+hCoV-19/India/K ttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagct
+                ************************************************************
+
+hCoV-19/India/T gcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgga
+hCoV-19/India/K gcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgga
+hCoV-19/India/K gcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgga
+                ************************************************************
+
+hCoV-19/India/T caatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtca
+hCoV-19/India/K caatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtca
+hCoV-19/India/K caatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtca
+                ************************************************************
+
+hCoV-19/India/T gcacctcatggtgtagtcttcttgcatgtgacttatgtccctgcacaagaaaagaacttc
+hCoV-19/India/K gcacctcatggtgtagttttcttgcatgtgacttatgtccctgcacaagaaaagaacttc
+hCoV-19/India/K gcacctcatggtgtagtcttcttgcatgtgacttatgtccctgcacaagaaaagaacttc
+                *****************.******************************************
+
+hCoV-19/India/T acaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtcttt
+hCoV-19/India/K acaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtcttt
+hCoV-19/India/K acaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtcttt
+                ************************************************************
+
+hCoV-19/India/T gtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcatt
+hCoV-19/India/K gtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcatt
+hCoV-19/India/K gtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcatt
+                ************************************************************
+
+hCoV-19/India/T actacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaac
+hCoV-19/India/K actacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaac
+hCoV-19/India/K actacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaac
+                ************************************************************
+
+hCoV-19/India/T acagtttatgatcctttgcaacctgaattagactcattcaaggaggagttagataaatat
+hCoV-19/India/K acagtttatgatcctttgcaacctgaattagactcattcaaggaggagttagataaatat
+hCoV-19/India/K acagtttatgatcctttgcaacctgaattagactcattcaaggaggagttagataaatat
+                ************************************************************
+
+hCoV-19/India/T tttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttca
+hCoV-19/India/K tttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttca
+hCoV-19/India/K tttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttca
+                ************************************************************
+
+hCoV-19/India/T gttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatgaa
+hCoV-19/India/K gttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatgaa
+hCoV-19/India/K gttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatgaa
+                ************************************************************
+
+hCoV-19/India/T tctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggtac
+hCoV-19/India/K tctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggtac
+hCoV-19/India/K tctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggtac
+                ************************************************************
+
+hCoV-19/India/T atttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttgc
+hCoV-19/India/K atttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttgc
+hCoV-19/India/K atttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttgc
+                ************************************************************
+
+hCoV-19/India/T tgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaaa
+hCoV-19/India/K tgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaaa
+hCoV-19/India/K tgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaaa
+                ************************************************************
+
+hCoV-19/India/T tttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaacg
+hCoV-19/India/K tttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaacg
+hCoV-19/India/K tttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaacg
+                ************************************************************
+
+hCoV-19/India/T aacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggtg
+hCoV-19/India/K aacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggtg
+hCoV-19/India/K aacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggtg
+                ************************************************************
+
+hCoV-19/India/T aaatcaaggatgctactcctttagattttgttcgcgctactgcaacgataccgatacaag
+hCoV-19/India/K aaatcaaggatgctactcctttagattttgttcgcgctactgcaacgataccgatacaag
+hCoV-19/India/K aaatcaaggatgctactcctttagattttgttcgcgctactgcaacgataccgatacaag
+                ************************************************************
+
+hCoV-19/India/T cctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagcg
+hCoV-19/India/K cctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagcg
+hCoV-19/India/K cctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagcg
+                ************************************************************
+
+hCoV-19/India/T cttccaaaatcataaccctcaaaaagagatggcaactagcactctccaagggtgttcact
+hCoV-19/India/K cttccaaaatcataaccctcaaaaagagatggcaactagcactctccaagggtgttcact
+hCoV-19/India/K cttccaaaatcataaccctcaaaaagagatggcaactagcactctccaagggtgttcact
+                ************************************************************
+
+hCoV-19/India/T ttgtttgcaacttgctgttgttgtttctaacagtttactcacaccttttgctcgttgctg
+hCoV-19/India/K ttgtttgcaacttgctgttgttgtttgtaacagtttactcacaccttttgctcgttgctg
+hCoV-19/India/K ttgtttgcaacttgctgttgttgtttgtaacagtttactcacaccttttgctcgttgctg
+                ************************** *********************************
+
+hCoV-19/India/T ctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtataa
+hCoV-19/India/K ctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtataa
+hCoV-19/India/K ctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtataa
+                ************************************************************
+
+hCoV-19/India/T actttgtaagaataataatgaggctttggctttgttggaaatgccgttccaaaaacccat
+hCoV-19/India/K actttgtaagaataataatgaggctttggctttgctggaaatgccgttccaaaaacccat
+hCoV-19/India/K actttgtaagaataataatgaggctttggctttgctggaaatgccgttccaaaaacccat
+                **********************************.*************************
+
+hCoV-19/India/T tactttatgatgccaactattttctttgctggcatactaattgttacgactattgtatac
+hCoV-19/India/K tactttatgatgccaactattttctttgctggcatactaattgttacgactattgtatac
+hCoV-19/India/K tactttatgatgccaactattttctttgctggcatactaattgttacgactattgtatac
+                ************************************************************
+
+hCoV-19/India/T cttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtccta
+hCoV-19/India/K cttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtccta
+hCoV-19/India/K cttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtccta
+                ************************************************************
+
+hCoV-19/India/T tttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaag
+hCoV-19/India/K tttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaag
+hCoV-19/India/K tttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaag
+                ************************************************************
+
+hCoV-19/India/T actgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaat
+hCoV-19/India/K actgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaat
+hCoV-19/India/K actgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaat
+                ************************************************************
+
+hCoV-19/India/T tgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgatg
+hCoV-19/India/K tgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgatg
+hCoV-19/India/K tgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgatg
+                ************************************************************
+
+hCoV-19/India/T agcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatccag
+hCoV-19/India/K agcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatccag
+hCoV-19/India/K agcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatccag
+                ************************************************************
+
+hCoV-19/India/T taatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaag
+hCoV-19/India/K taatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaag
+hCoV-19/India/K taatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaag
+                ************************************************************
+
+hCoV-19/India/T ctgatgagtacgaacttatgtactcattcgtttcggaagagacaggtacgttaatagtta
+hCoV-19/India/K ctgatgagtacgaacttatgtactcattcgtttcggaagagacaggtacgttaatagtta
+hCoV-19/India/K ctgatgagtacgaacttatgtactcattcgtttcggaagagacaggtacgttaatagtta
+                ************************************************************
+
+hCoV-19/India/T atagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcctta
+hCoV-19/India/K atagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcctta
+hCoV-19/India/K atagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcctta
+                ************************************************************
+
+hCoV-19/India/T ctgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacctt
+hCoV-19/India/K ctgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacctt
+hCoV-19/India/K ctgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacctt
+                ************************************************************
+
+hCoV-19/India/T ctttttacgtttactctcgtgttaaaaatctgaattcttctagagttcctgatcttctgg
+hCoV-19/India/K ctttttacgtttactctcgtgttaaaaatctgaattcttctagagttcctgatcttctgg
+hCoV-19/India/K ctttttacgtttactctcgtgttaaaaatctgaattcttctagagttcctgatcttctgg
+                ************************************************************
+
+hCoV-19/India/T tctaaacgaactaaatattatattagtttttctgtttggaactttaattttagccatggc
+hCoV-19/India/K tctaaacgaactaaatattatattagtttttctgtttggaactttaattttagccatggc
+hCoV-19/India/K tctaaacgaactaaatattatattagtttttctgtttggaactttaattttagccatggc
+                ************************************************************
+
+hCoV-19/India/T agattccaacggtactattaccgttgaagagcttaaaaagctccttgaacaatggaacct
+hCoV-19/India/K agattccaacggtactattaccgttgaagagcttaaaaagctccttgaacaatggaacct
+hCoV-19/India/K agattccaacggtactattaccgttgaagagcttaaaaagctccttgaacaatggaacct
+                ************************************************************
+
+hCoV-19/India/T agtaataggtttcctattccttacatggatttgtcttctacaatttgcctatgccaacag
+hCoV-19/India/K agtaataggtttcctattccttacatggatttgtcttctacaatttgcctatgccaacag
+hCoV-19/India/K agtaataggtttcctattccttacatggatttgtcttctacaatttgcctatgccaacag
+                ************************************************************
+
+hCoV-19/India/T gaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaacttt
+hCoV-19/India/K gaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaacttt
+hCoV-19/India/K gaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaacttt
+                ************************************************************
+
+hCoV-19/India/T agcttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgctac
+hCoV-19/India/K agcttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgctac
+hCoV-19/India/K agcttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgctac
+                ************************************************************
+
+hCoV-19/India/T cgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcagact
+hCoV-19/India/K cgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcagact
+hCoV-19/India/K cgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcagact
+                ************************************************************
+
+hCoV-19/India/T gtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaacgt
+hCoV-19/India/K gtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaacgt
+hCoV-19/India/K gtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaacgt
+                ************************************************************
+
+hCoV-19/India/T gccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcggagc
+hCoV-19/India/K gccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcggagc
+hCoV-19/India/K gccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcggagc
+                ************************************************************
+
+hCoV-19/India/T tgtgatccttcgtggacatcttcgtattgctggacaccatctaggacgctgtgacatcaa
+hCoV-19/India/K tgtgatccttcgtggacatcttcgtattgctggacaccatctaggacgctgtgacatcaa
+hCoV-19/India/K tgtgatccttcgtggacatcttcgtattgctggacaccatctaggacgctgtgacatcaa
+                ************************************************************
+
+hCoV-19/India/T ggacctgcctaaagaaatcactgttgctacatcacgaacgctttcttattacaaattggg
+hCoV-19/India/K ggacctgcctaaagaaatcactgttgctacatcacgaacgctttcttattacaaattggg
+hCoV-19/India/K ggacctgcctaaagaaatcactgttgctacatcacgaacgctttcttattacaaattggg
+                ************************************************************
+
+hCoV-19/India/T agcttcgcagcgtgtagcaggtgactcaggttttgctgcatacagtcgctacaggattgg
+hCoV-19/India/K agcttcgcagcgtgtagcaggtgactcaggttttgctgcatacagtcgctacaggattgg
+hCoV-19/India/K agcttcgcagcgtgtagcaggtgactcaggttttgctgcatacagtcgctacaggattgg
+                ************************************************************
+
+hCoV-19/India/T caactataaattaaacacagaccattccagtagcagtgacaatattgctttgcttgtaca
+hCoV-19/India/K caactataaattaaacacagaccattccagtagcagtgacaatattgctttgcttgtaca
+hCoV-19/India/K caactataaattaaacacagaccattccagtagcagtgacaatattgctttgcttgtaca
+                ************************************************************
+
+hCoV-19/India/T gtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatattac
+hCoV-19/India/K gtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatattac
+hCoV-19/India/K gtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatattac
+                ************************************************************
+
+hCoV-19/India/T taattattatgaggacttttaaagtttccatttggaatcttgattacatcataaacctca
+hCoV-19/India/K taattattatgaggacttttaaagtttccatttggaatcttgattacatcataaacctca
+hCoV-19/India/K taattattatgaggacttttaaagtttccatttggaatcttgattacatcataaacctca
+                ************************************************************
+
+hCoV-19/India/T taattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaagagc
+hCoV-19/India/K taattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaagagc
+hCoV-19/India/K taattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaagagc
+                ************************************************************
+
+hCoV-19/India/T aaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataacac
+hCoV-19/India/K aaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataacac
+hCoV-19/India/K aaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataacac
+                ************************************************************
+
+hCoV-19/India/T tcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtacttttaa
+hCoV-19/India/K tcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtacttttaa
+hCoV-19/India/K tcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtacttttaa
+                ************************************************************
+
+hCoV-19/India/T aagaatcttgctcttctggaacatacgagggcaattcaccatttcatcctctagctgata
+hCoV-19/India/K aagaaccttgctcttctggaacatacgagggcaattcaccatttcatcctctagctgata
+hCoV-19/India/K aagaaccttgctcttctggaacatacgagggcaattcaccatttcatcctctagctgata
+                *****.******************************************************
+
+hCoV-19/India/T acaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgtaa
+hCoV-19/India/K acaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgtaa
+hCoV-19/India/K acaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgtaa
+                ************************************************************
+
+hCoV-19/India/T aacacgtctatcagttacgtgccagatcagcttcacctaaactgttcatcagacaagagg
+hCoV-19/India/K aacacgtctatcagttacgtgccagatcagcttcacctaaactgttcatcagacaagagg
+hCoV-19/India/K aacacgtctatcagttacgtgccagatcagcttcacctaaactgttcatcagacaagagg
+                ************************************************************
+
+hCoV-19/India/T aagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataacac
+hCoV-19/India/K aagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataacac
+hCoV-19/India/K aagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataacac
+                ************************************************************
+
+hCoV-19/India/T tttgcttcacactcaaaagaaagatagaatgattgaactttcattaattgacttctattt
+hCoV-19/India/K tttgcttcacattcaaaagaaagatagaatgattgaactttcattaattgacttctattt
+hCoV-19/India/K tttgcttcacactcaaaagaaagatagaatgattgaactttcattaattgacttctattt
+                ***********.************************************************
+
+hCoV-19/India/T gtgctttttagcctttctgctattccttgttttaattatgcttattatcttttggttctc
+hCoV-19/India/K gtgctttttagcctttctgctattccttgttttaattatgcttattatcttttggttctc
+hCoV-19/India/K gtgctttttagcctttctgctattccttgttttaattatgcttattatcttttggttctc
+                ************************************************************
+
+hCoV-19/India/T acttgaactgcaagatcataatgaaatttgtcacgcctaaacgaacatgaaatttcttgt
+hCoV-19/India/K acttgaactgcaagatcataatgaaacttgtcacgcctaaacgaacatgaaatttcttgt
+hCoV-19/India/K acttgaactgcaagatcataatgaaacttgtcacgcctaaacgaacatgaaatttcttgt
+                **************************.*********************************
+
+hCoV-19/India/T tttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtcatg
+hCoV-19/India/K tttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtcatg
+hCoV-19/India/K tttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtcatg
+                ************************************************************
+
+hCoV-19/India/T tactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaatg
+hCoV-19/India/K tactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaatg
+hCoV-19/India/K tactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaatg
+                ************************************************************
+
+hCoV-19/India/T gtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgaggc
+hCoV-19/India/K gtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgaggc
+hCoV-19/India/K gtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgaggc
+                ************************************************************
+
+hCoV-19/India/T tggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgtttacc
+hCoV-19/India/K tggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgtttacc
+hCoV-19/India/K tggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgtttacc
+                ************************************************************
+
+hCoV-19/India/T ttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttcta
+hCoV-19/India/K ttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttcta
+hCoV-19/India/K ttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttcta
+                ************************************************************
+
+hCoV-19/India/T tgaagactttttagagtatcatgacgttcgtgttgttttagttttaatctaaacgaacaa
+hCoV-19/India/K tgaagactttttagagtatcatgacgttcgtgttgttttagatttaatctaaacgaacaa
+hCoV-19/India/K tgaagactttttagagtatcatgacgttcgtgttgttttagattttatctaaacgaacaa
+                ***************************************** *** **************
+
+hCoV-19/India/T actaaaatgtctgataatggaccccaaaatcagcgaaatgcaccccgcattacgtttggt
+hCoV-19/India/K actaaaatgtctgataatggaccccaaaatcagcgaaatgcaccccgcattacgtttggt
+hCoV-19/India/K actaaaatgtctgataatggaccccaaaatcagcgaaatgcaccccgcattacgtttggt
+                ************************************************************
+
+hCoV-19/India/T ggaccctcagattcaactggcagtaaccagaatggagaacgcagtggggcgcgatcaaaa
+hCoV-19/India/K ggaccctcagattcaactggcagtaaccagaatggagaacgcagtggggcgcgatcaaaa
+hCoV-19/India/K ggaccctcagattcaactggcagtaaccagaatggagaacgcagtggggcgcgatcaaaa
+                ************************************************************
+
+hCoV-19/India/T caacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactcaa
+hCoV-19/India/K caacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactcaa
+hCoV-19/India/K caacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactcaa
+                ************************************************************
+
+hCoV-19/India/T catggcaaggaaggccttaaattccctcgaggacaaggcgttccaattaacaccaatagc
+hCoV-19/India/K catggcaaggaagaccttaaattccctcgaggacaaggcgttccaattaacaccaatagc
+hCoV-19/India/K catggcaaggaagaccttaaattccctcgaggacaaggcgttccaattaacaccaatagc
+                *************.**********************************************
+
+hCoV-19/India/T agtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtgac
+hCoV-19/India/K agtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtgac
+hCoV-19/India/K agtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtgac
+                ************************************************************
+
+hCoV-19/India/T ggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccagaa
+hCoV-19/India/K ggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccagaa
+hCoV-19/India/K ggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccagaa
+                ************************************************************
+
+hCoV-19/India/T gctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggagcc
+hCoV-19/India/K gctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggagcc
+hCoV-19/India/K gctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggagcc
+                ************************************************************
+
+hCoV-19/India/T ttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcgtg
+hCoV-19/India/K ttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcgtg
+hCoV-19/India/K ttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcgtg
+                ************************************************************
+
+hCoV-19/India/T ctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagaggc
+hCoV-19/India/K ctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagaggc
+hCoV-19/India/K ctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagaggc
+                ************************************************************
+
+hCoV-19/India/T ggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaact
+hCoV-19/India/K ggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaact
+hCoV-19/India/K ggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaact
+                ************************************************************
+
+hCoV-19/India/T ccaggcagcagtatgggaacttctcctgctagaatggctggcaatggctgtgatgctgct
+hCoV-19/India/K ccaggcagcagtatgggaacttctcctgctagaatggctggcaatggcggtgatgctgct
+hCoV-19/India/K ccaggcagcagtatgggaacttctcctgctagaatggctggcaatggcggtgatgctgct
+                ************************************************ ***********
+
+hCoV-19/India/T cttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctggtaaaggc
+hCoV-19/India/K cttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctgttaaaggc
+hCoV-19/India/K cttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctggtaaaggc
+                **************************************************** *******
+
+hCoV-19/India/T caacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagcct
+hCoV-19/India/K caacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagcct
+hCoV-19/India/K caacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagcct
+                ************************************************************
+
+hCoV-19/India/T cggcaaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgtggt
+hCoV-19/India/K cggcaaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgtggt
+hCoV-19/India/K cggcaaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgtggt
+                ************************************************************
+
+hCoV-19/India/T ccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgattac
+hCoV-19/India/K ccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgattac
+hCoV-19/India/K ccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgattac
+                ************************************************************
+
+hCoV-19/India/T aaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatgtcg
+hCoV-19/India/K aaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatgtcg
+hCoV-19/India/K aaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatgtcg
+                ************************************************************
+
+hCoV-19/India/T cgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatcaaa
+hCoV-19/India/K cgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatcaaa
+hCoV-19/India/K cgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatcaaa
+                ************************************************************
+
+hCoV-19/India/T ttggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatattgac
+hCoV-19/India/K ttggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatattgac
+hCoV-19/India/K ttggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatattgac
+                ************************************************************
+
+hCoV-19/India/T gcatacaaaacattcccaccaacagagcctaaaaaggacaaaaagaagaaggcttatgaa
+hCoV-19/India/K gcatacaaaatattcccaccaacagagcctaaaaaggacaaaaagaagaaggcttatgaa
+hCoV-19/India/K gcatacaaaacattcccaccaacagagcctaaaaaggacaaaaagaagaaggcttatgaa
+                **********.*************************************************
+
+hCoV-19/India/T actcaagccttaccgcagagacagaagaaacagcaaactgtgactcttcttcctgctgca
+hCoV-19/India/K actcaagccttaccgcagaaacagaagaaacagcaaactgtgactcttcttcctgctgca
+hCoV-19/India/K actcaagccttaccgcagagacagaagaaacagcaaactgtgactcttcttcctgctgca
+                *******************.****************************************
+
+hCoV-19/India/T gatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaactcag
+hCoV-19/India/K gatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaactcag
+hCoV-19/India/K gatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaactcag
+                ************************************************************
+
+hCoV-19/India/T gcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgcttttccg
+hCoV-19/India/K gcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgcttttccg
+hCoV-19/India/K gcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgcttttccg
+                ************************************************************
+
+hCoV-19/India/T tttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaagta
+hCoV-19/India/K tttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaagta
+hCoV-19/India/K tttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaagta
+                ************************************************************
+
+hCoV-19/India/T gatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattagggagga
+hCoV-19/India/K gatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattagggagga
+hCoV-19/India/K gatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattagggagga
+                ************************************************************
+
+hCoV-19/India/T cttgaaagagccaccacattttcaccgaggccactcggagtacgatcgagtgtacagtga
+hCoV-19/India/K cttgaaagagccaccacattttcaccgaggccactcggagtacgatcgagtgtacagtga
+hCoV-19/India/K cttgaaagagccaccacattttcaccgaggccactcggagtacgatcgagtgtacagtga
+                ************************************************************
+
+hCoV-19/India/T acaatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagta
+hCoV-19/India/K acaatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagta
+hCoV-19/India/K acagtgctagggagagctgcctatatggaagagccctaatgtgtaaaattaattttagta
+                ***.********************************************************
+
+hCoV-19/India/T gtgctatccccatgtgattttaatagcttcttagnnnnnngacaaaaaaaaaaaaaaaaa
+hCoV-19/India/K gtgctatccccatgtgattttaatagcttcttaggagaa---------------------
+hCoV-19/India/K gtgctatccccatgtgattttaatagcttcttaggagaa---------------------
+                **********************************                          
+
+hCoV-19/India/T aaaaaaaaaaaaaaaa
+hCoV-19/India/K ----------------
+hCoV-19/India/K ----------------
+                                
