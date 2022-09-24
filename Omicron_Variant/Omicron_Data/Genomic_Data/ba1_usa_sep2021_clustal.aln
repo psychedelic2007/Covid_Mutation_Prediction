@@ -1,0 +1,2996 @@
+CLUSTAL format alignment by MAFFT (v7.505)
+
+
+hCoV-19/USA/OR- -------------------------------atctgttctctaaacgaactttaaaatct
+hCoV-19/USA/OR- -------------------------------atctgttctctaaacgaactttaaaatct
+hCoV-19/USA/OR- aacaaaccaaccaactttcgatctcttgtagatctgttctctaaacgaactttaaaatct
+hCoV-19/USA/CA- -------------------------ttgtagatctgttctctaaacgaactttaaaatct
+                                               *****************************
+
+hCoV-19/USA/OR- gtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataactaatt
+hCoV-19/USA/OR- gtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataactaatt
+hCoV-19/USA/OR- gtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataactaatt
+hCoV-19/USA/CA- gtgtggctgtcactcggctgcatgcttagtgcactcacgcagtataattaataactaatt
+                ************************************************************
+
+hCoV-19/USA/OR- actgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgt
+hCoV-19/USA/OR- actgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgt
+hCoV-19/USA/OR- actgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgt
+hCoV-19/USA/CA- actgtcgttgacaggacacgagtaactcgtctatcttctgcaggctgcttacggtttcgt
+                ************************************************************
+
+hCoV-19/USA/OR- ccgtgatgcagccgatcatcagcacatctaggttttgtccgggtgtgaccgaaaggtaag
+hCoV-19/USA/OR- ccgtgatgcagccgatcatcagcacatctaggttttgtccgggtgtgaccgaaaggtaag
+hCoV-19/USA/OR- ccgtgatgcagccgatcatcagcacatctaggttttgtccgggtgtgaccgaaaggtaag
+hCoV-19/USA/CA- ccgtgttgcagccgatcatcagcacatctaggttttgtccgggtgtgaccgaaaggnnnn
+                ***** **************************************************    
+
+hCoV-19/USA/OR- atggagagccttgtccctggtttcaacgagaaaacacacgtccaactcagtttgcctgtt
+hCoV-19/USA/OR- atggagagccttgtccctggtttcaacgagaaaacacacgtccaactcagtttgcctgtt
+hCoV-19/USA/OR- atggagagccttgtccctggtttcaacgagaaaacacacgtccaactcagtttgcctgtt
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngtt
+                                                                         ***
+
+hCoV-19/USA/OR- ttacaggttcgcgacgtgctcgtacgtggctttggagactccgtggaggaggtcttatca
+hCoV-19/USA/OR- ttacaggttcgcgacgtgctcgtacgtggctttggagactccgtggaggaggtcttatca
+hCoV-19/USA/OR- ttacaggttcgcgacgtgctcgtacgtggctttggagactccgtggaggaggtcttatca
+hCoV-19/USA/CA- ttacaggttcgcgacgnnntcgtacgtggctttggagactccgtggaggaggtcttatca
+                ****************   *****************************************
+
+hCoV-19/USA/OR- gaggcacgtcaacatcttaaagatggcacttgtggcttagtagaagttgaaaaaggcgtt
+hCoV-19/USA/OR- gaggcacgtcaacatcttaaagatggcacttgtggcttagtagaagttgaaaaaggcgtt
+hCoV-19/USA/OR- gaggcacgtcaacatcttaaagatggcacttgtggcttagtagaagttgaaaaaggcgtt
+hCoV-19/USA/CA- gaggcacgtcaacatcttaaagatggcacttgtggcttagtagaagttgaaaaaggcgtt
+                ************************************************************
+
+hCoV-19/USA/OR- ttgcctcaacttgaacagccctatgtgttcatcaaacgttcggatgctcgaactgcacct
+hCoV-19/USA/OR- ttgcctcaacttgaacagccctatgtgttcatcaaacgttcggatgctcgaactgcacct
+hCoV-19/USA/OR- ttgcctcaacttgaacagccctatgtgttcatcaaacgttcggatgctcgaactgcacct
+hCoV-19/USA/CA- ttgcctcaacttgaacagccctatgtgttcatcaaacgttcggatgctcgaactgcacct
+                ************************************************************
+
+hCoV-19/USA/OR- catggtcatgttatggttgagctggtagcagaactcgaaggcattcagtacggtcgtagt
+hCoV-19/USA/OR- catggtcatgttatggttgagctggtagcagaactcgaaggcattcagtacggtcgtagt
+hCoV-19/USA/OR- catg--------------gagctggtagcagaactcgaaggcattcagtacggtcgtagt
+hCoV-19/USA/CA- catgnnnnnnnnnnnnnnnagctggtagcagaactcgaaggcattcagtacggtcgtagt
+                ****               *****************************************
+
+hCoV-19/USA/OR- ggtgagacacttggtgtccttgtccctcatgtgggcgaaataccagtggcttaccgcaag
+hCoV-19/USA/OR- ggtgagacacttggtgtccttgtccctcatgtgggcgaaataccagtggcttaccgcaag
+hCoV-19/USA/OR- ggtgagacacttggtgtccttgtccctcatgtgggcgaaataccagtggcttaccgcaag
+hCoV-19/USA/CA- ggtgagacacttggtgtccttgtccctcatgtgggcgaaataccagtggcttaccgcaag
+                ************************************************************
+
+hCoV-19/USA/OR- gttcttcttcgtaagaacggtaataaaggagctggtggccatagttacggcgccgatcta
+hCoV-19/USA/OR- gttcttcttcgtaagaacggtaataaaggagctggtggccatagttacggcgccgatcta
+hCoV-19/USA/OR- gttcttcttcgtaagaacggtaataaaggagctggtggccatagttacggcgccgatcta
+hCoV-19/USA/CA- gttcttcttcgtaagaacggtaataaaggagctggtggccatagttacggcgccgatcta
+                ************************************************************
+
+hCoV-19/USA/OR- ---------gacttaggcgacgagcttggcactgatccttatgaagattttcaagaaaac
+hCoV-19/USA/OR- ---------gacttaggcgacgagcttggcactgatccttatgaagattttcaagaaaac
+hCoV-19/USA/OR- ---------gacttaggcgacgagcttggcactgatccttatgaagattttcaagaaaac
+hCoV-19/USA/CA- aagtcatttgacttaggcgacgagcttggcactgatccttatgaagattttcaagaaaac
+                         ***************************************************
+
+hCoV-19/USA/OR- tggaacactaaacatagcagtggtgttacccgtgaactcatgcgtgagcttaacggaggg
+hCoV-19/USA/OR- tggaacactaaacatggcagtggtgttacccgtgaactcatgcgtgagcttaacggaggg
+hCoV-19/USA/OR- tggaacactaaacatagcagtggtgttacccgtgaactcatgcgtgagcttaacggaggg
+hCoV-19/USA/CA- tggaacactaaacatagcagtggtgttacccgtgaactcatgcgtgagcttaacggaggg
+                ***************.********************************************
+
+hCoV-19/USA/OR- gcatacactcgctatgtcgataacaacttctgtggccctgatggctaccctcttgagtgc
+hCoV-19/USA/OR- gcatacactcgctatgtcgataacaacttctgtggccctgatggctaccctcttgagtgc
+hCoV-19/USA/OR- gcatacactcgctatgtcgataacaacttctgtggccctgatggctaccctcttgagtgc
+hCoV-19/USA/CA- gcatacactcgctatgtcgataacaacttctgtggccctgatggctaccctcttgagtgc
+                ************************************************************
+
+hCoV-19/USA/OR- attaaagaccttctagcacgtgctggtaaagcttcatgcactttgtccgaacaactggac
+hCoV-19/USA/OR- attaaagaccttctagcacgtgctggtaaagcttcatgcactttgtccgaacaactggac
+hCoV-19/USA/OR- attaaagaccttctagcacgtgctggtaaagcttcatgcactttgtccgaacaactggac
+hCoV-19/USA/CA- attaaagaccttctagcacgtgctggtaaagcttcatgcactttgtccgaacaactggac
+                ************************************************************
+
+hCoV-19/USA/OR- tttattgacactaagaggggtgtatactgctgccgtgaacatgagcatgaaattgcttgg
+hCoV-19/USA/OR- tttattgacactaagaggggtgtatactgctgccgtgaacatgagcatgaaattgcttgg
+hCoV-19/USA/OR- tttattgacactaagaggggtgtatactgctgccgtgaacatgagcatgaaattgcttgg
+hCoV-19/USA/CA- tttattgacactaagaggggtgtatactgctgccgtgaacatgagcatgaaattgcttgg
+                ************************************************************
+
+hCoV-19/USA/OR- tacacggaacgttctgaaaagagctatgaattgcagacaccttttgaaattaaattggca
+hCoV-19/USA/OR- tacacggaacgttctgaaaagagctatgaattgcagacaccttttgaaattaaattggca
+hCoV-19/USA/OR- tacacggaacgttctgaaaagagctatgaattgcagacaccttttgaaattaaattggca
+hCoV-19/USA/CA- tacacggaacgttctgaaaagagctatgaattgcagacaccttttgaaattaaattggca
+                ************************************************************
+
+hCoV-19/USA/OR- aagaaatttgacaccttcaatggggaatgtccaaattttgtatttcccttaaattccata
+hCoV-19/USA/OR- aagaaatttgacaccttcaatggggaatgtccaaattttgtatttcccttaaattccata
+hCoV-19/USA/OR- aagaaatttgacaccttcaatggggaatgtccaaattttgtatttcccttaaattccata
+hCoV-19/USA/CA- aagaaatttgacaccttcaatggggaatgtccaaattttgtatttcccttaaattccata
+                ************************************************************
+
+hCoV-19/USA/OR- atcaagactattcaaccaagggttgaaaagaaaaagcttgatggctttatgggtagaatt
+hCoV-19/USA/OR- atcaagactattcaaccaagggttgaaaagaaaaagcttgatggctttatgggtagaatt
+hCoV-19/USA/OR- atcaagactattcaaccaagggttgaaaagaaaaagcttgatggctttatgggtagaatt
+hCoV-19/USA/CA- atcaagactattcaaccaagggttgaaaagaaaaagcttgatggctttatgggtagaatt
+                ************************************************************
+
+hCoV-19/USA/OR- cgatctgtctatccagttgcgtcaccaaatgaatgcaaccaaatgtgcctttcaactctc
+hCoV-19/USA/OR- cgatctgtctatccagttgcgtcaccaaatgaatgcaaccaaatgtgcctttcaactctc
+hCoV-19/USA/OR- cgatctgtctatccagttgcgtcaccaaatgaatgcaaccaaatgtgcctttcaactctc
+hCoV-19/USA/CA- cgatctgtctatccagttgcgtcaccaaatgaatgcaaccaaatgtgcctttcaactctc
+                ************************************************************
+
+hCoV-19/USA/OR- atgaagtgtgatcattgtggtgaaacttcatggcagacgggcgattttgttaaagccact
+hCoV-19/USA/OR- atgaagtgtgatcattgtggtgaaacttcatggcagacgggcgattttgttaaagccact
+hCoV-19/USA/OR- atgaagtgtgatcattgtggtgaaacttcatggcagacgggcgattttgttaaagccact
+hCoV-19/USA/CA- atgaagtgtgatcattgtggtgaaacttcatggcagacgggcgattttgttaaagccact
+                ************************************************************
+
+hCoV-19/USA/OR- tgcgaattttgtggcactgagaatttgactaaagaaggtgccactacttgtggttactta
+hCoV-19/USA/OR- tgcgaattttgtggcactgagaatttgactaaagaaggtgccactacttgtggttactta
+hCoV-19/USA/OR- tgcgaattttgtggcactgagaatttgactaaagaaggtgccactacttgtggttactta
+hCoV-19/USA/CA- tgcgaattttgtggcactgagaatttgactaaagaaggtgccactacttgtggttactta
+                ************************************************************
+
+hCoV-19/USA/OR- ccccaaaatgctgttgttaaaatttattgtccagcatgtcacaattcagaagtaggacct
+hCoV-19/USA/OR- ccccaaaatgctgttgttaaaatttattgtccagcatgtcacaattcagaagtaggacct
+hCoV-19/USA/OR- ccccaaaatgctgttgttaaaatttattgtccagcatgtcacaattcagaagtaggacct
+hCoV-19/USA/CA- ccccaaaatgctgttgttaaaatttattgtccagcatgtcacaattcagaagtaggacct
+                ************************************************************
+
+hCoV-19/USA/OR- gagcatagtcttgccgaataccataatgaatctggcttgaaaaccattcttcgtaagggt
+hCoV-19/USA/OR- gagcatagtcttgccgaataccataatgaatctggcttgaaaaccattcttcgtaagggt
+hCoV-19/USA/OR- gagcatagtcttgccgaataccataatgaatctggcttgaaaaccattcttcgtaagggt
+hCoV-19/USA/CA- gagcatagtcttgccgaataccataatgaatctggcttgaaaaccattcttcgtaagggt
+                ************************************************************
+
+hCoV-19/USA/OR- ggtcgcactattgcctttggaggctgtgtgttctcttatgttggttgccataacaagtgt
+hCoV-19/USA/OR- ggtcgcactattgcctttggaggctgtgtgttctcttatgttggttgccataacaagtgt
+hCoV-19/USA/OR- ggtcgcactattgcctttggaggctgtgtgttctcttatgttggttgccataacaagtgt
+hCoV-19/USA/CA- ggtcgcactattgcctttggaggctgtgtgttctcttatgttggttgccataacaagtgt
+                ************************************************************
+
+hCoV-19/USA/OR- gcctattgggttccacgtgctagcgctaacataggttgtaaccatacaggtgttgttgga
+hCoV-19/USA/OR- gcctattgggttccacgtgctagcgctaacataggttgtaaccatacaggtgttgttgga
+hCoV-19/USA/OR- gcctattgggttccacgtgctagcgctaacataggttgtaaccatacaggtgttgttgga
+hCoV-19/USA/CA- gcctattgggttccacgtgctagcgctaacataggttgtaaccatacaggtgttgttgga
+                ************************************************************
+
+hCoV-19/USA/OR- gaaggttccgaaggtcttaatgacaaccttcttgaaatactccaaaaagagaaagtcaac
+hCoV-19/USA/OR- gaaggttccgaaggtcttaatgacaaccttcttgaaatactccaaaaagagaaagtcaac
+hCoV-19/USA/OR- gaaggttccgaaggtcttaatgacaaccttcttgaaatactccaaaaagagaaagtcaac
+hCoV-19/USA/CA- gaaggttccgaaggtcttaatgacaaccttcttgaaatactccaaaaagagaaagtcaac
+                ************************************************************
+
+hCoV-19/USA/OR- atcaatattgttggtgactttaaacttaatgaagagatcgccattattttggcatctttt
+hCoV-19/USA/OR- atcaatattgttggtgactttaaacttaatgaagagatcgccattattttggcatctttt
+hCoV-19/USA/OR- atcaatattgttggtgactttaaacttaatgaagagatcgccattattttggcatctttt
+hCoV-19/USA/CA- atcaatattgttggtgactttaaacttaatgaagagatcgccattattttggcatctttt
+                ************************************************************
+
+hCoV-19/USA/OR- tctgcttccacaagtgcttttgtggaaactgtgaaaggtttggattataaagcattcaaa
+hCoV-19/USA/OR- tctgcttccacaagtgcttttgtggaaactgtgaaaggtttggattataaagcattcaaa
+hCoV-19/USA/OR- tctgcttccacaagtgcttttgtggaaactgtgaaaggtttggattataaagcattcaaa
+hCoV-19/USA/CA- tctgcttccacaagtgcttttgtggaaactgtgaaaggtttggattataaagcattcaaa
+                ************************************************************
+
+hCoV-19/USA/OR- caaattgttgaatcctgtggtaattttaaagttacaaaaggaaaagctaaaaaaggtgcc
+hCoV-19/USA/OR- caaattgttgaatcctgtggtaattttaaagttacaaaaggaaaagctaaaaaaggtgcc
+hCoV-19/USA/OR- caaattgttgaatcctgtggtaattttaaagttacaaaaggaaaagctaaaaaaggtgcc
+hCoV-19/USA/CA- caaattgttgaatcctgtggtaattttaaagttacaaaaggaaaagctaaaaaaggtgcc
+                ************************************************************
+
+hCoV-19/USA/OR- tggaatattggtgaacagaaatcaatactgagtcctctttatgcatttgcatcagaggct
+hCoV-19/USA/OR- tggaatattggtgaacagaaatcaatactgagtcctctttatgcatttgcatcagaggct
+hCoV-19/USA/OR- tggaatattggtgaacagaaatcaatactgagtcctctttatgcatttgcatcagaggct
+hCoV-19/USA/CA- tggaatattggtgaacagaaatcaatactgagtcctctttatgcatttgcatcagaggct
+                ************************************************************
+
+hCoV-19/USA/OR- gctcgtgttgtacgatcaattttctcccgcactcttgaaactgctcaaaattctgtgcgt
+hCoV-19/USA/OR- gctcgtgttgtacgatcaattttctcccgcactcttgaaactgctcaaaattctgtgcgt
+hCoV-19/USA/OR- gctcgtgttgtacgatcaattttctcccgcactcttgaaactgctcaaaattctgtgcgt
+hCoV-19/USA/CA- gctcgtgttgtacgatcaattttctcccgcactcttgaaactgctcaaaattctgtgcgt
+                ************************************************************
+
+hCoV-19/USA/OR- gttttacagaaggccgctataacaatactagatggaatttcacagtattcactgagactc
+hCoV-19/USA/OR- gttttacagaaggccgctataacaatactagatggaatttcacagtattcactgagactc
+hCoV-19/USA/OR- gttttacagaaggccgctataacaatactagatggaatttcacagtattcactgagactc
+hCoV-19/USA/CA- gttttacagaaggccgctataacaatactagatggaatttcacagtattcactgagactc
+                ************************************************************
+
+hCoV-19/USA/OR- attgatgctatgatgttcacatctgatttggctactaacaatctagttgtaatggcctac
+hCoV-19/USA/OR- attgatgctatgatgttcacatctgatttggctactaacaatctagttgtaatggcctac
+hCoV-19/USA/OR- attgatgctatgatgttcacatctgatttggctactaacaatctagttgtaatggcctac
+hCoV-19/USA/CA- attgatgctatgatgttcacatctgatttggctactaacaatctagttgtaatggcctac
+                ************************************************************
+
+hCoV-19/USA/OR- attacaggtggtgttgttcagttgacttcgcagtggctaactaacatctttggcactgtt
+hCoV-19/USA/OR- attacaggtggtgttgttcagttgacttcgcagtggctaactaacatctttggcactgtt
+hCoV-19/USA/OR- attacaggtggtgttgttcagttgacttcgcagtggctaactaacatctttggcactgtt
+hCoV-19/USA/CA- attacaggtggtgttgttcagttgacttcgcagtggctaactaacatctttggcactgtt
+                ************************************************************
+
+hCoV-19/USA/OR- tatgaaaaactcaaacccgtccttgattggcttgaagagaagtttaaggaaggtgtagag
+hCoV-19/USA/OR- tatgaaaaactcaaacccgtccttgattggcttgaagagaagtttaaggaaggtgtagag
+hCoV-19/USA/OR- tatgaaaaactcaaacccgtccttgattggcttgaagagaagtttaaggaaggtgtagag
+hCoV-19/USA/CA- tatgaaaaactcaaacccgtccttgattggcttgaagagaagtttaaggaaggtgtagag
+                ************************************************************
+
+hCoV-19/USA/OR- tttcttagagacggttgggaaattgttaaatttatctcaacctgtgcttgtgaaattgtc
+hCoV-19/USA/OR- tttcttagagacggttgggaaattgttaaatttatctcaacctgtgcttgtgaaattgtc
+hCoV-19/USA/OR- tttcttagagacggttgggaaattgttaaatttatctcaacctgtgcttgtgaaattgtc
+hCoV-19/USA/CA- tttcttagagacggttgggaaattgttaaatttatctcaacctgtgcttgtgaaattgtc
+                ************************************************************
+
+hCoV-19/USA/OR- ggtggacaaattgtcacctgtgcaaaggaaattaaggagagtgttcagacattctttaag
+hCoV-19/USA/OR- ggtggacaaattgtcacctgtgcaaaggaaattaaggagagtgttcagacattctttaag
+hCoV-19/USA/OR- ggtggacaaattgtcacctgtgcaaaggaaattaaggagagtgttcagacattctttaag
+hCoV-19/USA/CA- ggtggacaaattgtcacctgtgcaaaggaaattaaggagagtgttcagacattctttaag
+                ************************************************************
+
+hCoV-19/USA/OR- cttgtaaataaatttttggctttgtgtgctgactctatcattattggtggagctaaactt
+hCoV-19/USA/OR- cttgtaaataaatttttggctttgtgtgctgactctatcattattggtggagctaaactt
+hCoV-19/USA/OR- cttgtaaataaatttttggctttgtgtgctgactctatcattattggtggagctaaactt
+hCoV-19/USA/CA- cttgtaaataaatttttggctttgtgtgctgactctatcattattggtggagctaaactt
+                ************************************************************
+
+hCoV-19/USA/OR- aaagccttgaatttaggtgaaacatttgtcacgcactcaaagggattgtacagaaagtgt
+hCoV-19/USA/OR- aaagccttgaatttaggtgaaacatttgtcacgcactcaaagggattgtacagaaagtgt
+hCoV-19/USA/OR- aaagccttgaatttaggtgaaacatttgtcacgcactcaaagggattgtacagaaagtgt
+hCoV-19/USA/CA- aaagccttgaatttaggtgaaacatttgtcacgcactcaaagggattgtacagaaagtgt
+                ************************************************************
+
+hCoV-19/USA/OR- gttaaatccagagaagaaactggcctactcatgcctctaaaagctccaaaagaaattatc
+hCoV-19/USA/OR- gttaaatccagagaagaaactggcctactcatgcctctaaaagctccaaaagaaattatc
+hCoV-19/USA/OR- gttaaatccagagaagaaactggcctactcatgcctctaaaagctccaaaagaaattatc
+hCoV-19/USA/CA- gttaaatccagagaagaaactggcctactcatgcctctaaaagccccaaaagaaattatc
+                ********************************************.***************
+
+hCoV-19/USA/OR- ttcttagagggagaaacacttcccacagaagtgttaacagaggaagttgtcttgaaaact
+hCoV-19/USA/OR- ttcttagagggagaaacacttcccacagaagtgttaacagaggaagttgtcttgaaaact
+hCoV-19/USA/OR- ttcttagagggagaaacacttcccacagaagtgttaacagaggaagttgtcttgaaaact
+hCoV-19/USA/CA- ttcttagagggagaaacacttcccacagaagtgttaacagaggaagttgtcttgaaaact
+                ************************************************************
+
+hCoV-19/USA/OR- ggtgatttacaaccattagaacaacctactagtgaagctgttgaagctccattggttggt
+hCoV-19/USA/OR- ggtgatttacaaccattagaacaacctactagtgaagctgttgaagctccattggttggt
+hCoV-19/USA/OR- ggtgatttacaaccattagaacaacctactagtgaagctgttgaagctccattggttggt
+hCoV-19/USA/CA- ggtgatttacaaccattagaacaacctactagtgaagctgttgaagctccattggttggt
+                ************************************************************
+
+hCoV-19/USA/OR- acaccagtttgtattaacgggcttatgttgctcgaaatcaaagacacagaaaagtactgt
+hCoV-19/USA/OR- acaccagtttgtattaacgggcttatgttgctcgaaatcaaagacacagaaaagtactgt
+hCoV-19/USA/OR- acaccagtttgtattaacgggcttatgttgctcgaaatcaaagacacagaaaagtactgt
+hCoV-19/USA/CA- acaccagtttgtattaacgggcttatgttgctcgaaatcaaagacacagaaaagtactgt
+                ************************************************************
+
+hCoV-19/USA/OR- gcccttgcacctaatatgatggtaacaaacaataccttcacactcaaaggcggtgcacca
+hCoV-19/USA/OR- gcccttgcacctaatatgatggtaacaaacaataccttcacactcaaaggcggtgcacca
+hCoV-19/USA/OR- gcccttgcacctaatatgatggtaacaaacaataccttcacactcaaaggcggtgcacca
+hCoV-19/USA/CA- gcccttgcacctaatatgatggtaacaaacaataccttcacactcaaaggcggtgcacca
+                ************************************************************
+
+hCoV-19/USA/OR- acaaaggttacttttggtgatgacactgtgatagaagtgcaaggttacaagagtgtgaat
+hCoV-19/USA/OR- acaaaggttacttttggtgatgacactgtgatagaagtgcaaggttacaagagtgtgaat
+hCoV-19/USA/OR- acaaaggttacttttggtgatgacactgtgatagaagtgcaaggttacaagagtgtgaat
+hCoV-19/USA/CA- acaaaggttacttttggtgatgacactgtgatagaagtgcaaggttacaagagtgtgaat
+                ************************************************************
+
+hCoV-19/USA/OR- atcacttttgaacttgatgaaaggattgataaagtacttaatgagaggtgctctgcctat
+hCoV-19/USA/OR- atcacttttgaacttgatgaaaggattgataaagtacttaatgagaggtgctctgcctat
+hCoV-19/USA/OR- atcacttttgaacttgatgaaaggattgataaagtacttaatgagaggtgctctgcctat
+hCoV-19/USA/CA- atcacttttgaacttgatgaaaggattgataaagtacttaatgagaggtgctctgcctat
+                ************************************************************
+
+hCoV-19/USA/OR- acagttgaactcggtacagaagtaaatgagttcgcctgtgttgtggcagatgctgtcata
+hCoV-19/USA/OR- acagttgaactcggtacagaagtaaatgagttcgcctgtgttgtggcagatgctgtcata
+hCoV-19/USA/OR- acagttgaactcggtacagaagtaaatgagttcgcctgtgttgtggcagatgctgtcata
+hCoV-19/USA/CA- acagttgaactcggtacagaagtaaatgagttcgcctgtgttgtggcagatgctgtcata
+                ************************************************************
+
+hCoV-19/USA/OR- aaaactttgcaaccagtatctgaattacttacaccactgggcattgatttagatgagtgg
+hCoV-19/USA/OR- aaaactttgcaaccagtatctgaattacttacaccactgggcattgatttagatgagtgg
+hCoV-19/USA/OR- aaaactttgcaaccagtatctgaattacttacaccactgggcattgatttagatgagtgg
+hCoV-19/USA/CA- aaaactttgcaaccagtatctgaattacttacaccactgggcattgatttagatgagtgg
+                ************************************************************
+
+hCoV-19/USA/OR- agtatggctacatactacttatttgatgagtctggtgagtttaaattggcttcacatatg
+hCoV-19/USA/OR- agtatggctacatactacttatttgatgagtctggtgagtttaaattggcttcacatatg
+hCoV-19/USA/OR- agtatggctacatactacttatttgatgagtctggtgagtttaaattggcttcacatatg
+hCoV-19/USA/CA- agtatggctacatactacttatttgatgagtctggtgagtttaaattggcttcacatatg
+                ************************************************************
+
+hCoV-19/USA/OR- tattgttctttttacccttcagatgaggatgaagaagaaggtgattgtgaagaagaagag
+hCoV-19/USA/OR- tattgttctttttaccctccagatgaggatgaagaagaaggtgattgtgaagaagaagag
+hCoV-19/USA/OR- tattgttctttttaccctccagatgaggatgaagaagaaggtgattgtgaagaagaagag
+hCoV-19/USA/CA- tattgttctttttaccctccagatgaggatgaagaagaaggtgattgtgaagaagaagag
+                ******************.*****************************************
+
+hCoV-19/USA/OR- tttgagccatcaactc-aatatgagtatggtactgaagatgattaccaaggtaaaccttt
+hCoV-19/USA/OR- tttgagccatcaactc-aatatgagtatggtactgaagatgattaccaaggtaaaccttt
+hCoV-19/USA/OR- tttgagccatcaactcaaatatgagtatggtactgaagatgattaccaaggtaaaccttt
+hCoV-19/USA/CA- tttgagccatcaactc-aatatgagtatggtactgaagatgattaccaaggtaaaccttt
+                **************** *******************************************
+
+hCoV-19/USA/OR- ggaatttggtgccacttctgctgctcttcaacctgaagaagagcaagaagaagattggtt
+hCoV-19/USA/OR- ggaatttggtgccacttctgctgctcttcaacctgaagaagagcaagaagaagattggtt
+hCoV-19/USA/OR- ggaatttggtgccacttctgctgctcttcaacctgaagaagagcaagaagaagattggtt
+hCoV-19/USA/CA- ggaatttggtgccacttctgctgctcttcaacctgaagaagagcaagaagaagattggtt
+                ************************************************************
+
+hCoV-19/USA/OR- agatgatgatagtcaacaaactgttggtcaacaagacggcagtgaggacaatcagacaac
+hCoV-19/USA/OR- agatgatgatagtcaacaaactgttggtcaacaagacggcagtgaggacaatcagacaac
+hCoV-19/USA/OR- agatgatgatagtcaacaaactgttggtcaacaagacggcagtgaggacaatcagacaac
+hCoV-19/USA/CA- agatgatgatagtcaacaaactgttggtcaacaagacggcagtgaggacaatcagacaac
+                ************************************************************
+
+hCoV-19/USA/OR- tactattcaaacaattgttgaggttcaacctcaattagagatggaacttacaccagttgt
+hCoV-19/USA/OR- tactattcaaacaattgttgaggttcaacctcaattagagatggaacttacaccagttgt
+hCoV-19/USA/OR- tactattcaaacaattgttgaggttcaacctcaattagagatggaacttacaccagttgt
+hCoV-19/USA/CA- tactattcaaacaattgttgaggttcaacctcaattagagatggaacttacaccagttgt
+                ************************************************************
+
+hCoV-19/USA/OR- tcagactattgaagtgaatagttttagtggttatttaaaacttactgacaatgtatacat
+hCoV-19/USA/OR- tcagactattgaagtgaatagttttagtggttatttaaaacttactgacaatgtatacat
+hCoV-19/USA/OR- tcagactattgaagtgaatagttttagtggttatttaaaacttactgacaatgtatacat
+hCoV-19/USA/CA- tcagactattgaagtgaatagttttagtggttatttaaaacttactgacaatgtatacat
+                ************************************************************
+
+hCoV-19/USA/OR- taaaaatgcagacattgtggaagaagctaaaaaggtaaaaccaacagtggttgttaatgc
+hCoV-19/USA/OR- taaaaatgcagacattgtggaagaagctaaaaaggtaaaaccaacagtggttgttaatgc
+hCoV-19/USA/OR- taaaaatgcagacattgtggaagaagctaaaaaggtaaaaccaacagtggttgttaatgc
+hCoV-19/USA/CA- taaaaatgcagacattgtggaagaagctaaaaaggtaaaaccaacagtggttgttaatgc
+                ************************************************************
+
+hCoV-19/USA/OR- agccaatgtttaccttaaacatggaggaggtgttgcaggagccttaaataaggctactaa
+hCoV-19/USA/OR- agccaatgtttaccttaaacatggaggaggtgttgcaggagccttaaataaggctactaa
+hCoV-19/USA/OR- agccaatgtttaccttaaacatggaggaggtgttgcaggagccttaaataaggctactaa
+hCoV-19/USA/CA- agccaatgtttaccttaaacatggaggaggtgttgcaggagccttaaataaggctactaa
+                ************************************************************
+
+hCoV-19/USA/OR- caatgccatgcaagttgaatctgatgattacatagctactaatggaccacttaaagtggg
+hCoV-19/USA/OR- caatgccatgcaagttgaatctgatgattacatagctactaatggaccacttaaagtggg
+hCoV-19/USA/OR- caatgccatgcaagttgaatctgatgattacatagctactaatggaccacttaaagtggg
+hCoV-19/USA/CA- caatgccatgcaagttgaatctgatgattacatagctactaatggaccacttaaagtggg
+                ************************************************************
+
+hCoV-19/USA/OR- tggtagttgtgttttaagcggacacaatcttgctaaacactgtcttcatgttgtcggccc
+hCoV-19/USA/OR- tggtagttgtgttttaagcggacacaatcttgctaaacactgtcttcatgttgtcggccc
+hCoV-19/USA/OR- tggtagttgtgttttaagcggacacaatcttgctaaacactgtcttcatgttgtcggccc
+hCoV-19/USA/CA- tggtagttgtgttttaagcggacacaatcttgctaaacactgtcttcatgttgtcggccc
+                ************************************************************
+
+hCoV-19/USA/OR- aaatgttaacaaaggtgaagacattcaacttcttaagagtgcttatgaaaattttaatca
+hCoV-19/USA/OR- aaatgttaacaaaggtgaagacattcaacttcttaagagtgcttatgaaaattttaatca
+hCoV-19/USA/OR- aaatgttaacaaaggtgaagacattcaacttcttaagagtgcttatgaaaattttaatca
+hCoV-19/USA/CA- aaatgttaacaaaggtgaagacattcaacttcttaagagtgcttatgaaaattttaatca
+                ************************************************************
+
+hCoV-19/USA/OR- gcacgaagttctacttgcaccattattatcagctggtatttttggtgctgaccctataca
+hCoV-19/USA/OR- gcacgaagttctacttgcaccattattatcagctggtatttttggtgctgaccctataca
+hCoV-19/USA/OR- gcacgaagttctacttgcaccattattatcagctggtatttttggtgctgaccctataca
+hCoV-19/USA/CA- gcacgaagttctacttgcaccattattatcagctggtatttttggtgctgaccctataca
+                ************************************************************
+
+hCoV-19/USA/OR- ttctttaagagtttgtgtagatactgttcgcacaaatgtctacttagctgtctttgataa
+hCoV-19/USA/OR- ttctttaagagtttgtgtagatactgttcgcacaaatgtctacttagctgtctttgataa
+hCoV-19/USA/OR- ttctttaagagtttgtgtagatactgttcgcacaaatgtctacttagctgtctttgataa
+hCoV-19/USA/CA- ttctttaagagtttgtgtagatactgttcgcacaaatgtctacttagctgtctttgataa
+                ************************************************************
+
+hCoV-19/USA/OR- aaatctctatgacaaacttgtttcaagctttttggaaatgaagagtgaaaagcaagttga
+hCoV-19/USA/OR- aaatctctatgacaaacttgtttcaagctttttggaaatgaagagtgaaaagcaagttga
+hCoV-19/USA/OR- aaatctctatgacaaacttgtttcaagctttttggaaatgaagagtgaaaagcaagttga
+hCoV-19/USA/CA- aaatctctatgacaaacttgtttcaagctttttggaaatgaagagtgaaaagcaagttga
+                ************************************************************
+
+hCoV-19/USA/OR- acaaaagatcgctgagattcctaaagaggaagttaagccatttataactgaaagtaaacc
+hCoV-19/USA/OR- acaaaagatcgctgagattcctaaagaggaagttaagccatttataactgaaagtaaacc
+hCoV-19/USA/OR- acaaaagatcgctgagattcctaaagaggaagttaagccatttataactgaaagtaaacc
+hCoV-19/USA/CA- acaaaagatcgctgagattcctaaagaggaagttaagccatttataactgaaagtaaacc
+                ************************************************************
+
+hCoV-19/USA/OR- ttcagttgaacagagaaaacaagatgataagaaaatcaaagcttgtgttgaagaagttac
+hCoV-19/USA/OR- ttcagttgaacagagaaaacaagatgataagaaaatcaaagcttgtgttgaagaagttac
+hCoV-19/USA/OR- ttcagttgaacagagaaaacaagatgataagaaaatcaaagcttgtgttgaagaagttac
+hCoV-19/USA/CA- ttcagttgaacagagaaaacaagatgataagaaaatcaaagcttgtgttgaagaagttac
+                ************************************************************
+
+hCoV-19/USA/OR- aacaactctggaagaaactaagttcctcacagaaaacttgttactttatattgacattaa
+hCoV-19/USA/OR- aacaactctggaagaaactaagttcctcacagaaaacttgttactttatattgacattaa
+hCoV-19/USA/OR- aacaactctggaagaaactaagttcctcacagaaaacttgttactttatattgacattaa
+hCoV-19/USA/CA- aacaactctggaagaaactaagttcctcacagaaaacttgttactttatattgacattaa
+                ************************************************************
+
+hCoV-19/USA/OR- tggcaatcttcatccagattctgccactcttgttagtgacattgacatcactttcttaaa
+hCoV-19/USA/OR- tggcaatcttcatccagattctgccactcttgttagtgacattgacatcactttcttaaa
+hCoV-19/USA/OR- tggcaatcttcatccagattctgccactcttgttagtgacattgacatcactttcttaaa
+hCoV-19/USA/CA- tggcaatcttcatccagattctgccactcttgttagtgacattgacatcactttcttaaa
+                ************************************************************
+
+hCoV-19/USA/OR- gaaagatgctccatatatagtgggtgatgttgttcaagagggtgttttaactgctgtggt
+hCoV-19/USA/OR- gaaagatgctccatatatagtgggtgatgttgttcaagagggtgttttaactgctgtggt
+hCoV-19/USA/OR- gaaagatgctccatatatagtgggtgatgttgttcaagagggtgttttaactgctgtggt
+hCoV-19/USA/CA- gaaagatgctccatatatagtgggtgatgttgttcaagagggtgttttaactgctgtggt
+                ************************************************************
+
+hCoV-19/USA/OR- tatacctactaaaaaggctggtggcactactgaaatgctagcgaaagctttgagaaaagt
+hCoV-19/USA/OR- tatacctactaaaaaggctggtggcactactgaaatgctagcgaaagctttgagaaaagt
+hCoV-19/USA/OR- tatacctactaaaaaggctggtggcactactgaaatgctagcgaaagctttgagaaaagt
+hCoV-19/USA/CA- tatacctactaaaaagtctggtggcactactgaaatgctagcgaaagctttgagaaaagt
+                **************** *******************************************
+
+hCoV-19/USA/OR- gccaacagacaattatataaccacttacccgggtcagggtttaaatggttacactgtaga
+hCoV-19/USA/OR- gccaacagacaattatataaccacttacccgggtcagggtttaaatggttacactgtaga
+hCoV-19/USA/OR- gccaacagacaattatataaccacttacccgggtcagggtttaaatggttacactgtaga
+hCoV-19/USA/CA- gccaacagacaattatataaccacttacccgggtcagggtttaaatggttacactgtaga
+                ************************************************************
+
+hCoV-19/USA/OR- ggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttacattctaccatctattat
+hCoV-19/USA/OR- ggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttacattctaccatctattat
+hCoV-19/USA/OR- ggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttacattctaccatctattat
+hCoV-19/USA/CA- ggaggcaaagacagtgcttaaaaagtgtaaaagtgccttttacattctaccatctattat
+                ************************************************************
+
+hCoV-19/USA/OR- ctctaatgagaagcaagaaattcttggaactgtttcttggaatttgcgagaaatgcttgc
+hCoV-19/USA/OR- ctctaatgagaagcaagaaattcttggaactgtttcttggaatttgcgagaaatgcttgc
+hCoV-19/USA/OR- ctctaatgagaagcaagaaattcttggaactgtttcttggaatttgcgagaaatgcttgc
+hCoV-19/USA/CA- ctctaatgagaagcaagaaattcttggaactgtttcttggaatttgcgagaaatgcttgc
+                ************************************************************
+
+hCoV-19/USA/OR- acatgcagaagaaacacgcaaattaatgcctgtctgtgtggaaactaaagccatagtttc
+hCoV-19/USA/OR- acatgcagaagaaacacgcaaattaatgcctgtctgtgtggaaactaaagccatagtttc
+hCoV-19/USA/OR- acatgcagaagaaacacgcaaattaatgcctgtctgtgtggaaactaaagccatagtttc
+hCoV-19/USA/CA- acatgcagaagaaacacgcaaattaatgcctgtctgtgtggaaactaaagccatagtttc
+                ************************************************************
+
+hCoV-19/USA/OR- aactatacagcgtaaatataagggtattaaaatacaagagggtgtggttgattatggtgc
+hCoV-19/USA/OR- aactatacagcgtaaatataagggtattaaaatacaagagggtgtggttgattatggtgc
+hCoV-19/USA/OR- aactatacagcgtaaatataagggtattaaaatacaagagggtgtggttgattatggtgc
+hCoV-19/USA/CA- aactatacagcgtaaatataagggtattaaaatacaagagggtgtggttgattatggtgc
+                ************************************************************
+
+hCoV-19/USA/OR- tagattttacttttacaccagtaaaacaactgtagcgtcacttatcaacacacttaacga
+hCoV-19/USA/OR- tagattttacttttacaccagtaaaacaactgtagcgtcacttatcaacacacttaacga
+hCoV-19/USA/OR- tagattttacttttacaccagtaaaacaactgtagcgtcacttatcaacacacttaacga
+hCoV-19/USA/CA- tagattttacttttacaccagtaaaacaactgtagcgtcacttatcaacacacttaacga
+                ************************************************************
+
+hCoV-19/USA/OR- tctaaatgaaactcttgttacaatgccacttggctatgtaacacatggcttaaatttgga
+hCoV-19/USA/OR- tctaaatgaaactcttgttacaatgccacttggctatgtaacacatggcttaaatttgga
+hCoV-19/USA/OR- tctaaatgaaactcttgttacaatgccacttggctatgtaacacatggcttaaatttgga
+hCoV-19/USA/CA- tctaaatgaaactcttgttacaatgccacttggctatgtaacacatggcttaaatttgga
+                ************************************************************
+
+hCoV-19/USA/OR- agaagctgctcggtatatgagatctctcaaagtgccagctacagtttctgtttcttcacc
+hCoV-19/USA/OR- agaagctgctcggtatatgagatctctcaaagtgccagctacagtttctgtttcttcacc
+hCoV-19/USA/OR- agaagctgctcggtatatgagatctctcaaagtgccagctacagtttctgtttcttcacc
+hCoV-19/USA/CA- agaagctgctcggtatatgagatctctcaaagtgccagctacagtttctgtttcttcacc
+                ************************************************************
+
+hCoV-19/USA/OR- tgatgctgttacagcgtataatggttatcttacttcttcttctaaaacacctgaagaaca
+hCoV-19/USA/OR- tgatgctgttacagcgtataatggttatcttacttcttcttctaaaacacctgaagaaca
+hCoV-19/USA/OR- tgatgctgttacagcgtataatggttatcttacttcttcttctaaaacacctgaagaaca
+hCoV-19/USA/CA- tgatgctgttacagcgtataatggttatcttacttcttcttctaaaacacctgaagaaca
+                ************************************************************
+
+hCoV-19/USA/OR- ttttattgaaaccatctcacttgctggttcctataaagattggtcctattctggacaatc
+hCoV-19/USA/OR- ttttattgaaaccatctcacttgctggttcctataaagattggtcctattctggacaatc
+hCoV-19/USA/OR- ttttattgaaaccatctcacttgctggttcctataaagattggtcctattctggacaatc
+hCoV-19/USA/CA- ttttattgaaaccatctcacttgctggttcctataaagattggtcctattctggacaatc
+                ************************************************************
+
+hCoV-19/USA/OR- tacacaactaggtatagaatttcttaagagaggtgataaaagtgtatattacactagtaa
+hCoV-19/USA/OR- tacacaactaggtatagaatttcttaagagaggtgataaaagtgtatattacactagtaa
+hCoV-19/USA/OR- tacacaactaggtatagaatttcttaagagaggtgataaaagtgtatattacactagtaa
+hCoV-19/USA/CA- tacacaactaggtatagaatttcttaagagaggtgataaaagtgtatattacactagtaa
+                ************************************************************
+
+hCoV-19/USA/OR- tcctaccacattccacctagatggtgaagttatcacctttgacaatcttaagacacttct
+hCoV-19/USA/OR- tcctaccacattccacctagatggtgaagttatcacctttgacaatcttaagacacttct
+hCoV-19/USA/OR- tcctaccacattccacctagatggtgaagttatcacctttgacaatcttaagacacttct
+hCoV-19/USA/CA- tcctaccacattccacctagatggtgaagttatcacctttgacaatcttaagacacttct
+                ************************************************************
+
+hCoV-19/USA/OR- ttctttgagagaagtgaggactattaaggtgtttacaacagtagacaacattaacctcca
+hCoV-19/USA/OR- ttctttgagagaagtgaggactattaaggtgtttacaacagtagacaacattaacctcca
+hCoV-19/USA/OR- ttctttgagagaagtgaggactattaaggtgtttacaacagtagacaacattaacctcca
+hCoV-19/USA/CA- ttctttgagagaagtgaggactattaaggtgtttacaacagtagacaacattaacctcca
+                ************************************************************
+
+hCoV-19/USA/OR- cacgcaagttgtggacatgtcaatgacatatggacaacagtttggtccaacttatttgga
+hCoV-19/USA/OR- cacgcaagttgtggacatgtcaatgacatatggacaacagtttggtccaacttatttgga
+hCoV-19/USA/OR- cacgcaagttgtggacatgtcaatgacatatggacaacagtttggtccaacttatttgga
+hCoV-19/USA/CA- cacgcaagttgtggacatgtcaatgacatatggacaacagtttggtccaacttatttgga
+                ************************************************************
+
+hCoV-19/USA/OR- tggagctgatgttactaaaataaaacctcataattcacatgaaggtaaaacattttatgt
+hCoV-19/USA/OR- tggagctgatgttactaaaataaaacctcataattcacatgaaggtaaaacattttatgt
+hCoV-19/USA/OR- tggagctgatgttactaaaataaaacctcataattcacatgaaggtaaaacattttatgt
+hCoV-19/USA/CA- tggagctgatgttactaaaataaaacctcataattcacatgaaggtaaaacattttatgt
+                ************************************************************
+
+hCoV-19/USA/OR- tttacctaatgatgacactctacgtgttgaggcttttgagtactaccacacaactgatcc
+hCoV-19/USA/OR- tttacctaatgatgacactctacgtgttgaggcttttgagtactaccacacaactgatcc
+hCoV-19/USA/OR- tttacctaatgatgacactctacgtgttgaggcttttgagtactaccacacaactgatcc
+hCoV-19/USA/CA- tttacctaatgatgacactctacgtgttgaggcttttgagtactaccacacaactgatcc
+                ************************************************************
+
+hCoV-19/USA/OR- tagttttctgggtaggtacatgtcagcattaaatcacactaaaaagtggaaatacccaca
+hCoV-19/USA/OR- tagttttctgggtaggtacatgtcagcattaaatcacactaaaaagtggaaatacccaca
+hCoV-19/USA/OR- tagttttctgggtaggtacatgtcagcattaaatcacactaaaaagtggaaatacccaca
+hCoV-19/USA/CA- tagttttctgggtaggtacatgtcagcattaaatcacactaaaaagtggaaatacccaca
+                ************************************************************
+
+hCoV-19/USA/OR- agttaatggtttaacttctattaaatgggcagataacaactgttatcttgccactgcatt
+hCoV-19/USA/OR- agttaatggtttaacttctattaaatgggcagataacaactgttatcttgccactgcatt
+hCoV-19/USA/OR- agttaatggtttaacttctattaaatgggcagataacaactgttatcttgccactgcatt
+hCoV-19/USA/CA- agttaatggtttaacttctattaaatgggcagataacaactgttatcttgccactgcatt
+                ************************************************************
+
+hCoV-19/USA/OR- gttaacactccaacaaatagagttgaagtttaatccacctgctctacaagatgcttatta
+hCoV-19/USA/OR- gttaacactccaacaaatagagttgaagtttaatccacctgctctacaagatgcttatta
+hCoV-19/USA/OR- gttaacactccaacaaatagagttgaagtttaatccacctgctctacaagatgcttatta
+hCoV-19/USA/CA- gttaacactccaacaaatagagttgaagtttaatccacctgctctacaagatgcttatta
+                ************************************************************
+
+hCoV-19/USA/OR- cagagcaagggctggtgaagcggctaacttttgtgcacttatcttagcctactgtaataa
+hCoV-19/USA/OR- cagagcaagggctggtgaagcggctaacttttgtgcacttatcttagcctactgtaataa
+hCoV-19/USA/OR- cagagcaagggctggtgaagcggctaacttttgtgcacttatcttagcctactgtaataa
+hCoV-19/USA/CA- cagagcaagggctggtgaagctgctaacttttgtgcacttatcttagcctactgtaataa
+                ********************* **************************************
+
+hCoV-19/USA/OR- gacagtaggtgagttaggtgatgttagagaaacaatgagttacttgtttcaacatgccaa
+hCoV-19/USA/OR- gacagtaggtgagttaggtgatgttagagaaacaatgagttacttgtttcaacatgccaa
+hCoV-19/USA/OR- gacagtaggtgagttaggtgatgttagagaaacaatgagttacttgtttcaacatgccaa
+hCoV-19/USA/CA- gacagtaggtgagttaggtgatgttagagaaacaatgagttacttgtttcaacatgccaa
+                ************************************************************
+
+hCoV-19/USA/OR- tttagattcttgcaaaagagtcttgaacgtggtgtgtaaaacttgtggacaacagcagac
+hCoV-19/USA/OR- tttagattcttgcaaaagagtcttgaacgtggtgtgtaaaacttgtggacaacagcagac
+hCoV-19/USA/OR- tttagattcttgcaaaagagtcttgaacgtggtgtgtaaaacttgtggacaacagcagac
+hCoV-19/USA/CA- tttagattcttgcaaaagagtcttgaacgtggtgtgtaaaacttgtggacaacagcagac
+                ************************************************************
+
+hCoV-19/USA/OR- aacccttaagggtgtagaagctgttatgtacatgggcacactttcttatgaacaatttaa
+hCoV-19/USA/OR- aacccttaagggtgtagaagctgttatgtacatgggcacactttcttatgaacaatttaa
+hCoV-19/USA/OR- aacccttaagggtgtagaagctgttatgtacatgggcacactttcttatgaacaatttaa
+hCoV-19/USA/CA- aacccttaagggtgtagaagctgttatgtacatgggcacactttcttatgaacaatttaa
+                ************************************************************
+
+hCoV-19/USA/OR- gaaaggtgttcagataccttgtacgtgtggtaaacaagctacaaaatatctagtacaaca
+hCoV-19/USA/OR- gaaaggtgttcagataccttgtacgtgtggtaaacaagctacaaaatatctagtacaaca
+hCoV-19/USA/OR- gaaaggtgttcagataccttgtacgtgtggtaaacaagctacaaaatatctagtacaaca
+hCoV-19/USA/CA- gaaaggtgttcagataccttgtacgtgtggtaaacaagctacaaaatatctagtacaaca
+                ************************************************************
+
+hCoV-19/USA/OR- ggagtcacc-tttgttatgatgtcagcaccacctgctcagtatgaacttaagcatggtac
+hCoV-19/USA/OR- ggagtcaccttttgttatgatgtcagcaccacctgctcagtatgaacttaagcatggtac
+hCoV-19/USA/OR- ggagtcaccttttgttatgatgtcagcaccacctgctcagtatgaacttaagcatggtac
+hCoV-19/USA/CA- ggagtcaccttttgttatgatgtcagcaccacctgctcagtatgaacttaagcatggtac
+                ********* **************************************************
+
+hCoV-19/USA/OR- atttacttgtgctagtgagtacactggtaattaccagtgtggtcactataaacatataac
+hCoV-19/USA/OR- atttacttgtgctagtgagtacactggtaattaccagtgtggtcactataaacatataac
+hCoV-19/USA/OR- atttacttgtgctagtgagtacactggtaattaccagtgtggtcactataaacatataac
+hCoV-19/USA/CA- atttacttgtgctagtgagtacactggtaattaccagtgtggtcactataaacatataac
+                ************************************************************
+
+hCoV-19/USA/OR- ttctaaagaaactttgtattgcatagacggtgctttacttacaaagtcctcagaatacaa
+hCoV-19/USA/OR- ttctaaagaaactttgtattgcatagacggtgctttacttacaaagtcctcagaatacaa
+hCoV-19/USA/OR- ttctaaagaaactttgtattgcatagacggtgctttacttacaaagtcctcagaatacaa
+hCoV-19/USA/CA- ttctaaagaaactttgtattgcatagacggtgctttacttacaaagtcctcagaatacaa
+                ************************************************************
+
+hCoV-19/USA/OR- aggtcctattacggatgttttctacaaagaaaacagttacacaacaaccataaaaccagt
+hCoV-19/USA/OR- aggtcctattacggatgttttctacaaagaaaacagttacacaacaaccataaaaccagt
+hCoV-19/USA/OR- aggtcctattacggatgttttctacaaagaaaacagttacacaacaaccataaaaccagt
+hCoV-19/USA/CA- aggtcctattacggatgttttctacaaagaaaacagttacacaacaaccataaaaccagt
+                ************************************************************
+
+hCoV-19/USA/OR- tacttataaattggatggtgttgtttgtacagaaattgaccctaagttggacaattatta
+hCoV-19/USA/OR- tacttataaattggatggtgttgtttgtacagaaattgaccctaagttggacaattatta
+hCoV-19/USA/OR- tacttataaattggatggtgttgtttgtacagaaattgaccctaagttggacaattatta
+hCoV-19/USA/CA- tacttataaattggatggtgttgtttgtacagaaattgaccctaagttggacaattatta
+                ************************************************************
+
+hCoV-19/USA/OR- taagaaagacaattcttatttcacagagcaaccaattgatcttgtaccaaaccaaccata
+hCoV-19/USA/OR- taagaaagacaattcttatttcacagagcaaccaattgatcttgtaccaaaccaaccata
+hCoV-19/USA/OR- taagaaagacaattcttatttcacagagcaaccaattgatcttgtaccaaaccaaccata
+hCoV-19/USA/CA- taagaaagacaattcttatttcacagagcaaccaattgatcttgtaccaaaccaaccata
+                ************************************************************
+
+hCoV-19/USA/OR- tccaaacgcaagcttcgataattttaagtttgtatgtgataatatcaaatttgctgatga
+hCoV-19/USA/OR- tccaaacgcaagcttcgataattttaagtttgtatgtgataatatcaaatttgctgatga
+hCoV-19/USA/OR- tccaaacgcaagcttcgataattttaagtttgtatgtgataatatcaaatttgctgatga
+hCoV-19/USA/CA- tccaaacgcaagcttcgataattttaagtttgtatgtgataatatcaaatttgctgatga
+                ************************************************************
+
+hCoV-19/USA/OR- tttaaaccagttaactggttataagaaacctgcttcaagagagcttaaagttacattttt
+hCoV-19/USA/OR- tttaaaccagttaactggttataagaaacctgcttcaagagagcttaaagttacattttt
+hCoV-19/USA/OR- tttaaaccagttaactggttataagaaacctgcttcaagagagcttaaagttacattttt
+hCoV-19/USA/CA- tttaaaccagttaactggttataagaaacctgcttcaagagagcttaaagttacattttt
+                ************************************************************
+
+hCoV-19/USA/OR- ccctgacttaaatggtgatgtggtggctattgattataaacactacacaccctcttttaa
+hCoV-19/USA/OR- ccctgacttaaatggtgatgtggtggctattgattataaacactacacaccctcttttaa
+hCoV-19/USA/OR- ccctgacttaaatggtgatgtggtggctattgattataaacactacacaccctcttttaa
+hCoV-19/USA/CA- ccctgacttaaatggtgatgtggtggctattgattataaacactacacaccctcttttaa
+                ************************************************************
+
+hCoV-19/USA/OR- gaaaggagctaaattgttacataaacctattgtttggcatgttaacaatgcaactaataa
+hCoV-19/USA/OR- gaaaggagctaaattgttacataaacctattgtttggcatgttaacaatgcaactaataa
+hCoV-19/USA/OR- gaaaggagctaaattgttacataaacctattgtttggcatgttaacaatgcaactaataa
+hCoV-19/USA/CA- gaaaggagctaaattgttacataaacctattgtttggcatgttaacaatgcaactaataa
+                ************************************************************
+
+hCoV-19/USA/OR- agccacgtataaaccaaatacctggtgtatacgttgtctttggagcacaaaaccagttga
+hCoV-19/USA/OR- agccacgtataaaccaaatacctggtgtatacgttgtctttggagcacaaaaccagttga
+hCoV-19/USA/OR- agccacgtataaaccaaatacctggtgtatacgttgtctttggagcacaaaaccagttga
+hCoV-19/USA/CA- agccacgtataaaccaaatacctggtgtatacgttgtctttggagcacaaaaccagttga
+                ************************************************************
+
+hCoV-19/USA/OR- aacatcaaattcgtttgatgtactgaagtcagaggacgcgcagggaatggataatcttgc
+hCoV-19/USA/OR- aacatcaaattcgtttgatgtactgaagtcagaggacgcgcagggaatggataatcttgc
+hCoV-19/USA/OR- aacatcaaattcgtttgatgtactgaagtcagaggacgcgcagggaatggataatcttgc
+hCoV-19/USA/CA- aacatcaaattcgtttgatgtactgaagtcagaggacgcgcagggaatggataatcttgc
+                ************************************************************
+
+hCoV-19/USA/OR- ctgcgaagatctaaaaccagtctctgaagaagtagtggaaaatcctaccatacagaaaga
+hCoV-19/USA/OR- ctgcgaagatctaaaaccagtctctgaagaagtagtggaaaatcctaccatacagaaaga
+hCoV-19/USA/OR- ctgcgaagatctaaaaccagtctctgaagaagtagtggaaaatcctaccatacagaaaga
+hCoV-19/USA/CA- ctgcgaagatctaaaactagtctctgaagaagtagtggaaaatcctaccatacagaaaga
+                *****************.******************************************
+
+hCoV-19/USA/OR- cgttcttgagtgtaatgtgaaaactaccgaagttgtaggagacattatacttaaaccagc
+hCoV-19/USA/OR- cgttcttgagtgtaatgtgaaaactaccgaagttgtaggagacattatacttaaaccagc
+hCoV-19/USA/OR- cgttcttgagtgtaatgtgaaaactaccgaagttgtaggagacattatacttaaaccagc
+hCoV-19/USA/CA- cgttcttgagtgtaatgtgaaaactaccgaagttgtaggagacattatacttaaaccagc
+                ************************************************************
+
+hCoV-19/USA/OR- aaataatannntaaaaattacagaagaggttggccacacagatctaatggctgcttatgt
+hCoV-19/USA/OR- aaataatannntaaaaattacagaagaggttggccacacagatctaatggctgcttatgt
+hCoV-19/USA/OR- aaataatannntaaaaattacagaagaggttggccacacagatctaatggctgcttatgt
+hCoV-19/USA/CA- aaataatagtttaaaaattacagaagaggttggccacacagatctaatggctgcttatgt
+                ********   *************************************************
+
+hCoV-19/USA/OR- agacaattctagtcttactattaagaaacctaatgaattatctagagtattaggtttgaa
+hCoV-19/USA/OR- agacaattctagtcttactattaagaaacctaatgaattatctagagtattaggtttgaa
+hCoV-19/USA/OR- agacaattctagtcttactattaagaaacctaatgaattatctagagtattaggtttgaa
+hCoV-19/USA/CA- agacaattctagtcttactattaagaaacctaatgaattatctagagtattaggtttgaa
+                ************************************************************
+
+hCoV-19/USA/OR- aacccttgctactcatggtttagctgctgttaatagtgtcccttgggatactatagctaa
+hCoV-19/USA/OR- aacccttgctactcatggtttagctgctgttaatagtgtcccttgggatactatagctaa
+hCoV-19/USA/OR- aacccttgctactcatggtttagctgctgttaatagtgtcccttgggatactatagctaa
+hCoV-19/USA/CA- aacccttgctactcatggtttagctgctgttaatagtgtcccttgggatactatagctaa
+                ************************************************************
+
+hCoV-19/USA/OR- ttatgctaagcctttttcttaacaaagttgttagtacaactactaacatagttacacggt
+hCoV-19/USA/OR- ttatgctaagcctttttcttaacaaagttgttagtacaactactaacatagttacacggt
+hCoV-19/USA/OR- ttatgctaagcctttttcttaacaaagttgttagtacaactactaacatagttacacggt
+hCoV-19/USA/CA- ttatgctaagcc-ttttcttaacaaagttgttagtacaactactaacatagttacacggt
+                ************ ***********************************************
+
+hCoV-19/USA/OR- gtttaaaccgtgtttgtactaattatatgccttatttctttactttattgctacaattgt
+hCoV-19/USA/OR- gtttaaaccgtgtttgtactaattatatgccttatttctttactttattgctacaattgt
+hCoV-19/USA/OR- gtttaaaccgtgtttgtactaattatatgccttatttctttactttattgctacaattgt
+hCoV-19/USA/CA- gtttaaaccgtgtttgtactaattatatgccttatttctttactttattgctacaattgt
+                ************************************************************
+
+hCoV-19/USA/OR- gtacttttactagaagtacaaattctagaattaaagcatctatgccgactactatagcaa
+hCoV-19/USA/OR- gtacttttactagaagtacaaattctagaattaaagcatctatgccgactactatagcaa
+hCoV-19/USA/OR- gtacttttactagaagtacaaattctagaattaaagcatctatgccgactactatagcaa
+hCoV-19/USA/CA- gtacttttactagaagtacaaattctagaattaaagcatctatgccgactactatagcaa
+                ************************************************************
+
+hCoV-19/USA/OR- agaatactgttaagagtgtcggtaaattttgtctagaggcttcatttaattatttgaagt
+hCoV-19/USA/OR- agaatactgttaagagtgtcggtaaattttgtctagaggcttcatttaattatttgaagt
+hCoV-19/USA/OR- agaatactgttaagagtgtcggtaaattttgtctagaggcttcatttaattatttgaagt
+hCoV-19/USA/CA- agaatactgttaagagtgtcggtaaattttgtctagaggcttcatttaattatttgaagt
+                ************************************************************
+
+hCoV-19/USA/OR- cacctaatttttctaaactgataaatattataatttggtttttactattaagtgtttgcc
+hCoV-19/USA/OR- cacctaatttttctaaactgataaatattataatttggtttttactattaagtgtttgcc
+hCoV-19/USA/OR- cacctaatttttctaaactgataaatattataatttggtttttactattaagtgtttgcc
+hCoV-19/USA/CA- cacctaatttttctaaactgataaatattataatttggtttttactattaagtgtttgcc
+                ************************************************************
+
+hCoV-19/USA/OR- taggttctttaatctactcaaccgctgctttaggtgttttaatgtctaatttaggcatgc
+hCoV-19/USA/OR- taggttctttaatctactcaaccgctgctttaggtgttttaatgtctaatttaggcatgc
+hCoV-19/USA/OR- taggttctttaatctactcaaccgctgctttaggtgttttaatgtctaatttaggcatgc
+hCoV-19/USA/CA- taggttctttaatctactcaaccgctgctttaggtgttttaatgtctaatttaggcatgc
+                ************************************************************
+
+hCoV-19/USA/OR- cttcttactgtactggttacagagaaggctatttgaactctactaatgtcactattgcaa
+hCoV-19/USA/OR- cttcttactgtactggttacagagaaggctatttgaactctactaatgtcactattgcaa
+hCoV-19/USA/OR- cttcttactgtactggttacagagaaggctatttgaactctactaatgtcactattgcaa
+hCoV-19/USA/CA- cttcttactgtactggttacagagaaggctatttgaactctactaatgtcactattgcaa
+                ************************************************************
+
+hCoV-19/USA/OR- cctactgtactggttctataccttgtagtgtttgtcttagtggtttagattctttagaca
+hCoV-19/USA/OR- cctactgtactggttctataccttgtagtgtttgtcttagtggtttagattctttagaca
+hCoV-19/USA/OR- cctactgtactggttctataccttgtagtgtttgtcttagtggtttagattctttagaca
+hCoV-19/USA/CA- cctactgtactggttctatatcttgtagtgtttgtcttagtggtttagattctttagaca
+                ********************.***************************************
+
+hCoV-19/USA/OR- cctatccttctttagaaactatacaaattaccatttcatcttttaaatgggatttaactg
+hCoV-19/USA/OR- cctatccttctttagaaactatacaaattaccatttcatcttttaaatgggatttaactg
+hCoV-19/USA/OR- cctatccttctttagaaactatacaaattaccatttcatcttttaaatgggatttaactg
+hCoV-19/USA/CA- cctatccttctttagaaactatacaaattaccatttcatcttttaaatgggatttaactg
+                ************************************************************
+
+hCoV-19/USA/OR- cttttggcttagttgcagagtggtttttggcatatattcttttcactaggtttttctatg
+hCoV-19/USA/OR- cttttggcttagttgcagagtggtttttggcatatattcttttcactaggtttttctatg
+hCoV-19/USA/OR- cttttggcttagttgcagagtggtttttggcatatattcttttcactaggtttttctatg
+hCoV-19/USA/CA- cttttggcttagttgcagagtggtttttggcatatattcttttcactaggtttttctatg
+                ************************************************************
+
+hCoV-19/USA/OR- tacttggattggctgcaatcatgcaattgtttttcagctattttgcagtacattttatta
+hCoV-19/USA/OR- tacttggattggctgcaatcatgcaattgtttttcagctattttgcagtacattttatta
+hCoV-19/USA/OR- tacttggattggctgcaatcatgcaattgtttttcagctattttgcagtacattttatta
+hCoV-19/USA/CA- tacttggattggctgcaatcatgcaattgtttttcagctattttgcagtacattttatta
+                ************************************************************
+
+hCoV-19/USA/OR- gtaattcttggcttatgtggttaataattaatcttgtacaaatggccccgatttcagcta
+hCoV-19/USA/OR- gtaattcttggcttatgtggttaataattaatcttgtacaaatggccccgatttcagcta
+hCoV-19/USA/OR- gtaattcttggcttatgtggttaataattaatcttgtacaaatggccccgatttcagcta
+hCoV-19/USA/CA- gtaattcttggcttatgtggttaataattaatcttgtacaaatggccccgatttcagcta
+                ************************************************************
+
+hCoV-19/USA/OR- tggttagaatgtacatcttctttgcatcattttattatgtatggaaaagttatgtgcatg
+hCoV-19/USA/OR- tggttagaatgtacatcttctttgcatcattttattatgtatggaaaagttatgtgcatg
+hCoV-19/USA/OR- tggttagaatgtacatcttctttgcatcattttattatgtatggaaaagttatgtgcatg
+hCoV-19/USA/CA- tggttagaatgtacatcttctttgcatcattttattatgtatggaaaagttatgtgcatg
+                ************************************************************
+
+hCoV-19/USA/OR- ttgtagacggttgtaattcatcaacttgtatgatgtgttacaaaacgtaatagagcaaca
+hCoV-19/USA/OR- ttgtagacggttgtaattcatcaacttgtatgatgtgttacaaaacgtaatagagcaaca
+hCoV-19/USA/OR- ttgtagacggttgtaattcatcaacttgtatgatgtgttac-aaacgtaatagagcaaca
+hCoV-19/USA/CA- ttgtagacggttgtaattcatcaacttgtatgatgtgttac-aaacgtaatagagcaaca
+                ***************************************** ******************
+
+hCoV-19/USA/OR- agagtcgaatgtacaactattgttaatggtgttagaaggtccttttatgtctatgctaat
+hCoV-19/USA/OR- agagtcgaatgtacaactattgttaatggtgttagaaggtccttttatgtctatgctaat
+hCoV-19/USA/OR- agagtcgaatgtacaactattgttaatggtgttagaaggtccttttatgtctatgctaat
+hCoV-19/USA/CA- agagtcgaatgtacaactattgttaatggtgttagaaggtccttttatgtctatgctaat
+                ************************************************************
+
+hCoV-19/USA/OR- ggaggtaaaggctttttgcaaactacacaattggaattgtgttaattgtgatacattctg
+hCoV-19/USA/OR- ggaggtaaaggc-ttttgcaaactacacaattggaattgtgttaattgtgatacattctg
+hCoV-19/USA/OR- ggaggtaaaggc-ttttgcaaactacacaattggaattgtgttaattgtgatacattctg
+hCoV-19/USA/CA- ggaggtaaaggc-ttttgcaaactacacaattggaattgtgttaattgtgatacattctg
+                ************ ***********************************************
+
+hCoV-19/USA/OR- tgctggtagtacatttattagtgatgaagttgcgagagacttgtcactacagtttaaaag
+hCoV-19/USA/OR- tgctggtagtacatttattagtgatgaagttgcgagagacttgtcactacagtttaaaag
+hCoV-19/USA/OR- tgctggtagtacatttattagtgatgaagttgcgagagacttgtcactacagtttaaaag
+hCoV-19/USA/CA- tgctggtagtacatttattagtgatgaagttgcgagagacttgtcactacagtttaaaag
+                ************************************************************
+
+hCoV-19/USA/OR- accaataaatcctactgaccagtcttcttacatcgttgatagtgttacagtgaagaatgg
+hCoV-19/USA/OR- accaataaatcctactgaccagtcttcttacatcgttgatagtgttacagtgaagaatgg
+hCoV-19/USA/OR- accaataaatcctactgaccagtcttcttacatcgttgatagtgttacagtgaagaatgg
+hCoV-19/USA/CA- accaataaatcctactgaccagtcttcttacatcgttgatagtgttacagtgaagaatgg
+                ************************************************************
+
+hCoV-19/USA/OR- ttccatccatctttactttgataaagctggtcaaaagacttatgaaagacattctctctc
+hCoV-19/USA/OR- ttccatccatctttactttgataaagctggtcaaaagacttatgaaagacattctctctc
+hCoV-19/USA/OR- ttccatccatctttactttgataaagctggtcaaaagacttatgaaagacattctctctc
+hCoV-19/USA/CA- ttccatccatctttactttgataaagctggtcaaaagacttatgaaagacattctctctc
+                ************************************************************
+
+hCoV-19/USA/OR- tcattttgttaacttagacaacctgagagctaataacactaaaggttcattgcctattaa
+hCoV-19/USA/OR- tcattttgttaacttagacaacctgagagctaatagcactaaaggttcattgcctattaa
+hCoV-19/USA/OR- tcattttgttaacttagacaacctgagagctaataacactaaaggttcattgcctattaa
+hCoV-19/USA/CA- tcattttgttaacttagacaacctgagagctaataacactaaaggttcattgcctattaa
+                ***********************************.************************
+
+hCoV-19/USA/OR- tgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgcaaaatcagcgtctgt
+hCoV-19/USA/OR- tgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgcaaaatcagcgtctgt
+hCoV-19/USA/OR- tgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgcaaaatcagcgtctgt
+hCoV-19/USA/CA- tgttatagtttttgatggtaaatcaaaatgtgaagaatcatctgcaaaatcagcgtctgt
+                ************************************************************
+
+hCoV-19/USA/OR- ttactacagtcagcttatgtgtcaacctatactgttactagatcaggcattagtgtctga
+hCoV-19/USA/OR- ttactacagtcagcttatgtgtcaacctatactgttactagatcaggcattagtgtctga
+hCoV-19/USA/OR- ttactacagtcagcttatgtgtcaacctatactgttactagatcaggcattagtgtctga
+hCoV-19/USA/CA- ttactacagtcagcttatgtgtcaacctatactgttactagatcaggcattagtgtctga
+                ************************************************************
+
+hCoV-19/USA/OR- tgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttacgttaatacgttttc
+hCoV-19/USA/OR- tgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttacgttaatacgttttc
+hCoV-19/USA/OR- tgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttacgttaatacgttttc
+hCoV-19/USA/CA- tgttggtgatagtgcggaagttgcagttaaaatgtttgatgcttacgttaatacgttttc
+                ************************************************************
+
+hCoV-19/USA/OR- atcaacttttaacgtaccaatggaaaaactcaaaacactagttgcaactgcagaagctga
+hCoV-19/USA/OR- atcaacttttaacgtaccaatggaaaaactcaaaacactagttgcaactgcagaagctga
+hCoV-19/USA/OR- atcaacttttaacgtaccaatggaaaaactcaaaacactagttgcaactgcagaagctga
+hCoV-19/USA/CA- atcaacttttaacgtaccaatggaaaaactcaaaacactagttgcaactgcagaagctga
+                ************************************************************
+
+hCoV-19/USA/OR- acttgcaaagaatgtgtccttagacaatgtcttatctacttttatttcagcagctcggca
+hCoV-19/USA/OR- acttgcaaagaatgtgtccttagacaatgtcttatctacttttatttcagcagctcggca
+hCoV-19/USA/OR- acttgcaaagaatgtgtccttagacaatgtcttatctacttttatttcagcagctcggca
+hCoV-19/USA/CA- acttgcaaagaatgtgtccttagacaatgtcttatctacttttatttcagcagctcggca
+                ************************************************************
+
+hCoV-19/USA/OR- agggtttgttgattcagatgtagaaactaaagatgttgttgaatgtcttaaattgtcaca
+hCoV-19/USA/OR- agggtttgttgattcagatgtagaaactaaagatgttgttgaatgtcttaaattgtcaca
+hCoV-19/USA/OR- agggtttgttgattcagatgtagaaactaaagatgttgttgaatgtcttaaattgtcaca
+hCoV-19/USA/CA- agggtttgttgattcagatgtagaaactaaagatgttgttgaatgtcttaaattgtcaca
+                ************************************************************
+
+hCoV-19/USA/OR- tcaatctgacatagaagttactggcgatagttgtaataactatatgctcacctataacaa
+hCoV-19/USA/OR- tcaatctgacatagaagttactggcgatagttgtaataactatatgctcacctataacaa
+hCoV-19/USA/OR- tcaatctgacatagaagttactggcgatagttgtaataactatatgctcacctataacaa
+hCoV-19/USA/CA- tcaatctgacatagaagttactggcgatagttgtaataactatatgctcacctataacaa
+                ************************************************************
+
+hCoV-19/USA/OR- agttgaaaacatgacaccccgtgaccttggtgcttgtattgactgtagtgcgcgtcatat
+hCoV-19/USA/OR- agttgaaaacatgacaccccgtgaccttggtgcttgtattgactgtagtgcgcgtcatat
+hCoV-19/USA/OR- agttgaaaacatgacaccccgtgaccttggtgcttgtattgactgtagtgcgcgtcatat
+hCoV-19/USA/CA- agttgaaaacatgacaccccgtgaccttggtgcttgtattgactgtagtgcgcgtcatat
+                ************************************************************
+
+hCoV-19/USA/OR- taatgcgcaggtagc-aaaagtcacaacattactttgatatggaacgttaaagatttcat
+hCoV-19/USA/OR- taatgcgcaggtagcaaaaagtcacaacattactttgatatggaacgttaaagatttcat
+hCoV-19/USA/OR- taatgcgcaggtagcaaaaagtcacaacattactttgatatggaacgttaaagatttcat
+hCoV-19/USA/CA- taatgcgcaggtagcaaaaagtcacaacattgctttgatatggaacgttaaagatttcat
+                *************** ***************.****************************
+
+hCoV-19/USA/OR- gtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaaaagaataacttacc
+hCoV-19/USA/OR- gtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaaaagaataacttacc
+hCoV-19/USA/OR- gtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaaaagaataacttacc
+hCoV-19/USA/CA- gtcattgtctgaacaactacgaaaacaaatacgtagtgctgctaaaaagaataacttacc
+                ************************************************************
+
+hCoV-19/USA/OR- ttttaagttgacatgtgcaactactagacaagttgttaatgttgtaacaacaaagatagc
+hCoV-19/USA/OR- ttttaagttgacatgtgcaactactagacaagttgttaatgttgtaacaacaaagatagc
+hCoV-19/USA/OR- ttttaagttgacatgtgcaactactagacaagttgttaatgttgtaacaacaaagatagc
+hCoV-19/USA/CA- ttttaagttgacatgtgcaactactagacaagttgttaatgttgtaacaacaaagatagc
+                ************************************************************
+
+hCoV-19/USA/OR- acttaagggtggtaaaattgttaataattggttgaagcagttaattaaagttacacttgt
+hCoV-19/USA/OR- acttaagggtggtaaaattgttaataattggttgaagcagttaattaaagttacacttgt
+hCoV-19/USA/OR- acttaagggtggtaaaattgttaataattggttgaagcagttaattaaagttacacttgt
+hCoV-19/USA/CA- acttaagggtggtaaaattgttaataattggttgaagcagttaattaaagttacacttgt
+                ************************************************************
+
+hCoV-19/USA/OR- gttcctttttgttgctgctattttctatttaataacacctgttcatgtcatgtctaaaca
+hCoV-19/USA/OR- gttcctttttgttgctgctattttctatttaataacacctgttcatgtcatgtctaaaca
+hCoV-19/USA/OR- gttcctttttgttgctgctattttctatttaataacacctgttcatgtcatgtctaaaca
+hCoV-19/USA/CA- gttcctttttgttgctgctattttctatttaataacacctgttcatgtcatgtctaaaca
+                ************************************************************
+
+hCoV-19/USA/OR- tactgacttttcaagtgaaatcataggatacaaggctattgatggtggtgtcactcgtga
+hCoV-19/USA/OR- tactgacttttcaagtgaaatcataggatacaaggctattgatggtggtgtcactcgtga
+hCoV-19/USA/OR- tactgacttttcaagtgaaatcataggatacaaggctattgatggtggtgtcactcgtga
+hCoV-19/USA/CA- tactgacttttcaagtgaaatcataggatannnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                ******************************                              
+
+hCoV-19/USA/OR- catagcatctacagatacttgttttgctaacaaacatgctgattttgacacatggtttag
+hCoV-19/USA/OR- catagcatctacagatacttgttttgctaacaaacatgctgattttgacacatggtttag
+hCoV-19/USA/OR- catagcatctacagatacttgttttgctaacaaacatgctgattttgacacatggtttag
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ccagcgtggtggtagttatactaatgacaaagcttgcccattgattgctgcagtcataac
+hCoV-19/USA/OR- ccagcgtggtggtagttatactaatgacaaagcttgcccattgattgctgcagtcataac
+hCoV-19/USA/OR- ccagcgtggtggtagttatactaatgacaaagcttgcccattgattgctgcagtcataac
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- aagagaagtgggttttgtcgtgcctggtttgcctggcacgatattacgcacaactaatgg
+hCoV-19/USA/OR- aagagaagtgggttttgtcgtgcctggtttgcctggcacgatattacgcacaactaatgg
+hCoV-19/USA/OR- aagagaagtgggttttgtcgtgcctggtttgcctggcacgatattacgcacaactaatgg
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- tgactttttgcatttcttacctagagtttttagtgcagttggtaacatctgttacacacc
+hCoV-19/USA/OR- tgactttttgcatttcttacctagagtttttagtgcagttggtaacatctgttacacacc
+hCoV-19/USA/OR- tgactttttgcatttcttacctagagtttttagtgcagttggtaacatctgttacacacc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnaacatctgttacacacc
+                                                           *****************
+
+hCoV-19/USA/OR- atcaaaacttatagagtacactgactttgcaacatcagcttgtgttttggctgctgaatg
+hCoV-19/USA/OR- atcaaaacttatagagtacactgactttgcaacatcagcttgtgttttggctgctgaatg
+hCoV-19/USA/OR- atcaaaacttatagagtacactgactttgcaacatcagcttgtgttttggctgctgaatg
+hCoV-19/USA/CA- atcaaaacttatagagtacactgattttgcaacatcagcttgtgttttggctgctgaatg
+                ************************.***********************************
+
+hCoV-19/USA/OR- tacaatttttaaagatgcttctggtaagccagtaccatattgttatgataccaatgtact
+hCoV-19/USA/OR- tacaatttttaaagatgcttctggtaagccagtaccatattgttatgataccaatgtact
+hCoV-19/USA/OR- tacaatttttaaagatgcttctggtaagccagtaccatattgttatgataccaatgtact
+hCoV-19/USA/CA- tacaatttttaaagatgcttctggtaagccattaccatattgttatgataccaatgtact
+                ******************************* ****************************
+
+hCoV-19/USA/OR- agaaggttctgttgcttatgaaagtttacgccctgacacacgttatgtgctcatggatgg
+hCoV-19/USA/OR- agaaggttctgttgcttatgaaagtttacgccctgacacacgttatgtgctcatggatgg
+hCoV-19/USA/OR- agaaggttctgttgcttatgaaagtttacgccctgacacacgttatgtgctcatggatgg
+hCoV-19/USA/CA- agaaggttctgttgcttatgaaagtttacgccctgacacacgttatgtgctcatggatgg
+                ************************************************************
+
+hCoV-19/USA/OR- ctctattattcaatttcctaacacctaccttgaaggttctgttagagtggtaacaacttt
+hCoV-19/USA/OR- ctctattattcaatttcctaacacctaccttgaaggttctgttagagtggtaacaacttt
+hCoV-19/USA/OR- ctctattattcaatttcctaacacctaccttgaaggttctgttagagtggtaacaacttt
+hCoV-19/USA/CA- ctctattattcaatttcctaacacctaccttgaaggttctgttagagtggtaacaacttt
+                ************************************************************
+
+hCoV-19/USA/OR- tgattctgagtactgtaggcacggcacttgtgaaagatcagaagctggtgtttgtgtatc
+hCoV-19/USA/OR- tgattctgagtactgtaggcacggcacttgtgaaagatcagaagctggtgtttgtgtatc
+hCoV-19/USA/OR- tgattctgagtactgtaggcacggcacttgtgaaagatcagaagctggtgtttgtgtatc
+hCoV-19/USA/CA- tgactctgagtactgtaggcacggcacttgtgaaagatcagaagctggtgtttgtgtatc
+                ***.********************************************************
+
+hCoV-19/USA/OR- tactagtggtagatgggtacttaacaatgattattacagatctttaccaggagttttctg
+hCoV-19/USA/OR- tactagtggtagatgggtacttaacaatgattattacagatctttaccaggagttttctg
+hCoV-19/USA/OR- tactagtggtagatgggtacttaacaatgattattacagatctttaccaggagttttctg
+hCoV-19/USA/CA- tactagtggtagatgggtacttaacaatgattattacagatctttnnnnnnnnnnnnnnn
+                *********************************************               
+
+hCoV-19/USA/OR- tggtgtagatgctgtaaatttacttactaatatgtttacaccactaattcaacctattgg
+hCoV-19/USA/OR- tggtgtagatgctgtaaatttacttactaatatgtttacaccactaattcaacctattgg
+hCoV-19/USA/OR- tggtgtagatgctgtaaatttacttactaatatgtttacaccactaattcaacctattgg
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnactaatatgtttacacnnnnnnnnnnnnnnattgg
+                                         ****************              *****
+
+hCoV-19/USA/OR- tgctttggacatatcagcatctatagtagctggtggtattgtagctatcgtagtaacatg
+hCoV-19/USA/OR- tgctttggacatatcagcatctatagtagctggtggtattgtagctatcgtagtaacatg
+hCoV-19/USA/OR- tgctttggacatatcagcatctatagtagctggtggtattgtagctatcgtagtaacatg
+hCoV-19/USA/CA- tgctttggacatatcnnnatctatagtagctggtggtattgtagctatcgtagtaacatg
+                ***************   ******************************************
+
+hCoV-19/USA/OR- ccttgcctactattttatgaggtttagaagagcttttggtgaatacagtcatgtagttgc
+hCoV-19/USA/OR- ccttgcctactattttatgaggtttagaagagcttttggtgaatacagtcatgtagttgc
+hCoV-19/USA/OR- ccttgcctactattttatgaggtttagaagagcttttggtgaatacagtcatgtagttgc
+hCoV-19/USA/CA- ccttgcctactattttatgaggtttagaagagcttttggtgaatacagtcatgtagttgc
+                ************************************************************
+
+hCoV-19/USA/OR- ctttaatactttactattccttatgtcattcactgtactc--------------------
+hCoV-19/USA/OR- ctttaatactttactattccttatgtcattcactgtactctgtttaacaccagtttactc
+hCoV-19/USA/OR- ctttaatactttactattccttatgtcattcactgtactctgtttaacaccagtttactc
+hCoV-19/USA/CA- ctttaatactttactattccttatgtcattcactgtactctgtttaacaccagtttactc
+                ****************************************                    
+
+hCoV-19/USA/OR- ------------tgtttattctgttatttacttgtacttgacattttatcttactaatga
+hCoV-19/USA/OR- attcttacctggtgtttattctgttatttacttgtacttgacattttatcttactaatga
+hCoV-19/USA/OR- attcttacctggtgtttattctgttatttacttgtacttgacattttatcttactaatga
+hCoV-19/USA/CA- attcttacctggtgtttattctgttatttacttgtacttgacattttatcttactaatga
+                            ************************************************
+
+hCoV-19/USA/OR- tgtttcttttttagcacatattcagtggatggttatgttcacacctttagtacctttctg
+hCoV-19/USA/OR- tgtttcttttttagcacatattcagtggatggttatgttcacacctttagtacctttctg
+hCoV-19/USA/OR- tgtttcttttttagcacatattcagtggatggttatgttcacacctttagtacctttctg
+hCoV-19/USA/CA- tgtttcttttttagcacatattcagtggatggttatgttcacacctttagtacctttctg
+                ************************************************************
+
+hCoV-19/USA/OR- gataacaattgcttatatcatttgtatttccacaaagcatttctattggttctttagtaa
+hCoV-19/USA/OR- gataacaattgcttatatcatttgtatttccacaaagcatttctattggttctttagtaa
+hCoV-19/USA/OR- gataacaattgcttatatcatttgtatttccacaaagcatttctattggttctttagtaa
+hCoV-19/USA/CA- gataacaattgcttatatcatttgtatttccacaaagcatttctattggttctttagtaa
+                ************************************************************
+
+hCoV-19/USA/OR- ttacctaaagagacgtgtagtctttaatggtgtttcctttagtacttttgaagaagctgc
+hCoV-19/USA/OR- ttacctaaagagacgtgtagtctttaatggtgtttcctttagtacttttgaagaagctgc
+hCoV-19/USA/OR- ttacctaaagagacgtgtagtctttaatggtgtttcctttagtacttttgaagaagctgc
+hCoV-19/USA/CA- ttacctaaagagacgtgtagtctttaatggtgtttcctttagtacttttgaagaagctgc
+                ************************************************************
+
+hCoV-19/USA/OR- gctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgtagtgatgtgctatt
+hCoV-19/USA/OR- gctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgtagtgatgtgctatt
+hCoV-19/USA/OR- gctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgtagtgatgtgctatt
+hCoV-19/USA/CA- gctgtgcacctttttgttaaataaagaaatgtatctaaagttgcgtagtgatgtgctatt
+                ************************************************************
+
+hCoV-19/USA/OR- acctcttacgcaatataatagatacttagctctttataataagtacaagtattttagtgg
+hCoV-19/USA/OR- acctcttacgcaatataatagatacttagctctttataataagtacaagtattttagtgg
+hCoV-19/USA/OR- acctcttacgcaatataatagatacttagctctttataataagtacaagtattttagtgg
+hCoV-19/USA/CA- acctcttacgcaatataatagatacttagctctttataataagtacaagtattttagtgg
+                ************************************************************
+
+hCoV-19/USA/OR- agcaatggatacaactagctacagagaagctgcttgttgtcatctcgcaaaggctctcaa
+hCoV-19/USA/OR- agcaatggatacaactagctacagagaagctgcttgttgtcatctcgcaaaggctctcaa
+hCoV-19/USA/OR- agcaatggatacaactagctacagagaagctgcttgttgtcatctcgcaaaggctctcaa
+hCoV-19/USA/CA- agcaatggatacaactagctacagagaagctgcttgttgtcatctcgcaaaggctctcaa
+                ************************************************************
+
+hCoV-19/USA/OR- tgacttcagtaactcaggttctgatgttctttaccaaccaccacaaatctctatcacctc
+hCoV-19/USA/OR- tgacttcagtaactcaggttctgatgttctttaccaaccaccacaaatctctatcacctc
+hCoV-19/USA/OR- tgacttcagtaactcaggttctgatgttctttaccaaccaccacaaatctctatcacctc
+hCoV-19/USA/CA- tgacttcagtaactcaggttctgatgttctttaccaaccaccacaaatctctatcacctc
+                ************************************************************
+
+hCoV-19/USA/OR- agctgttttgcagagtggttttagaaaaatggcattcccatctggtaaagttgagggttg
+hCoV-19/USA/OR- agctgttttgcagagtggttttagaaaaatggcattcccatctggtaaagttgagggttg
+hCoV-19/USA/OR- agctgttttgcagagtggttttagaaaaatggcattcccatctggtaaagttgagggttg
+hCoV-19/USA/CA- agctgttttgcagagtggttttagaaaaatggcattcccatctggtaaagttgagggttg
+                ************************************************************
+
+hCoV-19/USA/OR- tatggtacaagtaacttgtggtacaactacacttaacggtctttggcttgatgacgtagt
+hCoV-19/USA/OR- tatggtacaagtaacttgtggtacaactacacttaacggtctttggcttgatgacgtagt
+hCoV-19/USA/OR- tatggtacaagtaacttgtggtacaactacacttaacggtctttggcttgatgacgtagt
+hCoV-19/USA/CA- tatggtacaagtaacttgtggtacaactacacttaacggtctttggcttgatgacgtagt
+                ************************************************************
+
+hCoV-19/USA/OR- ttactgtccaagacatgtgatctgcacctctgaagacatgcttaaccctaattatgaaga
+hCoV-19/USA/OR- ttactgtccaagacatgtgatctgcacctctgaagacatgcttaaccctaattatgaaga
+hCoV-19/USA/OR- ttactgtccaagacatgtgatctgcacctctgaagacatgcttaaccctaattatgaaga
+hCoV-19/USA/CA- ttactgtccaagacatgtgatctgcacctctgaagacatgcttaaccctaattatgaaga
+                ************************************************************
+
+hCoV-19/USA/OR- tttactcattcgtaagtctaatcataatttcttggtacaggctggtaatgttcaactcag
+hCoV-19/USA/OR- tttactcattcgtaagtctaatcataatttcttggtacaggctggtaatgttcaactcag
+hCoV-19/USA/OR- tttactcattcgtaagtctaatcataatttcttggtacaggctggtaatgttcaactcag
+hCoV-19/USA/CA- tttactcattcgtaagtctaatcataatttcttggtacaggctggtaatgttcaactcag
+                ************************************************************
+
+hCoV-19/USA/OR- ggttattggacattctatgcaaaattgtgtacttaagcttaaggttgatacagccaatcc
+hCoV-19/USA/OR- ggttattggacattctatgcaaaattgtgtacttaagcttaaggttgatacagccaatcc
+hCoV-19/USA/OR- ggttattggacattctatgcaaaattgtgtacttaagcttaaggttgatacagccaatcc
+hCoV-19/USA/CA- ggttattggacattctatgcaaaattgtgtacttaagcttaaggttgatacagccaatcc
+                ************************************************************
+
+hCoV-19/USA/OR- taagacacctaagtataagtttgttcgcattcaaccaggacagactttttcagtgttagc
+hCoV-19/USA/OR- taagacacctaagtataagtttgttcgcattcaaccaggacagactttttcagtgttagc
+hCoV-19/USA/OR- taagacacctaagtataagtttgttcgcattcaaccaggacagactttttcagtgttagc
+hCoV-19/USA/CA- taagacacctaagtataagtttgttcgcattcaaccaggacagactttttcagtgttagc
+                ************************************************************
+
+hCoV-19/USA/OR- ttgttacaatggttcaccatctggtgtttaccaatgtgctatgaggcacaatttcactat
+hCoV-19/USA/OR- ttgttacaatggttcaccatctggtgtttaccaatgtgctatgaggcacaatttcactat
+hCoV-19/USA/OR- ttgttacaatggttcaccatctggtgtttaccaatgtgctatgaggcacaatttcactat
+hCoV-19/USA/CA- ttgttacaatggttcaccatctggtgtttaccaatgtgctatgaggcacaatttcactat
+                ************************************************************
+
+hCoV-19/USA/OR- taagggttcattccttaatggttcatgtggtagtgttggttttaacatagattatgactg
+hCoV-19/USA/OR- taagggttcattccttaatggttcatgtggtagtgttggttttaacatagattatgactg
+hCoV-19/USA/OR- taagggttcattccttaatggttcatgtggtagtgttggttttaacatagattatgactg
+hCoV-19/USA/CA- taagggttcattccttaatggttcatgtggtagtgttggttttaacatagattatgactg
+                ************************************************************
+
+hCoV-19/USA/OR- tgtctctttttgttacatgcaccatatggaattaccaactggagttcatgctggcacaga
+hCoV-19/USA/OR- tgtctctttttgttacatgcaccatatggaattaccaactggagttcatgctggcacaga
+hCoV-19/USA/OR- tgtctctttttgttacatgcaccatatggaattaccaactggagttcatgctggcacaga
+hCoV-19/USA/CA- tgtctctttttgttacatgcaccatatggaattaccaactggagttcatgctggcacaga
+                ************************************************************
+
+hCoV-19/USA/OR- cttagaaggtaacttttatggaccttttgttgacaggcaaacagcacaagcagctggtac
+hCoV-19/USA/OR- cttagaaggtaacttttatggaccttttgttgacaggcaaacagcacaagcagctggtac
+hCoV-19/USA/OR- cttagaaggtaacttttatggaccttttgttgacaggcaaacagcacaagcagctggtac
+hCoV-19/USA/CA- cttagaaggtaacttttatggaccttttgttgacaggcaaacagcacaagcagctggtac
+                ************************************************************
+
+hCoV-19/USA/OR- ggacacaactattacagttaatgttttagcttggttgtacgctgctgttataaatggaga
+hCoV-19/USA/OR- ggacacaactattacagttaatgttttagcttggttgtacgctgctgttataaatggaga
+hCoV-19/USA/OR- ggacacaactattacagttaatgttttagcttggttgtacgctgctgttataaatggaga
+hCoV-19/USA/CA- ggacacaactattacagttaatgttttagcttggttgtacgctgctgttataaatggaga
+                ************************************************************
+
+hCoV-19/USA/OR- caggtggtttctcaatcgatttaccacaactcttaatgactttaaccttgtggctatgaa
+hCoV-19/USA/OR- caggtggtttctcaatcgatttaccacaactcttaatgactttaaccttgtggctatgaa
+hCoV-19/USA/OR- caggtggtttctcaatcgatttaccacaactcttaatgactttaaccttgtggctatgaa
+hCoV-19/USA/CA- caggtggtttctcaatcgatttaccacaactcttaatgactttaaccttgtggctatgaa
+                ************************************************************
+
+hCoV-19/USA/OR- gtacaattatgaacctctaacacaagaccatgttgacatactaggacctctttctgctca
+hCoV-19/USA/OR- gtacaattatgaacctctaacacaagaccatgttgacatactaggacctctttctgctca
+hCoV-19/USA/OR- gtacaattatgaacctctaacacaagaccatgttgacatactaggacctctttctgctca
+hCoV-19/USA/CA- gtacaattatgaacctctaacacaagaccatgttgacatactaggacctctttctgctca
+                ************************************************************
+
+hCoV-19/USA/OR- aactggaattgccgttttagatatgtgtgcttcattaaaagaattactgcaaaatggtat
+hCoV-19/USA/OR- aactggaattgccgttttagatatgtgtgcttcattaaaagaattactgcaaaatggtat
+hCoV-19/USA/OR- aactggaattgccgttttagatatgtgtgcttcattaaaagaattactgcaaaatggtat
+hCoV-19/USA/CA- aactggaattgccgttttagatatgtgtgcttcattaaaagaattactgcaaaatggtat
+                ************************************************************
+
+hCoV-19/USA/OR- gaatggacgtaccatattgggtagtgctttattagaagatgaatttacaccttttgatgt
+hCoV-19/USA/OR- gaatggacgtaccatattgggtagtgctttattagaagatgaatttacaccttttgatgt
+hCoV-19/USA/OR- gaatggacgtaccatattgggtagtgctttattagaagatgaatttacaccttttgatgt
+hCoV-19/USA/CA- gaatggacgtaccatattgggtagtgctttattagaagatgaatttacaccttttgatgt
+                ************************************************************
+
+hCoV-19/USA/OR- tgttagacaatgctcaggtgttactttccaaagtgcagtgaaaagaacaatcaagggtac
+hCoV-19/USA/OR- tgttagacaatgctcaggtgttactttccaaagtgcagtgaaaagaacaatcaagggtac
+hCoV-19/USA/OR- tgttagacaatgctcaggtgttactttccaaagtgcagtgaaaagaacaatcaagggtac
+hCoV-19/USA/CA- tgttagacaatgctcaggtgttactttccaaagtgcagtgaaaagaacaatcaagggtac
+                ************************************************************
+
+hCoV-19/USA/OR- acaccactggttgttactcacaattttgacttcacttttagttttagtccagagtactca
+hCoV-19/USA/OR- acaccactggttgttactcacaattttgacttcacttttagttttagtccagagtactca
+hCoV-19/USA/OR- acaccactggttgttactcacaattttgacttcacttttagttttagtccagagtactca
+hCoV-19/USA/CA- acaccactggttgttactcacaattttgacttcacttttagttttagtccagagtactca
+                ************************************************************
+
+hCoV-19/USA/OR- atggtctttgttc-ttttttttgtatgaaaatgcctttttaccttttgctatgggtatta
+hCoV-19/USA/OR- atggtctttgttc-ttttttttgtatgaaaatgcctttttaccttttgctatgggtatta
+hCoV-19/USA/OR- atggtctttgttctttttttttgtatgaaaatgcctttttaccttttgctatgggtatta
+hCoV-19/USA/CA- atggtctttgttc-ttttttttgtatgaaaatgcctttttaccttttgctatgggtatta
+                ************* **********************************************
+
+hCoV-19/USA/OR- ttgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgcatttctctgtttgt
+hCoV-19/USA/OR- ttgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgcatttctctgtttgt
+hCoV-19/USA/OR- ttgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgcatttctctgtttgt
+hCoV-19/USA/CA- ttgctatgtctgcttttgcaatgatgtttgtcaaacataagcatgcatttctctgtttgt
+                ************************************************************
+
+hCoV-19/USA/OR- ttttgttaccttctcttgccactgtagcttattttaatatggtctatatgcctgctagtt
+hCoV-19/USA/OR- ttttgttaccttctcttgccactgtagcttattttaatatggtctatatgcctgctagtt
+hCoV-19/USA/OR- ttttgttaccttctcttgccactgtagcttattttaatatggtctatatgcctgctagtt
+hCoV-19/USA/CA- ttttgttaccttctcttgccactgtagcttattttaatatggtctatatgcctgctagtt
+                ************************************************************
+
+hCoV-19/USA/OR- gggtgatgcgtattatgacatggttggatatggttgatactagtttnnnnngttttaagc
+hCoV-19/USA/OR- gggtgatgcgtattatgacatggttggatatggttgatactannnnnnnnngttttaagc
+hCoV-19/USA/OR- gggtgatgcgtattatgacatggttggatatggttgatactannnnntctggttttaagc
+hCoV-19/USA/CA- gggtgatgcgtattatgacatggttggatatggttgatactagtttnnnnnnnnntaagc
+                ******************************************             *****
+
+hCoV-19/USA/OR- taaaagactgtgttatgtatgcatcagctgtagtgttactaatccttatgacagcaagaa
+hCoV-19/USA/OR- taaaagactgtgttatgtatgcatcagctgtagtgttactaatccttatgacagcaagaa
+hCoV-19/USA/OR- taaaagactgtgttatgtatgcatcagctgtagtgttactaatccttatgacagcaagaa
+hCoV-19/USA/CA- taaaagactgtgttatgtatgcatcagctgtagtgttactaatccttatgacagcaagaa
+                ************************************************************
+
+hCoV-19/USA/OR- ctgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtcttgacactcgttt
+hCoV-19/USA/OR- ctgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtcttgacactcgttt
+hCoV-19/USA/OR- ctgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtcttgacactcgttt
+hCoV-19/USA/CA- ctgtgtatgatgatggtgctaggagagtgtggacacttatgaatgtcttgacactcgttt
+                ************************************************************
+
+hCoV-19/USA/OR- ataaagtttattatggtaatgctttagatcaagccatttccatgtgggctcttataatct
+hCoV-19/USA/OR- ataaagtttattatggtaatgctttagatcaagccatttccatgtgggctcttataatct
+hCoV-19/USA/OR- ataaagtttattatggtaatgctttagatcaagccatttccatgtgggctcttataatct
+hCoV-19/USA/CA- ataaagtttattatggtaatgctttagatcaagccatttccatgtgggctcttataatct
+                ************************************************************
+
+hCoV-19/USA/OR- ctgttacttctaactactcaggtgtagttacaactgtcatgtttttggccagaggtgttg
+hCoV-19/USA/OR- ctgttacttctaactactcaggtgtagttacaactgtcatgtttttggccagaggtgttg
+hCoV-19/USA/OR- ctgttacttctaactactcaggtgtagttacaactgtcatgtttttggccagaggtgttg
+hCoV-19/USA/CA- ctgttacttctaactactcaggtgtagttacaactgtcatgtttttggccagaggtgttg
+                ************************************************************
+
+hCoV-19/USA/OR- tttttatgtgtgttgagtattgccctattttcttcataactggtaatacacttcagtgta
+hCoV-19/USA/OR- tttttatgtgtgttgagtattgccctattttcttcataactggtaatacacttcagtgta
+hCoV-19/USA/OR- tttttatgtgtgttgagtattgccctattttcttcataactggtaatacacttcagtgta
+hCoV-19/USA/CA- tttttatgtgtgttgagtattgccctattttcttcataactggtaatacacttcagtgta
+                ************************************************************
+
+hCoV-19/USA/OR- taatgctagtttattgtttcttaggctatttttgtacttgttactttggcctcttttgtt
+hCoV-19/USA/OR- taatgctagtttattgtttcttaggctatttttgtacttgttactttggcctcttttgtt
+hCoV-19/USA/OR- taatgctagtttattgtttcttaggctatttttgtacttgttactttggcctcttttgtt
+hCoV-19/USA/CA- taatgctagtttattgtttcttaggctatttttgtacttgttactttggcctcttttgtt
+                ************************************************************
+
+hCoV-19/USA/OR- tactcaaccgctactttagactgactcttggtgtttatgattacttagtttctacacagg
+hCoV-19/USA/OR- tactcaaccgctactttagactgactcttggtgtttatgattacttagtttctacacagg
+hCoV-19/USA/OR- tactcaaccgctactttagactgactcttggtgtttatgattacttagtttctacacagg
+hCoV-19/USA/CA- tactcaaccgctactttagactgactcttggtgtttatgattacttagtttctacacagg
+                ************************************************************
+
+hCoV-19/USA/OR- agtttagatatatgaattcacagggactactcccacccaagaatagcatagatgccttca
+hCoV-19/USA/OR- agtttagatatatgaattcacagggactactcccacccaagaatagcatagatgccttca
+hCoV-19/USA/OR- agtttagatatatgaattcacagggactactcccacccaagaatagcatagatgccttca
+hCoV-19/USA/CA- agtttagatatatgaattcacagggactactcccacccaagaatagcatagatgccttca
+                ************************************************************
+
+hCoV-19/USA/OR- aactcaacattaaattgttgggtgttggtggcaaaaccttgtatcaaagtagccactgta
+hCoV-19/USA/OR- aactcaacattaaattgttgggtgttggtggcaaaaccttgtatcaaagtagccactgta
+hCoV-19/USA/OR- aactcaacattaaattgttgggtgttggtggc-aaaccttgtatcaaagtagccactgta
+hCoV-19/USA/CA- aactcaacattaaattgttgggtgttggtggc-aaaccttgtatcaaagtagccactgta
+                ******************************** ***************************
+
+hCoV-19/USA/OR- cagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctcagttttgcaacaa
+hCoV-19/USA/OR- cagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctcagttttgcaacaa
+hCoV-19/USA/OR- cagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctcagttttgcaacaa
+hCoV-19/USA/CA- cagtctaaaatgtcagatgtaaagtgcacatcagtagtcttactctcagttttgcaacaa
+                ************************************************************
+
+hCoV-19/USA/OR- ctcagagtagaatcatcatctaaattgtgggctcaatgtgtccagttacacaatgacatt
+hCoV-19/USA/OR- ctcagagtagaatcatcatctaaattgtgggctcaatgtgtccagttacacaatgacatt
+hCoV-19/USA/OR- ctcagagtagaatcatcatctaaattgtgggctcaatgtgtccagttacacaatgacatt
+hCoV-19/USA/CA- ctcagagtagaatcatcatctaaattgtgggctcaatgtgtccagttacacaatgacatt
+                ************************************************************
+
+hCoV-19/USA/OR- ctcttagctaaagatactactgaagcctttgaaaaaatggtttcactactttctgttttg
+hCoV-19/USA/OR- ctcttagctaaagatactactgaagcctttgaaaaaatggtttcactactttctgttttg
+hCoV-19/USA/OR- ctcttagctaaagatactactgaagcctttgaaaaaatggtttcactactttctgttttg
+hCoV-19/USA/CA- ctcttagctaaagatactactgaagcctttgaaaaaatggtttcactactttctgttttg
+                ************************************************************
+
+hCoV-19/USA/OR- ctttccatgcagggtgctgtagacataaacaagctttgtgaagaaatgctggacaacagg
+hCoV-19/USA/OR- ctttccatgcagggtgctgtagacataaacaagctttgtgaagaaatgctggacaacagg
+hCoV-19/USA/OR- ctttccatgcagggtgctgtagacataaacaagctttgtgaagaaatgctggacaacagg
+hCoV-19/USA/CA- ctttccatgcagggtgctgtagacataaacaagctttgtgaagaaatgctggacaacagg
+                ************************************************************
+
+hCoV-19/USA/OR- gcaaccttacaagctatagcctcagagtttagttcccttccatcatatgcagcttttgct
+hCoV-19/USA/OR- gcaaccttacaagctatagcctcagagtttagttcccttccatcatatgcagcttttgct
+hCoV-19/USA/OR- gcaaccttacaagctatagcctcagagtttagttcccttccatcatatgcagcttttgct
+hCoV-19/USA/CA- gcaaccttacaagctatagcctcagagtttagttcccttccatcatatgcagcttttgct
+                ************************************************************
+
+hCoV-19/USA/OR- actgctcaagaagcttatgagcaggctgttgctaatggtgattctgaagttgttcttaaa
+hCoV-19/USA/OR- actgctcaagaagcttatgagcaggctgttgctaatggtgattctgaagttgttcttaaa
+hCoV-19/USA/OR- actgctcaagaagcttatgagcaggctgttgctaatggtgattctgaagttgttcttaaa
+hCoV-19/USA/CA- actgctcaagaagcttatgagcaggctgttgctaatggtgattctgaagttgttcttaaa
+                ************************************************************
+
+hCoV-19/USA/OR- aagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgatgcagccatgcaa
+hCoV-19/USA/OR- aagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgatgcagccatgcaa
+hCoV-19/USA/OR- aagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgatgcagccatgcaa
+hCoV-19/USA/CA- aagttgaagaagtctttgaatgtggctaaatctgaatttgaccgtgatgcagccatgcaa
+                ************************************************************
+
+hCoV-19/USA/OR- cgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaacaggctagatct
+hCoV-19/USA/OR- cgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaacaggctagatct
+hCoV-19/USA/OR- cgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaacaggctagatct
+hCoV-19/USA/CA- cgtaagttggaaaagatggctgatcaagctatgacccaaatgtataaacaggctagatct
+                ************************************************************
+
+hCoV-19/USA/OR- gaggacaagagggcaaaagttactagtgctatgcagacaatgcttttcactatgcttaga
+hCoV-19/USA/OR- gaggacaagagggcaaaagttactagtgctatgcagacaatgcttttcactatgcttaga
+hCoV-19/USA/OR- gaggacaagagggcaaaagttactagtgctatgcagacaatgcttttcactatgcttaga
+hCoV-19/USA/CA- gaggacaagagggcaaaagttactagtgctatgcagacaatgcttttcactatgcttaga
+                ************************************************************
+
+hCoV-19/USA/OR- aagttggataatgatgcactcaacaacattatcaacaatgcaagagatggttgtgttccc
+hCoV-19/USA/OR- aagttggataatgatgcactcaacaacattatcaacaatgcaagagatggttgtgttccc
+hCoV-19/USA/OR- aagttggataatgatgcactcaacaacattatcaacaatgcaagagatggttgtgttccc
+hCoV-19/USA/CA- aagttggataatgatgcactcaacaacattatcaacaatgcaagagatggttgtgttccc
+                ************************************************************
+
+hCoV-19/USA/OR- ttgaacataatacctcttacaacagcagccaaactaatggttgtcataccagactataac
+hCoV-19/USA/OR- ttgaacataatacctcttacaacagcagccaaactaatggttgtcataccagactataac
+hCoV-19/USA/OR- ttgaacataatacctcttacaacagcagccaaactaatggttgtcataccagactataac
+hCoV-19/USA/CA- ttgaacataatacctcttacaacagcagccaaactaatggttgtcataccagactataac
+                ************************************************************
+
+hCoV-19/USA/OR- acatataaaaatacgtgtgatggtacaacatttacttatgcatcagcattgtgggaaatc
+hCoV-19/USA/OR- acatataaaaatacgtgtgatggtacaacatttacttatgcatcagcattgtgggaaatc
+hCoV-19/USA/OR- acatataaaaatacgtgtgatggtacaacatttacttatgcatcagcattgtgggaaatc
+hCoV-19/USA/CA- acatataaaaatacgtgtgatggtacaacatttacttatgcatcagcattgtgggaaatc
+                ************************************************************
+
+hCoV-19/USA/OR- caacaggttgtagatgcagatagtaaaattgttcaacttagtgaaattagtatggacaat
+hCoV-19/USA/OR- caacaggttgtagatgcagatagtaaaattgttcaacttagtgaaattagtatggacaat
+hCoV-19/USA/OR- caacaggttgtagatgcagatagtaaaattgttcaacttagtgaaattagtatggacaat
+hCoV-19/USA/CA- caacaggttgtagatgcagatagtaaaattgttcaacttagtgaaattagtatggacaat
+                ************************************************************
+
+hCoV-19/USA/OR- tcacctaatttagcatggcctcttattgtaacagctttaagggccaattctgctgtcaaa
+hCoV-19/USA/OR- tcacctaatttagcatggcctcttattgtaacagctttaagggccaattctgctgtcaaa
+hCoV-19/USA/OR- tcacctaatttagcatggcctcttattgtaacagctttaagggccaattctgctgtcaaa
+hCoV-19/USA/CA- tcacctaatttagcatggcctcttattgtaacagctttaagggccaattctgctgtcaaa
+                ************************************************************
+
+hCoV-19/USA/OR- ttacagaataatgagcttagtcctgttgcactacgacagatgtcttgtgctgccggtact
+hCoV-19/USA/OR- ttacagaataatgagcttagtcctgttgcactacgacagatgtcttgtgctgccggtact
+hCoV-19/USA/OR- ttacagaataatgagcttagtcctgttgcactacgacagatgtcttgtgctgccggtact
+hCoV-19/USA/CA- ttacagaataatgagcttagtcctgttgcactacgacagatgtcttgtgctgccggtact
+                ************************************************************
+
+hCoV-19/USA/OR- acacaaactgcttgcactgatgacaatgcgttagcttactacaacacaacaaagggaggt
+hCoV-19/USA/OR- acacaaactgcttgcactgatgacaatgcgttagcttactacaacacaacaaagggaggt
+hCoV-19/USA/OR- acacaaactgcttgcactgatgacaatgcgttagcttactacaacacaacaaagggaggt
+hCoV-19/USA/CA- acacaaactgcttgcactgatgacaatgcgttagcttactacaacacaacaaagggaggt
+                ************************************************************
+
+hCoV-19/USA/OR- aggtttgtacttgcactgttatccgatttacaggatttgaaatgggctagattccctaag
+hCoV-19/USA/OR- aggtttgtacttgcactgttatccgatttacaggatttgaaatgggctagattccctaag
+hCoV-19/USA/OR- aggtttgtacttgcactgttatccgatttacaggatttgaaatgggctagattccctaag
+hCoV-19/USA/CA- aggtttgtacttgcactgttatccgatttacaggatttgaaatgggctagattccctaag
+                ************************************************************
+
+hCoV-19/USA/OR- agtgatggaactggtactatctatacagaactggaaccaccttgtaggtttgttacagac
+hCoV-19/USA/OR- agtgatggaactggtactatctatacagaactggaaccaccttgtaggtttgttacagac
+hCoV-19/USA/OR- agtgatggaactggtactatctatacagaactggaaccaccttgtaggtttgttacagac
+hCoV-19/USA/CA- agtgatggaactggtactatctatacagaactggaaccaccttgtaggtttgttacagac
+                ************************************************************
+
+hCoV-19/USA/OR- acacctaaaggtcctaaagtgaagtatttatactttattaaaggattaaacaacctaaat
+hCoV-19/USA/OR- acacctaaaggtcctaaagtgaagtatttatactttattaaaggattaaacaacctaaat
+hCoV-19/USA/OR- acacctaaaggtcctaaagtgaagtatttatactttattaaaggattaaacaacctaaat
+hCoV-19/USA/CA- acacctaaaggtcctaaagtgaagtatttatactttattaaaggattaaacaacctaaat
+                ************************************************************
+
+hCoV-19/USA/OR- agaggtatggtacttggtagtttagctgccacagtacgtctacaagctggtaatgcaaca
+hCoV-19/USA/OR- agaggtatggtacttggtagtttagctgccacagtacgtctacaagctggtaatgcaaca
+hCoV-19/USA/OR- agaggtatggtacttggtagtttagctgccacagtacgtctacaagctggtaatgcaaca
+hCoV-19/USA/CA- agaggtatggtacttggtagtttagctgccacagtacgtctacaagctggtaatgcaaca
+                ************************************************************
+
+hCoV-19/USA/OR- gaagtgcctgccaattcaactgtattatctttctgtgcttttgctgtagatgctgctaaa
+hCoV-19/USA/OR- gaagtgcctgccaattcaactgtattatctttctgtgcttttgctgtagatgctgctaaa
+hCoV-19/USA/OR- gaagtgcctgccaattcaactgtattatctttctgtgcttttgctgtagatgctgctaaa
+hCoV-19/USA/CA- gaagtgcctgccaattcaactgtattatctttctgtgcttttgctgtagatgctgctaaa
+                ************************************************************
+
+hCoV-19/USA/OR- gcttacaaagattatctagctagtgggggacaaccaatcactaattgtgttaagatgttg
+hCoV-19/USA/OR- gcttacaaagattatctagctagtgggggacaaccaatcactaattgtgttaagatgttg
+hCoV-19/USA/OR- gcttacaaagattatctagctagtgggggacaaccaatcactaattgtgttaagatgttg
+hCoV-19/USA/CA- gcttacaaagattatctagctagtgggggacaaccaatcactaattgtgttaagatgttg
+                ************************************************************
+
+hCoV-19/USA/OR- tgtacacacactggtactggtcaggcaataacagtcacaccggaagccaatatggatcaa
+hCoV-19/USA/OR- tgtacacacactggtactggtcaggcaataacagtcacaccggaagccaatatggatcaa
+hCoV-19/USA/OR- tgtacacacactggtactggtcaggcaataacagtcacaccggaagccaatatggatcaa
+hCoV-19/USA/CA- tgtacacacactggtactggtcaggcaataacagttacaccggaagccaatatggatcaa
+                ***********************************.************************
+
+hCoV-19/USA/OR- gaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacatagatcatccaaat
+hCoV-19/USA/OR- gaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacatagatcatccaaat
+hCoV-19/USA/OR- gaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacatagatcatccaaat
+hCoV-19/USA/CA- gaatcctttggtggtgcatcgtgttgtctgtactgccgttgccacatagatcatccaaat
+                ************************************************************
+
+hCoV-19/USA/OR- cctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctacaacttgtgctaat
+hCoV-19/USA/OR- cctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctacaacttgtgctaat
+hCoV-19/USA/OR- cctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctacaacttgtgctaat
+hCoV-19/USA/CA- cctaaaggattttgtgacttaaaaggtaagtatgtacaaatacctacaacttgtgctaat
+                ************************************************************
+
+hCoV-19/USA/OR- gaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggtatgtggaaaggt
+hCoV-19/USA/OR- gaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggtatgtggaaaggt
+hCoV-19/USA/OR- gaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggtatgtggaaaggt
+hCoV-19/USA/CA- gaccctgtgggttttacacttaaaaacacagtctgtaccgtctgcggtatgtggaaaggt
+                ************************************************************
+
+hCoV-19/USA/OR- tatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagctgatgcacaatcg
+hCoV-19/USA/OR- tatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagctgatgcacaatcg
+hCoV-19/USA/OR- tatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagctgatgcacaatcg
+hCoV-19/USA/CA- tatggctgtagttgtgatcaactccgcgaacccatgcttcagtcagctgatgcacaatcg
+                ************************************************************
+
+hCoV-19/USA/OR- tttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcggcacaggcacta
+hCoV-19/USA/OR- tttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcggcacaggcacta
+hCoV-19/USA/OR- tttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcggcacaggcacta
+hCoV-19/USA/CA- tttttaaacgggtttgcggtgtaagtgcagcccgtcttacaccgtgcggcacaggcacta
+                ************************************************************
+
+hCoV-19/USA/OR- gtactgatgtcgtatacagggcttttgacatctacaatgataaagtagctggttttgcta
+hCoV-19/USA/OR- gtactgatgtcgtatacagggcttttgacatctacaatgataaagtagctggttttgcta
+hCoV-19/USA/OR- gtactgatgtcgtatacagggcttttgacatctacaatgataaagtagctggttttgcta
+hCoV-19/USA/CA- gtactgatgtcgtatacagggcttttgacatctacaatgataaagtagctggttttgcta
+                ************************************************************
+
+hCoV-19/USA/OR- aattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatgacaatttaattg
+hCoV-19/USA/OR- aattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatgacaatttaattg
+hCoV-19/USA/OR- aattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatgacaatttaattg
+hCoV-19/USA/CA- aattcctaaaaactaattgttgtcgcttccaagaaaaggacgaagatgacaatttaattg
+                ************************************************************
+
+hCoV-19/USA/OR- attcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaattt
+hCoV-19/USA/OR- attcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaattt
+hCoV-19/USA/OR- attcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaattt
+hCoV-19/USA/CA- attcttactttgtagttaagagacacactttctctaactaccaacatgaagaaacaattt
+                ************************************************************
+
+hCoV-19/USA/OR- ataatttacttaaggattgtccagctgttgctaaacatgacttctttaagtttagaatag
+hCoV-19/USA/OR- ataatttacttaaggattgtccagctgttgctaaacatgacttctttaagtttagaatag
+hCoV-19/USA/OR- ataatttacttaaggattgtccagctgttgctaaacatgacttctttaagtttagaatag
+hCoV-19/USA/CA- ataatttacttaaggattgtccagctgttgctaaacatgacttctttaagtttagaatag
+                ************************************************************
+
+hCoV-19/USA/OR- acggtgacatggtaccacatatatcacgtcaacgtcttactaaatacacaatggcagacc
+hCoV-19/USA/OR- acggtgacatggtaccacatatatcacgtcaacgtcttactaaatacacaatggcagacc
+hCoV-19/USA/OR- acggtgacatggtaccacatatatcacgtcaacgtcttactaaatacacaatggcagacc
+hCoV-19/USA/CA- acggtgacatggtaccacatatatcacgtcaacgtcttactaaatacacaatggcagacc
+                ************************************************************
+
+hCoV-19/USA/OR- tcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaaaagaaatacttg
+hCoV-19/USA/OR- tcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaaaagaaatacttg
+hCoV-19/USA/OR- tcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaaaagaaatacttg
+hCoV-19/USA/CA- tcgtctatgctttaaggcattttgatgaaggtaattgtgacacattaaaagaaatacttg
+                ************************************************************
+
+hCoV-19/USA/OR- tcacatacaattgttgtgatgatgattatttcaataaaaaggactggtatgattttgtag
+hCoV-19/USA/OR- tcacatacaattgttgtgatgatgattatttcaataaaaaggactggtatgattttgtag
+hCoV-19/USA/OR- tcacatacaattgttgtgatgatgattatttcaataaaaaggactggtatgattttgtag
+hCoV-19/USA/CA- tcacatacaattgttgtgatgatgattatttcaataaaaaggactggtatgattttgtag
+                ************************************************************
+
+hCoV-19/USA/OR- aaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtacgccaagctttgt
+hCoV-19/USA/OR- aaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtacgccaagctttgt
+hCoV-19/USA/OR- aaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtacgccaagctttgt
+hCoV-19/USA/CA- aaaacccagatatattacgcgtatacgccaacttaggtgaacgtgtacgccaagctttgt
+                ************************************************************
+
+hCoV-19/USA/OR- taaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttggtgtactgacat
+hCoV-19/USA/OR- taaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttggtgtactgacat
+hCoV-19/USA/OR- taaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttggtgtactgacat
+hCoV-19/USA/CA- taaaaacagtacaattctgtgatgccatgcgaaatgctggtattgttggtgtactgacat
+                ************************************************************
+
+hCoV-19/USA/OR- tagataatcaagatctcaatggtaactggtatgatttcggtgatttcatacaaaccacgc
+hCoV-19/USA/OR- tagataatcaagatctcaatggtaactggtatgatttcggtgatttcatacaaaccacgc
+hCoV-19/USA/OR- tagataatcaagatctcaatggtaactggtatgatttcggtgatttcatacaaaccacgc
+hCoV-19/USA/CA- tagataatcaagatctcaatggtaactggtatgatttcggtgatttcatacaaaccacgc
+                ************************************************************
+
+hCoV-19/USA/OR- caggtagtggagttcctgttgtagattcttattattcattgttaatgcctatattaacct
+hCoV-19/USA/OR- caggtagtggagttcctgttgtagattcttattattcattgttaatgcctatattaacct
+hCoV-19/USA/OR- caggtagtggagttcctgttgtagattcttattattcattgttaatgcctatattaacct
+hCoV-19/USA/CA- caggtagtggagttcctgttgtagattcttattattcattgttaatgcctatattaacct
+                ************************************************************
+
+hCoV-19/USA/OR- tgaccagggctttaactgcagagtcacatgttgacactgacttaacaaagccttacatta
+hCoV-19/USA/OR- tgaccagggctttaactgcagagtcacatgttgacactgacttaacaaagccttacatta
+hCoV-19/USA/OR- tgaccagggctttaactgcagagtcacatgttgacactgacttaacaaagccttacatta
+hCoV-19/USA/CA- tgaccagggctttaactgcagagtcacatgttgacactgacttaacaaagccttacatta
+                ************************************************************
+
+hCoV-19/USA/OR- agtgggatttgttaaaatatgacttcacggaagagaggttaaaactctttgaccgttatt
+hCoV-19/USA/OR- agtgggatttgttaaaatatgacttcacggaagagaggttaaaactctttgaccgttatt
+hCoV-19/USA/OR- agtgggatttgttaaaatatgacttcacggaagagaggttaaaactctttgaccgttatt
+hCoV-19/USA/CA- agtgggatttgttaaaatatgacttcacggaagagaggttaaaactctttgaccgttatt
+                ************************************************************
+
+hCoV-19/USA/OR- ttaaatattgggatcagacataccacccaaattgtgttaactgtttggatgacagatgca
+hCoV-19/USA/OR- ttaaatattgggatcagacataccacccaaattgtgttaactgtttggatgacagatgca
+hCoV-19/USA/OR- ttaaatattgggatcagacataccacccaaattgtgttaactgtttggatgacagatgca
+hCoV-19/USA/CA- ttaaatattgggatcagacataccacccaaattgtgttaactgtttggatgacagatgca
+                ************************************************************
+
+hCoV-19/USA/OR- ttctgcattgtgcaaactttaatgttttattctctacagtgttcccacttacaagttttg
+hCoV-19/USA/OR- ttctgcattgtgcaaactttaatgttttattctctacagtgttcccacttacaagttttg
+hCoV-19/USA/OR- ttctgcattgtgcaaactttaatgttttattctctacagtgttcccacttacaagttttg
+hCoV-19/USA/CA- ttctgcattgtgcaaactttaatgttttattctctacagtgttcccacttacaagttttg
+                ************************************************************
+
+hCoV-19/USA/OR- gaccactagtgagaaaaatatttgttgatggtgttccatttgtagtttcaactggatacc
+hCoV-19/USA/OR- gaccactagtgagaaaaatatttgttgatggtgttccatttgtagtttcaactggatacc
+hCoV-19/USA/OR- gaccactagtgagaaaaatatttgttgatggtgttccatttgtagtttcaactggatacc
+hCoV-19/USA/CA- gaccactagtgagaaaaatatttgttgatggtgttccatttgtagtttcaactggatacc
+                ************************************************************
+
+hCoV-19/USA/OR- acttcagagagctaggtgttgtacataatcaggatgtaaacttacatagctctagactta
+hCoV-19/USA/OR- acttcagagagctaggtgttgtacataatcaggatgtaaacttacatagctctagactta
+hCoV-19/USA/OR- acttcagagagctaggtgttgtacataatcaggatgtaaacttacatagctctagactta
+hCoV-19/USA/CA- acttcagagagctaggtgttgtacataatcaggatgtaaacttacatagctctagactta
+                ************************************************************
+
+hCoV-19/USA/OR- gttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctgcttctggtaatc
+hCoV-19/USA/OR- gttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctgcttctggtaatc
+hCoV-19/USA/OR- gttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctgcttctggtaatc
+hCoV-19/USA/CA- gttttaaggaattacttgtgtatgctgctgaccctgctatgcacgctgcttctggtaatc
+                ************************************************************
+
+hCoV-19/USA/OR- tattactagataaacgcactacgtgcttttcagtagctgcacttactaacaatgttgctt
+hCoV-19/USA/OR- tattactagataaacgcactacgtgcttttcagtagctgcacttactaacaatgttgctt
+hCoV-19/USA/OR- tattactagataaacgcactacgtgcttttcagtagctgcacttactaacaatgttgctt
+hCoV-19/USA/CA- tattactagataaacgcactacgtgcttttcagtagctgcacttactaacaatgttgctt
+                ************************************************************
+
+hCoV-19/USA/OR- ttcaaactgtcaaacccggtaattttaacaaagacttctatgactttgctgtgtctaagg
+hCoV-19/USA/OR- ttcaaactgtcaaacccggtaattttaacaaagacttctatgactttgctgtgtctaagg
+hCoV-19/USA/OR- ttcaaactgtcaaacccggtaattttaacaaagacttctatgactttgctgtgtctaagg
+hCoV-19/USA/CA- ttcaaactgtcaaacccggtaattttaacaaagacttctatgactttgctgtgtctaann
+                **********************************************************  
+
+hCoV-19/USA/OR- gtttctttaaggaaggaagttctgttgaattaaaacacttcttctttgctcaggatggta
+hCoV-19/USA/OR- gtttctttaaggaaggaagttctgttgaattaaaacacttcttctttgctcaggatggta
+hCoV-19/USA/OR- gtttctttaaggaaggaagttctgttgaattaaaacacttcttctttgctcaggatggta
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- atgctgctatcagcgattatgactactatcgttataatctaccaacaatgtgtgatatca
+hCoV-19/USA/OR- atgctgctatcagcgattatgactactatcgttataatctaccaacaatgtgtgatatca
+hCoV-19/USA/OR- atgctgctatcagcgattatgactactatcgttataatctaccaacaatgtgtgatatca
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- gacaactactatttgtagttgaagttgttgataagtactttgattgttacgatggtggct
+hCoV-19/USA/OR- gacaactactatttgtagttgaagttgttgataagtactttgattgttacgatggtggct
+hCoV-19/USA/OR- gacaactactatttgtagttgaagttgttgataagtactttgattgttacgatggtggct
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- gtattaatgctaaccaagtcatcgtcaacaacctagacaaatcagctggttttccattta
+hCoV-19/USA/OR- gtattaatgctaaccaagtcatcgtcaacaacctagacaaatcagctggttttccattta
+hCoV-19/USA/OR- gtattaatgctaaccaagtcatcgtcaacaacctagacaaatcagctggttttccattta
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ataaatggggtaaggctagactttattatgattcaatgagttatgaggatcaagatgcac
+hCoV-19/USA/OR- ataaatggggtaaggctagactttattatgattcaatgagttatgaggatcaagatgcac
+hCoV-19/USA/OR- ataaatggggtaaggctagactttattatgattcaatgagttatgaggatcaagatgcac
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnattatgattcaatgagttatgaggatcaagatgcac
+                                        ************************************
+
+hCoV-19/USA/OR- ttttcgcatatacaaaacgtaatgtcatccctactataactcaaatgaatcttaagtatg
+hCoV-19/USA/OR- ttttcgcatatacaaaacgtaatgtcatccctactataactcaaatgaatcttaagtatg
+hCoV-19/USA/OR- ttttcgcatatacaaaacgtaatgtcatccctactataactcaaatgaatcttaagtatg
+hCoV-19/USA/CA- ttttcgcatatacaaaacgtaatgtcatccctactataactcaaatgaatcttaagtatg
+                ************************************************************
+
+hCoV-19/USA/OR- ccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatctgtagtactatga
+hCoV-19/USA/OR- ccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatctgtagtactatga
+hCoV-19/USA/OR- ccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatctgtagtactatga
+hCoV-19/USA/CA- ccattagtgcaaagaatagagctcgcaccgtagctggtgtctctatctgtagtactatga
+                ************************************************************
+
+hCoV-19/USA/OR- ccaatagacagtttcatcaaaaattattgaaatcaatagccgccactagaggagctactg
+hCoV-19/USA/OR- ccaatagacagtttcatcaaaaattattgaaatcaatagccgccactagaggagctactg
+hCoV-19/USA/OR- ccaatagacagtttcatcaaaaattattgaaatcaatagccgccactagaggagctactg
+hCoV-19/USA/CA- ccaatagacagtttcatcaaaaattattgaaatcaatagccgccactagaggagctactg
+                ************************************************************
+
+hCoV-19/USA/OR- tagtaattggaacaagcaaattctatggtggttggcacaatatgttaaaaactgtttata
+hCoV-19/USA/OR- tagtaattggaacaagcaaattctatggtggttggcacaatatgttaaaaactgtttata
+hCoV-19/USA/OR- tagtaattggaacaagcaaattctatggtggttggcacaatatgttaaaaactgtttata
+hCoV-19/USA/CA- tagtaattggaacaagcaaattctatggtggttggcacaatatgttaaaaactgtttata
+                ************************************************************
+
+hCoV-19/USA/OR- gtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtgatagagccatgc
+hCoV-19/USA/OR- gtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtgatagagccatgc
+hCoV-19/USA/OR- gtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtgatagagccatgc
+hCoV-19/USA/CA- gtgatgtagaaaaccctcaccttatgggttgggattatcctaaatgtgatagagccatgc
+                ************************************************************
+
+hCoV-19/USA/OR- ctaacatgcttagaattatggcctcacttgttcttgctcgcaaacatacaacgtgttgta
+hCoV-19/USA/OR- ctaacatgcttagaattatggcctcacttgttcttgctcgcaaacatacaacgtgttgta
+hCoV-19/USA/OR- ctaacatgcttagaattatggcctcacttgttcttgctcgcaaacatacaacgtgttgta
+hCoV-19/USA/CA- ctaacatgcttagaattnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                *****************                                           
+
+hCoV-19/USA/OR- gcttgtcacaccgtttctatagattagctaatgagtgtgctcaagtattgagtgaaatgg
+hCoV-19/USA/OR- gcttgtcacaccgtttctatagattagctaatgagtgtgctcaagtattgagtgaaatgg
+hCoV-19/USA/OR- gcttgtcacaccgtttctatagattagctaatgagtgtgctcaagtattgagtgaaatgg
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- tcatgtgtggcggttcactatatgttaaaccaggtggaacctcatcaggagatgccacaa
+hCoV-19/USA/OR- tcatgtgtggcggttcactatatgttaaaccaggtggaacctcatcaggagatgccacaa
+hCoV-19/USA/OR- tcatgtgtggcggttcactatatgttaaaccaggtggaacctcatcaggagatgccacaa
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncatcaggagatgccacaa
+                                                          ******************
+
+hCoV-19/USA/OR- ctgcttatgctaatagtgtttttaacatttgtcaagctgtcacggccaatgttaatgcac
+hCoV-19/USA/OR- ctgcttatgctaatagtgtttttaacatttgtcaagctgtcacggccaatgttaatgcac
+hCoV-19/USA/OR- ctgcttatgctaatagtgtttttaacatttgtcaagctgtcacggccaatgttaatgcac
+hCoV-19/USA/CA- ctgcttatgctaatagtgtttttaacatttgtcaagctgtcacggccaatgttaatgcac
+                ************************************************************
+
+hCoV-19/USA/OR- ttttatctactgatggtaacaaaattgccgataagtatgtccgcaatttacaacacagac
+hCoV-19/USA/OR- ttttatctactgatggtaacaaaattgccgataagtatgtccgcaatttacaacacagac
+hCoV-19/USA/OR- ttttatctactgatggtaacaaaattgccgataagtatgtccgcaatttacaacacagac
+hCoV-19/USA/CA- ttttatctactgatggtaacaaaattgccgataagtatgtccgcaatttacaacacagac
+                ************************************************************
+
+hCoV-19/USA/OR- tttatgagtgtctctatagaaatagagatgttgacacagactttgtgaatgagttttacg
+hCoV-19/USA/OR- tttatgagtgtctctatagaaatagagatgttgacacagactttgtgaatgagttttacg
+hCoV-19/USA/OR- tttatgagtgtctctatagaaatagagatgttgacacagactttgtgaatgagttttacg
+hCoV-19/USA/CA- tttatgagtgtctctatagaaatagagatgttgacacagactttgtgaatgagttttacg
+                ************************************************************
+
+hCoV-19/USA/OR- catatttgcgtaaacatttctcaatgatgatactctctgacgatgctgttgtgtgtttca
+hCoV-19/USA/OR- catatttgcgtaaacatttctcaatgatgatactctctgacgatgctgttgtgtgtttca
+hCoV-19/USA/OR- catatttgcgtaaacatttctcaatgatgatactctctgacgatgctgttgtgtgtttca
+hCoV-19/USA/CA- catatttgcgtaaacatttctcaatgatgatactctctgacgatgctgttgtgtgtttca
+                ************************************************************
+
+hCoV-19/USA/OR- atagcacttatgcatctcaaggtctagtggctagcataaagaactttaagtcagttcttt
+hCoV-19/USA/OR- atagcacttatgcatctcaaggtctagtggctagcataaagaactttaagtcagttcttt
+hCoV-19/USA/OR- atagcacttatgcatctcaaggtctagtggctagcataaagaactttaagtcagttcttt
+hCoV-19/USA/CA- atagcacttatgcatctcaaggtctagtggctagcataaagaactttaagtcagttcttt
+                ************************************************************
+
+hCoV-19/USA/OR- attatcaaaacaatgtttttatgtctgaagcaaaatgttggactgagactgaccttacta
+hCoV-19/USA/OR- attatcaaaacaatgtttttatgtctgaagcaaaatgttggactgagactgaccttacta
+hCoV-19/USA/OR- attatcaaaacaatgtttttatgtctgaagcaaaatgttggactgagactgaccttacta
+hCoV-19/USA/CA- attatcaaaacaatgtttttatgtctgaagcaaaatgttggactgagactgaccttacta
+                ************************************************************
+
+hCoV-19/USA/OR- aaggacctcatgaattttgctctcaacatacaatgctagttaaacagggtgatgattatg
+hCoV-19/USA/OR- aaggacctcatgaattttgctctcaacatacaatgctagttaaacagggtgatgattatg
+hCoV-19/USA/OR- aaggacctcatgaattttgctctcaacatacaatgctagttaaacagggtgatgattatg
+hCoV-19/USA/CA- aaggacctcatgaattttgctctcaacatacaatgctagttaaacagggtgatgattatg
+                ************************************************************
+
+hCoV-19/USA/OR- tgtaccttccttacccagatccatcaagaatcctaggggccggctgttttgtagatgata
+hCoV-19/USA/OR- tgtaccttccttacccagatccatcaagaatcctaggggccggctgttttgtagatgata
+hCoV-19/USA/OR- tgtaccttccttacccagatccatcaagaatcctaggggccggctgttttgtagatgata
+hCoV-19/USA/CA- tgtaccttccttacccagatccatcaagaatcctaggggccggctgttttgtagatgata
+                ************************************************************
+
+hCoV-19/USA/OR- tcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttagctatagatgctt
+hCoV-19/USA/OR- tcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttagctatagatgctt
+hCoV-19/USA/OR- tcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttagctatagatgctt
+hCoV-19/USA/CA- tcgtaaaaacagatggtacacttatgattgaacggttcgtgtctttagctatagatgctt
+                ************************************************************
+
+hCoV-19/USA/OR- acccacttactaaacatcctaatcaggagtatgctgatgtctttcatttgtacttacaat
+hCoV-19/USA/OR- acccacttactaaacatcctaatcaggagtatgctgatgtctttcatttgtacttacaat
+hCoV-19/USA/OR- acccacttactaaacatcctaatcaggagtatgctgatgtctttcatttgtacttacaat
+hCoV-19/USA/CA- acccacttactaaacatcctaatcaggagtatgctgatgtctttcatttgtacttacaat
+                ************************************************************
+
+hCoV-19/USA/OR- acataagaaagctacatgatgagttaacaggacacatgttagacatgtattctgttatgc
+hCoV-19/USA/OR- acataagaaagctacatgatgagttaacaggacacatgttagacatgtattctgttatgc
+hCoV-19/USA/OR- acataagaaagctacatgatgagttaacaggacacatgttagacatgtattctgttatgc
+hCoV-19/USA/CA- acataagaaagctacatgatgagttaacaggacacatgttagacatgtattctgttatgc
+                ************************************************************
+
+hCoV-19/USA/OR- ttactaatgataacacttcaaggtattgggaacctgagttttatgaggctatgtacacac
+hCoV-19/USA/OR- ttactaatgataacacttcaaggtattgggaacctgagttttatgaggctatgtacacac
+hCoV-19/USA/OR- ttactaatgataacacttcaaggtattgggaacctgagttttatgaggctatgtacacac
+hCoV-19/USA/CA- ttactaatgataacacttcaaggtattgggaacctgagttttatgaggctatgtacacac
+                ************************************************************
+
+hCoV-19/USA/OR- cgcatacagtcttacaggctgttggggcttgtgttctttgcaattcacagacttcattaa
+hCoV-19/USA/OR- cgcatacagtcttacaggctgttggggcttgtgttctttgcaattcacagacttcattaa
+hCoV-19/USA/OR- cgcatacagtcttacaggctgttggggcttgtgttctttgcaattcacagacttcattaa
+hCoV-19/USA/CA- cgcatacagtcttacaggctgttggggcttgtgttctttgcaattcacagacttcattaa
+                ************************************************************
+
+hCoV-19/USA/OR- gatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgttacgaccatgtca
+hCoV-19/USA/OR- gatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgttacgaccatgtca
+hCoV-19/USA/OR- gatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgttacgaccatgtca
+hCoV-19/USA/CA- gatgtggtgcttgcatacgtagaccattcttatgttgtaaatgctgttacgaccatgtca
+                ************************************************************
+
+hCoV-19/USA/OR- tatcaacatcacataaattagtcttgtctgttaatccgtatgtttgcaatgctccaggtt
+hCoV-19/USA/OR- tatcaacatcacataaattagtcttgtctgttaatccgtatgtttgcaatgctccaggtt
+hCoV-19/USA/OR- tatcaacatcacataaattagtcttgtctgttaatccgtatgtttgcaatgctccaggtt
+hCoV-19/USA/CA- tatcaacatcacataaattagtcttgtctgttaatccgtatgtttgcaatgctccaggtt
+                ************************************************************
+
+hCoV-19/USA/OR- gtgatgtcacagatgtgactcaactttacttaggaggtatgagctattattgtaaatcac
+hCoV-19/USA/OR- gtgatgtcacagatgtgactcaactttacttaggaggtatgagctattattgtaaatcac
+hCoV-19/USA/OR- gtgatgtcacagatgtgactcaactttacttaggaggtatgagctattattgtaaatcac
+hCoV-19/USA/CA- gtgatgtcacagatgtgactcaactttacttaggaggtatgagctattattgtaaatcac
+                ************************************************************
+
+hCoV-19/USA/OR- ataaaccacccattagttttccattgtgtgctaatggacaagtttttggtttatataaaa
+hCoV-19/USA/OR- ataaaccacccattagttttccattgtgtgctaatggacaagtttttggtttatataaaa
+hCoV-19/USA/OR- ataaaccacccattagttttccattgtgtgctaatggacaagtttttggtttatataaaa
+hCoV-19/USA/CA- ataaactacccattagttttccattgtgtgctaatggacaagtttttggtttatataaaa
+                ******.*****************************************************
+
+hCoV-19/USA/OR- atacatgtgttggtagcgataatgttactgactttaatgcaattgcaacatgtgactgga
+hCoV-19/USA/OR- atacatgtgttggtagcgataatgttactgactttaatgcaattgcaacatgtgactgga
+hCoV-19/USA/OR- atacatgtgttggtagcgataatgttactgactttaatgcaattgcaacatgtgactgga
+hCoV-19/USA/CA- atacatgtgttggtagcgataatgttactgactttaatgcaattgcaacatgtgactgga
+                ************************************************************
+
+hCoV-19/USA/OR- caaatgctggtgattacattttagctaacacctgtactgaaagactcaagctttttgcag
+hCoV-19/USA/OR- caaatgctggtgattacattttagctaacacctgtactgaaagactcaagctttttgcag
+hCoV-19/USA/OR- caaatgctggtgattacattttagctaacacctgtactgaaagactcaagctttttgcag
+hCoV-19/USA/CA- caaatgctggtgattacattttagctaacacctgtactgaaagactcaagctttttgcag
+                ************************************************************
+
+hCoV-19/USA/OR- cagaaacgctcaaagctactgaggagacatttaaactgtcttatggtattgctactgtac
+hCoV-19/USA/OR- cagaaacgctcaaagctactgaggagacatttaaactgtcttatggtattgctactgtac
+hCoV-19/USA/OR- cagaaacgctcaaagctactgaggagacatttaaactgtcttatggtattgctactgtac
+hCoV-19/USA/CA- cagaaacgctcaaagctactgaggagacatttaaactgtcttatggtattgctactgtac
+                ************************************************************
+
+hCoV-19/USA/OR- gtgaagtgctgtctgacagagaattacatctttcatgggaagttggtaaacctagaccac
+hCoV-19/USA/OR- gtgaagtgctgtctgacagagaattacatctttcatgggaagttggtaaacctagaccac
+hCoV-19/USA/OR- gtgaagtgctgtctgacagagaattacatctttcatgggaagttggtaaacctagaccac
+hCoV-19/USA/CA- gtgaagtgctgtctgacagagaattacatctttcatgggaagttggtaaacctagaccac
+                ************************************************************
+
+hCoV-19/USA/OR- cacttaaccgaaattatgtctttactggttatcgtgtaactaaaaacagtaaagtacaaa
+hCoV-19/USA/OR- cacttaaccgaaattatgtctttactggttatcgtgtaactaaaaacagtaaagtacaaa
+hCoV-19/USA/OR- cacttaaccgaaattatgtctttactggttatcgtgtaactaaaaacagtaaagtacaaa
+hCoV-19/USA/CA- cacttaaccgaaattatgtctttactggttatcgtgtaactaaaaacagtaaagtacaaa
+                ************************************************************
+
+hCoV-19/USA/OR- taggagagtacacctttgaaaaaggtgactatggtgatgctgttgtttaccgaggtacaa
+hCoV-19/USA/OR- taggagagtacacctttgaaaaaggtgactatggtgatgctgttgtttaccgaggtacaa
+hCoV-19/USA/OR- taggagagtacacctttgaaaaaggtgactatggtgatgctgttgtttaccgaggtacaa
+hCoV-19/USA/CA- taggagagtacacctttgaaaaaggtgactatggtgatgctgttgtttaccgaggtacaa
+                ************************************************************
+
+hCoV-19/USA/OR- caacttacaaattaaatgttggtgattattttgtgctgacatcacatacagtaatgccat
+hCoV-19/USA/OR- caacttacaaattaaatgttggtgattattttgtgctgacatcacatacagtaatgccat
+hCoV-19/USA/OR- caacttacaaattaaatgttggtgattattttgtgctgacatcacatacagtaatgccat
+hCoV-19/USA/CA- caacttacaaattaaatgttggtgattattttgtgctgacatcacatacagtaatgccat
+                ************************************************************
+
+hCoV-19/USA/OR- taagtgcacctacactagtgccacaagagcactatgttagaattactggcttatacccaa
+hCoV-19/USA/OR- taagtgcacctacactagtgccacaagagcactatgttagaattactggcttatacccaa
+hCoV-19/USA/OR- taagtgcacctacactagtgccacaagagcactatgttagaattactggcttatacccaa
+hCoV-19/USA/CA- taagtgcacctacactagtgccacaagagcactatgttagaattactggcttatacccaa
+                ************************************************************
+
+hCoV-19/USA/OR- cactcaatatctcagatgag-ttttctagcaatgttgcaaattatcaaaaggttggtatg
+hCoV-19/USA/OR- cactcaatatctcagatgag-ttttctagcaatgttgcaaattatcaaaaggttggtatg
+hCoV-19/USA/OR- cactcaatatctcagatgagtttttctagcaatgttgcaaattatcaaaaggttggtatg
+hCoV-19/USA/CA- cactcaatatctcagatgag-ttttctagcaatgttgcaaattatcaaaaggttggtatg
+                ******************** ***************************************
+
+hCoV-19/USA/OR- caaaagtattctacactccagggaccacctggtactggtaagagtcattttgctattggc
+hCoV-19/USA/OR- caaaagtattctacactccagggaccacctggtactggtaagagtcattttgctattggc
+hCoV-19/USA/OR- caaaagtattctacactccagggaccacctggtactggtaagagtcattttgctattggc
+hCoV-19/USA/CA- caaaagtattctacactccagggaccacctggtactggtaagagtcattttgctattggc
+                ************************************************************
+
+hCoV-19/USA/OR- ctagctctctactacccttctgctcgcatagtgtatacagcttgctctcatgccgctgtt
+hCoV-19/USA/OR- ctagctctctactacccttctgctcgcatagtgtatacagcttgctctcatgccgctgtt
+hCoV-19/USA/OR- ctagctctctactacccttctgctcgcatagtgtatacagcttgctctcatgccgctgtt
+hCoV-19/USA/CA- ctagctctctactacccttctgctcgcatagtgtatacagcttgctctcatgccgctgtt
+                ************************************************************
+
+hCoV-19/USA/OR- gatgcactatgtgagaaggcattaaaatatttgcctatagataaatgtagtagaattata
+hCoV-19/USA/OR- gatgcactatgtgagaaggcattaaaatatttgcctatagataaatgtagtagaattata
+hCoV-19/USA/OR- gatgcactatgtgagaaggcattaaaatatttgcctatagataaatgtagtagaattata
+hCoV-19/USA/CA- gatgcactatgtgagaaggcattaaaatatttgcctatagataaatgtagtagaattata
+                ************************************************************
+
+hCoV-19/USA/OR- cctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaacattagaacag
+hCoV-19/USA/OR- cctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaacattagaacag
+hCoV-19/USA/OR- cctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaacattagaacag
+hCoV-19/USA/CA- cctgcacgtgctcgtgtagagtgttttgataaattcaaagtgaattcaacattagaacag
+                ************************************************************
+
+hCoV-19/USA/OR- tatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatagttgtctttgat
+hCoV-19/USA/OR- tatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatagttgtctttgat
+hCoV-19/USA/OR- tatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatagttgtctttgat
+hCoV-19/USA/CA- tatgtcttttgtactgtaaatgcattgcctgagacgacagcagatatagttgtctttgat
+                ************************************************************
+
+hCoV-19/USA/OR- gaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagattacgtgctaag
+hCoV-19/USA/OR- gaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagattacgtgctaag
+hCoV-19/USA/OR- gaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagattacgtgctaag
+hCoV-19/USA/CA- gaaatttcaatggccacaaattatgatttgagtgttgtcaatgccagattacgtgctaag
+                ************************************************************
+
+hCoV-19/USA/OR- cactatgtgtacattggcgaccctgctcaattacctgcaccacgcacattgctaactaag
+hCoV-19/USA/OR- cactatgtgtacattggcgaccctgctcaattacctgcaccacgcacattgctaactaag
+hCoV-19/USA/OR- cactatgtgtacattggcgaccctgctcaattacctgcaccacgcacattgctaactaag
+hCoV-19/USA/CA- cactatgtgtacattggcgaccctgctcaattacctgcaccacgcacattgctaactaag
+                ************************************************************
+
+hCoV-19/USA/OR- ggcacactagaaccagaatatttcaattcagtgtgtagacttatgaaaactataggtcca
+hCoV-19/USA/OR- ggcacactagaaccagaatatttcaattcagtgtgtagacttatgaaaactataggtcca
+hCoV-19/USA/OR- ggcacactagaaccagaatatttcaattcagtgtgtagacttatgaaaactataggtcca
+hCoV-19/USA/CA- ggcacactagaaccagaatatttcaattcagtgtgtagacttatgaaaactataggtcca
+                ************************************************************
+
+hCoV-19/USA/OR- gacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgacactgtgagtgct
+hCoV-19/USA/OR- gacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgacactgtgagtgct
+hCoV-19/USA/OR- gacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgacactgtgagtgct
+hCoV-19/USA/CA- gacatgttcctcggaacttgtcggcgttgtcctgctgaaattgttgacactgtgagtgct
+                ************************************************************
+
+hCoV-19/USA/OR- ttggtttatgataataagcttaaagcacataaagacaaatcagctcaatgctttaaaatg
+hCoV-19/USA/OR- ttggtttatgataataagcttaaagcacataaagacaaatcagctcaatgctttaaaatg
+hCoV-19/USA/OR- ttggtttatgataataagcttaaagcacataaagacaaatcagctcaatgctttaaaatg
+hCoV-19/USA/CA- ttggtttatgataataagcttaaagcacataaagacaaatcagctcaatgctttaaaatg
+                ************************************************************
+
+hCoV-19/USA/OR- ttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggccacaaataggc
+hCoV-19/USA/OR- ttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggccacaaataggc
+hCoV-19/USA/OR- ttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggccacaaataggc
+hCoV-19/USA/CA- ttttataagggtgttatcacgcatgatgtttcatctgcaattaacaggccacaaataggc
+                ************************************************************
+
+hCoV-19/USA/OR- gtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtctttatttcacct
+hCoV-19/USA/OR- gtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtctttatttcacct
+hCoV-19/USA/OR- gtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtctttatttcacct
+hCoV-19/USA/CA- gtggtaagagaattccttacacgtaaccctgcttggagaaaagctgtctttatttcacct
+                ************************************************************
+
+hCoV-19/USA/OR- tataattcacagaatgctgtagcctcaaagattttgggactaccaactcaaactgttgat
+hCoV-19/USA/OR- tataattcacagaatgctgtagcctcaaagattttgggactaccaactcaaactgttgat
+hCoV-19/USA/OR- tataattcacagaatgctgtagcctcaaagattttgggactaccaactcaaactgttgat
+hCoV-19/USA/CA- tataattcacagaatgctgtagcctcaaagattttgggactaccaactcaaactgttgat
+                ************************************************************
+
+hCoV-19/USA/OR- tcatcacagggctcagaatatgactatgtcatattcactcaaaccactgaaacagctcac
+hCoV-19/USA/OR- tcatcacagggctcagaatatgactatgtcatattcactcaaaccactgaaacagctcac
+hCoV-19/USA/OR- tcatcacagggctcagaatatgactatgtcatattcactcaaaccactgaaacagctcac
+hCoV-19/USA/CA- tcatcacagggctcagaatatgactatgtcatattcactcaaaccactgaaacagctcac
+                ************************************************************
+
+hCoV-19/USA/OR- tcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtaggcatactttgc
+hCoV-19/USA/OR- tcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtaggcatactttgc
+hCoV-19/USA/OR- tcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtaggcatactttgc
+hCoV-19/USA/CA- tcttgtaatgtaaacagatttaatgttgctattaccagagcaaaagtaggcatactttgc
+                ************************************************************
+
+hCoV-19/USA/OR- ataatgtctgatagagacctttatgacaagttgcaatttacaagtcttgaaattccacgt
+hCoV-19/USA/OR- ataatgtctgatagagacctttatgacaagttgcaatttacaagtcttgaaattccacgt
+hCoV-19/USA/OR- ataatgtctgatagagacctttatgacaagttgcaatttacaagtcttgaaattccacgt
+hCoV-19/USA/CA- ataatgtctgatagagacctttatgacaagttgcaatttacaagtcttgaaattccacgt
+                ************************************************************
+
+hCoV-19/USA/OR- aggaatgtggcaactttacaagctgaaaatgtaacaggactctttaaagattgtagtaag
+hCoV-19/USA/OR- aggaatgtggcaactttacaagctgaaaatgtaacaggactctttaaagattgtagtaag
+hCoV-19/USA/OR- aggaatgtggcaactttacaagctgaaaatgtaacaggactctttaaagattgtagtaag
+hCoV-19/USA/CA- aggaatgtggcaactttacaagctgaaaatgtaacagnnnnnnnnnnnnnnnnnnnnnnn
+                *************************************                       
+
+hCoV-19/USA/OR- gtaatcactgggttacatcctacacaggcacctacacacctcagtgttgacactaaattc
+hCoV-19/USA/OR- gtaatcactgggttacatcctacacaggcacctacacacctcagtgttgacactaaattc
+hCoV-19/USA/OR- gtaatcactgggttacatcctacacaggcacctacacacctcagtgttgacactaaattc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- aaaactgaaggtttatgtgttgacgtacctggcatacctaaggacatgacctatagaaga
+hCoV-19/USA/OR- aaaactgaaggtttatgtgttgacgtacctggcatacctaaggacatgacctatagaaga
+hCoV-19/USA/OR- aaaactgaaggtttatgtgttgacgtacctggcatacctaaggacatgacctatagaaga
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ctcatctctatgatgggttttaaaatgaattatcaagttaatggttaccctaacatgttt
+hCoV-19/USA/OR- ctcatctctatgatgggttttaaaatgaattatcaagttaatggttaccctaacatgttt
+hCoV-19/USA/OR- ctcatctctatgatgggttttaaaatgaattatcaagttaatggttaccctaacatgttt
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- atcacccgcgaagaagctataagacatgtacgtgcatggattggcttcgatgtcgagggg
+hCoV-19/USA/OR- atcacccgcgaagaagctataagacatgtacgtgcatggattggcttcgatgtcgagggg
+hCoV-19/USA/OR- atcacccgcgaagaagctataagacatgtacgtgcatggattggcttcgatgtcgagggg
+hCoV-19/USA/CA- nnnnnnnnnnnngaagctataagacatgtacgtgcatggattggcttcgatgtcgagggg
+                            ************************************************
+
+hCoV-19/USA/OR- tgtcatgctactagagaagctgttggtaccaatttacctttacagctaggtttttctaca
+hCoV-19/USA/OR- tgtcatgctactagagaagctgttggtaccaatttacctttacagctaggtttttctaca
+hCoV-19/USA/OR- tgtcatgctactagagaagctgttggtaccaatttacctttacagctaggtttttctaca
+hCoV-19/USA/CA- tgtcatgctactagagaagctgttggtaccaatttacctttacagctaggtttttctaca
+                ************************************************************
+
+hCoV-19/USA/OR- ggtgttaacctagttgctgtacctacaggttatgttgatacacctaataatacagatttt
+hCoV-19/USA/OR- ggtgttaacctagttgctgtacctacaggttatgttgatacacctaataatacagatttt
+hCoV-19/USA/OR- ggtgttaacctagttgctgtacctacaggttatgttgatacacctaataatacagatttt
+hCoV-19/USA/CA- ggtgttaacctagttgctgtacctacaggttatgttgatacacctaataatacagatttt
+                ************************************************************
+
+hCoV-19/USA/OR- tccagagttagtgctaaaccaccgcctggagatcaatttaaacacctcataccacttatg
+hCoV-19/USA/OR- tccagagttagtgctaaaccaccgcctggagatcaatttaaacacctcataccacttatg
+hCoV-19/USA/OR- tccagagttagtgctaaaccaccgcctggagatcaatttaaacacctcataccacttatg
+hCoV-19/USA/CA- tccagagttagtgctaaaccaccgcctggagatcaatttaaacacctcataccacttatg
+                ************************************************************
+
+hCoV-19/USA/OR- tacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgttaagtgacaca
+hCoV-19/USA/OR- tacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgttaagtgacaca
+hCoV-19/USA/OR- tacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgttaagtgacaca
+hCoV-19/USA/CA- tacaaaggacttccttggaatgtagtgcgtataaagattgtacaaatgttaagtgacaca
+                ************************************************************
+
+hCoV-19/USA/OR- cttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggctttgagttgaca
+hCoV-19/USA/OR- cttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggctttgagttgaca
+hCoV-19/USA/OR- cttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggctttgagttgaca
+hCoV-19/USA/CA- cttaaaaatctctctgacagagtcgtatttgtcttatgggcacatggctttgagttgaca
+                ************************************************************
+
+hCoV-19/USA/OR- tctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctatgtgatagacgt
+hCoV-19/USA/OR- tctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctatgtgatagacgt
+hCoV-19/USA/OR- tctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctatgtgatagacgt
+hCoV-19/USA/CA- tctatgaagtattttgtgaaaataggacctgagcgcacctgttgtctatgtgatagacgt
+                ************************************************************
+
+hCoV-19/USA/OR- gccacatgcttttccactgcttcagacacttatgcctgttggcatcattctattggattt
+hCoV-19/USA/OR- gccacatgcttttccactgcttcagacacttatgcctgttggcatcattctattggattt
+hCoV-19/USA/OR- gccacatgcttttccactgcttcagacacttatgcctgttggcatcattctattggattt
+hCoV-19/USA/CA- gccacatgcttttccactgcttcagacacttatgcctgttggcatcattctattggattt
+                ************************************************************
+
+hCoV-19/USA/OR- gattacgtctataatccgtttatgattgatgttcaacaatggggttttacaggtaaccta
+hCoV-19/USA/OR- gattacgtctataatccgtttatgattgatgttcaacaatggggttttacaggtaaccta
+hCoV-19/USA/OR- gattacgtctataatccgtttatgattgatgttcaacaatggggttttacaggtaaccta
+hCoV-19/USA/CA- gattacgtctataatccgtttatgattgatgttcaacaatggggttttacaggtaaccta
+                ************************************************************
+
+hCoV-19/USA/OR- caaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtagctagttgtgat
+hCoV-19/USA/OR- caaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtagctagttgtgat
+hCoV-19/USA/OR- caaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtagctagttgtgat
+hCoV-19/USA/CA- caaagcaaccatgatctgtattgtcaagtccatggtaatgcacatgtagctagttgtgat
+                ************************************************************
+
+hCoV-19/USA/OR- gcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtgttgactggact
+hCoV-19/USA/OR- gcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtgttgactggact
+hCoV-19/USA/OR- gcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtgttgactggact
+hCoV-19/USA/CA- gcaatcatgactaggtgtctagctgtccacgagtgctttgttaagcgtgttgactggact
+                ************************************************************
+
+hCoV-19/USA/OR- attgaatatcctataattggtgatgaactgaagattaatgcggcttgtagaaaggttcaa
+hCoV-19/USA/OR- attgaatatcctataattggtgatgaactgaagattaatgcggcttgtagaaaggttcaa
+hCoV-19/USA/OR- attgaatatcctataattggtgatgaactgaagattaatgcggcttgtagaaaggttcaa
+hCoV-19/USA/CA- attgaatatcctataattggtgatgaactgaagattaatgcggcttgtagaaaggttcaa
+                ************************************************************
+
+hCoV-19/USA/OR- cacatggttgttaaagctgcattattagcagacaaattcccagttcttcacgacattggt
+hCoV-19/USA/OR- cacatggttgttaaagctgcattattagcagacaaattcccagttcttcacgacattggt
+hCoV-19/USA/OR- cacatggttgttaaagctgcattattagcagacaaattcccagttcttcacgacattggt
+hCoV-19/USA/CA- cacatggttgttaaagctgcattattagcagacaaattcccagttcttcacgacattggt
+                ************************************************************
+
+hCoV-19/USA/OR- aaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagttctatgatgca
+hCoV-19/USA/OR- aaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagttctatgatgca
+hCoV-19/USA/OR- aaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagttctatgatgca
+hCoV-19/USA/CA- aaccctaaagctattaagtgtgtacctcaagctgatgtagaatggaagttctatgatgca
+                ************************************************************
+
+hCoV-19/USA/OR- cagccttgtagtgacaaagcttataaaatagaagaattattctattcttatgccacacat
+hCoV-19/USA/OR- cagccttgtagtgacaaagcttataaaatagaagaattattctattcttatgccacacat
+hCoV-19/USA/OR- cagccttgtagtgacaaagcttataaaatagaagaattattctattcttatgccacacat
+hCoV-19/USA/CA- cagccttgtagtgacaaagcttataaaatagaagaattattctattcttatgccacacat
+                ************************************************************
+
+hCoV-19/USA/OR- tctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcgatagatatcct
+hCoV-19/USA/OR- tctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcgatagatatcct
+hCoV-19/USA/OR- tctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcgatagatatcct
+hCoV-19/USA/CA- tctgacaaattcacagatggtgtatgcctattttggaattgcaatgtcgatagatatcct
+                ************************************************************
+
+hCoV-19/USA/OR- gctaattccattgtttgtagatttgacactagagtgctatctaaccttaacttgcctggt
+hCoV-19/USA/OR- gctaattccattgtttgtagatttgacactagagtgctatctaaccttaacttgcctggt
+hCoV-19/USA/OR- gctaattccattgtttgtagatttgacactagagtgctatctaaccttaacttgcctggt
+hCoV-19/USA/CA- gctaattccattgtttgtagatttgacactagagnnnnnnnnnnnnnnnnnnnnnnnnnn
+                **********************************                          
+
+hCoV-19/USA/OR- tgtgatggtggcagtttgtatgtaaataaacatgcattccacacaccagcttttgataaa
+hCoV-19/USA/OR- tgtgatggtggcagtttgtatgtaaataaacatgcattccacacaccagcttttgataaa
+hCoV-19/USA/OR- tgtgatggtggcagtttgtatgtaaataaacatgcattccacacaccagcttttgataaa
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- agtgcttttgttaatttaaaacaattaccatttttctattactctgacagtccatgtgag
+hCoV-19/USA/OR- agtgcttttgttaatttaaaacaattaccatttttctattactctgacagtccatgtgag
+hCoV-19/USA/OR- agtgcttttgttaatttaaaacaattaccatttttctattactctgacagtccatgtgag
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- tctcatggaaaacaagtagtgtcagatatagattatgtaccactaaagtctgctacgtgt
+hCoV-19/USA/OR- tctcatggaaaacaagtagtgtcagatatagattatgtaccactaaagtctgctacgtgt
+hCoV-19/USA/OR- tctcatggaaaacaagtagtgtcagatatagattatgtaccactaaagtctgctacgtgt
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ataacacgttgcaatttaggtggtgctgtctgtagacatcatgctaatgagtacagattg
+hCoV-19/USA/OR- ataacacgttgcaatttaggtggtgctgtctgtagacatcatgctaatgagtacagattg
+hCoV-19/USA/OR- ataacacgttgcaatttaggtggtgctgtctgtagacatcatgctaatgagtacagattg
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnngattg
+                                                                       *****
+
+hCoV-19/USA/OR- tatctcgatgcttataacatgatgatctcagctggctttagcttgtgggtttacaaacaa
+hCoV-19/USA/OR- tatctcgatgcttataacatgatgatctcagctggctttagcttgtgggtttacaaacaa
+hCoV-19/USA/OR- tatctcgatgcttataacatgatgatctcagctggctttagcttgtgggtttacaaacaa
+hCoV-19/USA/CA- tatctcgatgcttataacatgatgatctcagctggctttagcttgtgggtttacaaacaa
+                ************************************************************
+
+hCoV-19/USA/OR- tttgatacttataacctctggaacacttttacaagacttcagagtttagaaaatgtggct
+hCoV-19/USA/OR- tttgatacttataacctctggaacacttttacaagacttcagagtttagaaaatgtggct
+hCoV-19/USA/OR- tttgatacttataacctctggaacacttttacaagacttcagagtttagaaaatgtggct
+hCoV-19/USA/CA- tttgatacttataacctctggaacacttttacaagacttcagagtttagaaaatgtggct
+                ************************************************************
+
+hCoV-19/USA/OR- tttaatgttgtaaataagggacactttgatggacaacagggtgaagtaccagtttctatc
+hCoV-19/USA/OR- tttaatgttgtaaataagggacactttgatggacaacagggtgaagtaccagtttctatc
+hCoV-19/USA/OR- tttaatgttgtaaataagggacactttgatggacaacagggtgaagtaccagtttctatc
+hCoV-19/USA/CA- tttaatgttgtaaataagggacactttgatggacaacagggtgaagtaccagtttctatc
+                ************************************************************
+
+hCoV-19/USA/OR- attaataacactgtttacacaaaagttgatggtgttgatgtagaattgtttgaaaataaa
+hCoV-19/USA/OR- attaataacactgtttacacaaaagttgatggtgttgatgtagaattgtttgaaaataaa
+hCoV-19/USA/OR- attaataacactgtttacacaaaagttgatggtgttgatgtagaattgtttgaaaataaa
+hCoV-19/USA/CA- attaataacactgtttacacaaaagttgatggtgttgatgtagaattgtttgaaaataaa
+                ************************************************************
+
+hCoV-19/USA/OR- acaacattacctgttaatgtagcatttgagctttgggctaagcgcaacattaaaccagta
+hCoV-19/USA/OR- acaacattacctgttaatgtagcatttgagctttgggctaagcgcaacattaaaccagta
+hCoV-19/USA/OR- acaacattacctgttaatgtagcatttgagctttgggctaagcgcaacattaaaccagta
+hCoV-19/USA/CA- acaacattacctgttaatgtagcatttgagctttgggctaagcgcaacattaaaccagta
+                ************************************************************
+
+hCoV-19/USA/OR- ccagaggtgaaaatactcaataatttgggtgtggacattgctgctaatactgtgatctgg
+hCoV-19/USA/OR- ccagaggtgaaaatactcaataatttgggtgtggacattgctgctaatactgtgatctgg
+hCoV-19/USA/OR- ccagaggtgaaaatactcaataatttgggtgtggacattgctgctaatactgtgatctgg
+hCoV-19/USA/CA- ccagaggtgaaaatactcaataatttgggtgtggacattgctgctaatactgnnnnnnnn
+                ****************************************************        
+
+hCoV-19/USA/OR- gactacaaaagagatgctccagcacatatatctactattggtgtttgttctatgactgac
+hCoV-19/USA/OR- gactacaaaagagatgctccagcacatatatctactattggtgtttgttctatgactgac
+hCoV-19/USA/OR- gactacaaaagagatgctccagcacatatatctactattggtgtttgttctatgactgac
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- atagccaagaaaccaactgaaacgatttgtgcaccactcactgtc--ttttttgatggta
+hCoV-19/USA/OR- atagccaagaaaccaactgaaacgatttgtgcaccactcactgtcttttttttgatggta
+hCoV-19/USA/OR- atagccaagaaaccaactgaaacgatttgtgcaccactcactgtc--ttttttgatggta
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn--nnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- gagttgatggtcaagtagacttatttagaaatgcccgtaatggtgttcttattacagaag
+hCoV-19/USA/OR- gagttgatggtcaagtagacttatttagaaatgcccgtaatggtgttcttattacagaag
+hCoV-19/USA/OR- gagttgatggtcaagtagacttatttagaaatgcccgtaatggtgttcttattacagaag
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- gtagtgttaaaggtttacaaccatctgtaggtccc-aaacaagctagtcttaatggagtc
+hCoV-19/USA/OR- gtagtgttaaaggtttacaaccatctgtaggtccc-aaacaagctagtcttaatggagtc
+hCoV-19/USA/OR- gtagtgttaaaggtttacaaccatctgtaggtcccaaaacaagctagtcttaatggagtc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn-nnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- acattaattggagaagccgtaaaaacacagttcaattattataagaaagttgatggtgtt
+hCoV-19/USA/OR- acattaattggagaagccgtaaaaacacagttcaattattataagaaagttgatggtgtt
+hCoV-19/USA/OR- acattaattggagaagccgtaaaaacacagttcaattattataagaaagttgatggtgtt
+hCoV-19/USA/CA- nnattaattggagaagccgtaaaaacacagttcaattattataagaaagttgatggtgtt
+                  **********************************************************
+
+hCoV-19/USA/OR- gtccaacaattacctgaaacttactttactcagagtagaaatttacaagaatttaaaccc
+hCoV-19/USA/OR- gtccaacaattacctgaaacttactttactcagagtagaaatttacaagaatttaaaccc
+hCoV-19/USA/OR- gtccaacaattacctgaaacttactttactcagagtagaaatttacaagaatttaaaccc
+hCoV-19/USA/CA- gtccaacaattacctgaaacttactttactcagagtagaaatttacaagaatttaaaccc
+                ************************************************************
+
+hCoV-19/USA/OR- aggagtcaaatggaaattgatttcttagaattagctatggatgaattcattgaacggtat
+hCoV-19/USA/OR- aggagtcaaatggaaattgatttcttagaattagctatggatgaattcattgaacggtat
+hCoV-19/USA/OR- aggagtcaaatggaaattgatttcttagaattagctatggatgaattcattgaacggtat
+hCoV-19/USA/CA- aggagtcaaatggaaattgatttcttagaattagctatggatgaattcattgaacggtat
+                ************************************************************
+
+hCoV-19/USA/OR- aaattagaaggctatgccttcgaacatatcgtttatggagattttagtcatagtcagtta
+hCoV-19/USA/OR- aaattagaaggctatgccttcgaacatatcgtttatggagattttagtcatagtcagtta
+hCoV-19/USA/OR- aaattagaaggctatgccttcgaacatatcgtttatggagattttagtcatagtcagtta
+hCoV-19/USA/CA- aaattagaaggctatgccttcgaacatatcgtttatggagattttagtcatagtcagtta
+                ************************************************************
+
+hCoV-19/USA/OR- ggtggtttacatctactgattggactagctaaacgttttaaggaatcaccttttgaatta
+hCoV-19/USA/OR- ggtggtttacatctactgattggactagctaaacgttttaaggaatcaccttttgaatta
+hCoV-19/USA/OR- ggtggtttacatctactgattggactagctaaacgttttaaggaatcaccttttgaatta
+hCoV-19/USA/CA- ggtggtttacatctactgattggactagctaaacgttttaaggaatcaccttttgaatta
+                ************************************************************
+
+hCoV-19/USA/OR- gaagattttattcctatggacagtacagttaaaaactatttcataacagatgcgcaaaca
+hCoV-19/USA/OR- gaagattttattcctatggacagtacagttaaaaactatttcataacagatgcgcaaaca
+hCoV-19/USA/OR- gaagattttattcctatggacagtacagttaaaaactatttcataacagatgcgcaaaca
+hCoV-19/USA/CA- gaagattttattcctatggacagtacagttaaaaactatttcataacagatgcgcaaaca
+                ************************************************************
+
+hCoV-19/USA/OR- ggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttgttgaaata
+hCoV-19/USA/OR- ggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttgttgaaata
+hCoV-19/USA/OR- ggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttgttgaaata
+hCoV-19/USA/CA- ggttcatctaagtgtgtgtgttctgttattgatttattacttgatgattttgttgaaata
+                ************************************************************
+
+hCoV-19/USA/OR- ataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattgactataca
+hCoV-19/USA/OR- ataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattgactataca
+hCoV-19/USA/OR- ataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattgactataca
+hCoV-19/USA/CA- ataaaatcccaagatttatctgtagtttctaaggttgtcaaagtgactattgactataca
+                ************************************************************
+
+hCoV-19/USA/OR- gaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacccaaaatta
+hCoV-19/USA/OR- gaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacccaaaatta
+hCoV-19/USA/OR- gaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacccaaaatta
+hCoV-19/USA/CA- gaaatttcatttatgctttggtgtaaagatggccatgtagaaacattttacccaaaatta
+                ************************************************************
+
+hCoV-19/USA/OR- caatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaatgcaaaga
+hCoV-19/USA/OR- caatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaatgcaaaga
+hCoV-19/USA/OR- caatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaatgcaaaga
+hCoV-19/USA/CA- caatctagtcaagcgtggcaaccgggtgttgctatgcctaatctttacaaaatgcaaaga
+                ************************************************************
+
+hCoV-19/USA/OR- atgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattacctaaaggc
+hCoV-19/USA/OR- atgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattacctaaaggc
+hCoV-19/USA/OR- atgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattacctaaaggc
+hCoV-19/USA/CA- atgctattagaaaagtgtgaccttcaaaattatggtgatagtgcaacattacctaaaggc
+                ************************************************************
+
+hCoV-19/USA/OR- ataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacattaacatta
+hCoV-19/USA/OR- ataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacattaacatta
+hCoV-19/USA/OR- ataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacattaacatta
+hCoV-19/USA/CA- ataatgatgaatgtcgcaaaatatactcaactgtgtcaatatttaaacacattaacatta
+                ************************************************************
+
+hCoV-19/USA/OR- gctgtaccctataatatgagagttatacattttggtgctggttctgataaaggagttgca
+hCoV-19/USA/OR- gctgtaccctataatatgagagttatacattttggtgctggttctgataaaggagttgca
+hCoV-19/USA/OR- gctgtaccctataatatgagagttatacattttggtgctggttctgataaaggagttgca
+hCoV-19/USA/CA- gctgtaccctataatatgagagttatacattttggtgctggttctgataaaggagttgca
+                ************************************************************
+
+hCoV-19/USA/OR- ccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcgattcagat
+hCoV-19/USA/OR- ccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcgattcagat
+hCoV-19/USA/OR- ccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcgattcagat
+hCoV-19/USA/CA- ccaggtacagctgttttaagacagtggttgcctacgggtacgctgcttgtcgattcagat
+                ************************************************************
+
+hCoV-19/USA/OR- cttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaactgtacat
+hCoV-19/USA/OR- cttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaactgtacat
+hCoV-19/USA/OR- cttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaactgtacat
+hCoV-19/USA/CA- cttaatgactttgtctctgatgcagattcaactttgattggtgattgtgcaactgtacat
+                ************************************************************
+
+hCoV-19/USA/OR- acagctaataaatgggatctcattattagtgatatgtacgaccctaagactaaaaatgtt
+hCoV-19/USA/OR- acagctaataaatgggatctcattattagtgatatgtacgaccctaagactaaaaatgtt
+hCoV-19/USA/OR- acagctaataaatgggatctcattattagtgatatgtacgaccctaagactaaaaatgtt
+hCoV-19/USA/CA- acagctaataaatgggatctcattattagtgatatgtacgaccctaagactaaaaatgtt
+                ************************************************************
+
+hCoV-19/USA/OR- acaaaagaaaatgactctaaagagggttttttcacttacatttgtgggtttatacaacaa
+hCoV-19/USA/OR- acaaaagaaaatgactctaaagagggttttttcacttacatttgtgggtttatacaacaa
+hCoV-19/USA/OR- acaaaagaaaatgactctaaagagggttttttcacttacatttgtgggtttatacaacaa
+hCoV-19/USA/CA- acaaaagaaaatgactctaaagagggttttttcacttacatttgtgggtttatacaacaa
+                ************************************************************
+
+hCoV-19/USA/OR- aagctagctcttggaggttccgtggctataaagataacagaacattcttggaatgctgat
+hCoV-19/USA/OR- aagctagctcttggaggttccgtggctataaagataacagaacattcttggaatgctgat
+hCoV-19/USA/OR- aagctagctcttggaggttccgtggctataaagataacagaacattcttggaatgctgat
+hCoV-19/USA/CA- aagctagctcttggaggttccgtggctataaagataacagaacattcttggaatgctgat
+                ************************************************************
+
+hCoV-19/USA/OR- ctttataagctcatgggacacttcgcatggtggacagcctttgttactaatgtgaatgcg
+hCoV-19/USA/OR- ctttataagctcatgggacacttcgcatggtggacagcctttgttactaatgtgaatgcg
+hCoV-19/USA/OR- ctttataagctcatgggacacttcgcatggtggacagcctttgttactaatgtgaatgcg
+hCoV-19/USA/CA- ctttataagctcatgggacacttcgcatggtggacagcctttgttactaatgtgaatgcg
+                ************************************************************
+
+hCoV-19/USA/OR- tcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcgaacaaata
+hCoV-19/USA/OR- tcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcgaacaaata
+hCoV-19/USA/OR- tcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcgaacaaata
+hCoV-19/USA/CA- tcatcatctgaagcatttttaattggatgtaattatcttggcaaaccacgcgaacaaata
+                ************************************************************
+
+hCoV-19/USA/OR- gatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaattcagttg
+hCoV-19/USA/OR- gatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaattcagttg
+hCoV-19/USA/OR- gatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaattcagttg
+hCoV-19/USA/CA- gatggttatgtcatgcatgcaaattacatattttggaggaatacaaatccaattcagttg
+                ************************************************************
+
+hCoV-19/USA/OR- tcttcctattctttatttgacatgagtaaatttccccttaaattaaggggtactgctgtt
+hCoV-19/USA/OR- tcttcctattctttatttgacatgagtaaatttccccttaaattaaggggtactgctgtt
+hCoV-19/USA/OR- tcttcctattctttatttgacatgagtaaatttccccttaaattaaggggtactgctgtt
+hCoV-19/USA/CA- tcttcctattctttatttgacatgagtaaatttccccttaaattaaggggtactgctgtt
+                ************************************************************
+
+hCoV-19/USA/OR- atgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagtaaaggtaga
+hCoV-19/USA/OR- atgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagtaaaggtaga
+hCoV-19/USA/OR- atgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagtaaaggtaga
+hCoV-19/USA/CA- atgtctttaaaagaaggtcaaatcaatgatatgattttatctcttcttagtaaaggtaga
+                ************************************************************
+
+hCoV-19/USA/OR- cttataattagagaaaacaacagagttgttatttctagtgatgttcttgttaacaactaa
+hCoV-19/USA/OR- cttataattagagaaaacaacagagttgttatttctagtgatgttcttgttaacaactaa
+hCoV-19/USA/OR- cttataattagagaaaacaacagagttgttatttctagtgatgttcttgttaacaactaa
+hCoV-19/USA/CA- cttataattagagaaaacaacagagttgttatttctagtgatgttcttgttaacaactaa
+                ************************************************************
+
+hCoV-19/USA/OR- acgaacaatgtttgtttttcttgttttattgccactagtttctagtcagtgtgttaatct
+hCoV-19/USA/OR- acgaacaatgtttgtttttcttgttttattgccactagtttctagtcagtgtgttaatct
+hCoV-19/USA/OR- acgaacaatgtttgtttttcttgttttattgccactagtttctagtcagtgtgttaatct
+hCoV-19/USA/CA- acgaacaatgtttgtttttcttgttttattgccactagtctctagtcagtgtgttaatct
+                ***************************************.********************
+
+hCoV-19/USA/OR- tacaaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttatta
+hCoV-19/USA/OR- tacaaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttatta
+hCoV-19/USA/OR- tacaaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttatta
+hCoV-19/USA/CA- tagaaccagaactcaattaccccctgcatacactaattctttcacacgtggtgtttatta
+                ** *********************************************************
+
+hCoV-19/USA/OR- ccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttcttaccttt
+hCoV-19/USA/OR- ccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttcttaccttt
+hCoV-19/USA/OR- ccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttcttaccttt
+hCoV-19/USA/CA- ccctgacaaagttttcagatcctcagttttacattcaactcaggacttgttcttaccttt
+                ************************************************************
+
+hCoV-19/USA/OR- cttttccaatgttacttggttccatgtta------tctctgggaccaatggtactaagag
+hCoV-19/USA/OR- cttttccaatgttacttggttccatgtta------tctctgggaccaatggtactaagag
+hCoV-19/USA/OR- cttttccaatgttacttggttccatgttanacatgtctctgggaccaatggtactaagag
+hCoV-19/USA/CA- cttttccaatgttacttggttccatgctatacatgtctctgggaccaatggtactaagag
+                **************************.**      *************************
+
+hCoV-19/USA/OR- gtttgataaccctgtcctaccatttaatgatggtgtttattttgcttccattgagaagtc
+hCoV-19/USA/OR- gtttgataaccctgtcctaccatttaatgatggtgtttattttgcttccattgagaagtc
+hCoV-19/USA/OR- gtttgataaccctgtcctaccatttaatgatggtgtttattttgcttccattgagaagtc
+hCoV-19/USA/CA- gtttgataaccctgtcctaccatttaatgatggtgtttattttgcttccactgagaagtc
+                **************************************************.*********
+
+hCoV-19/USA/OR- taacataataagaggctggatttttggtactactttagattcgaagacccagtccctact
+hCoV-19/USA/OR- taacataataagaggctggatttttggtactactttagattcgaagacccagtccctact
+hCoV-19/USA/OR- taacataataggaggctggatttttggtactactttagattcgaagacccagtccctact
+hCoV-19/USA/CA- taacataataagaggctggatttttggtactactttagattcgaagacccagtccctact
+                **********.*************************************************
+
+hCoV-19/USA/OR- tattgttaataacgctactaatgttgttattaaagtctgtgaatttcaattttgtaatga
+hCoV-19/USA/OR- tattgttaataacgctactaatgttgttattaaagtctgtgaatttcaattttgtaatga
+hCoV-19/USA/OR- tattgttaataacgctactaatgttgttattaaagtctgtgaatttcaattttgtaatga
+hCoV-19/USA/CA- tattgttaataacgctactaatgttgttattaaagtctgtgaatttcaattttgtaatga
+                ************************************************************
+
+hCoV-19/USA/OR- tccatttttggnnnnnnnttaccacaaaaacaacaaaagttggatggaaagtgagttcag
+hCoV-19/USA/OR- tccatttttggnnnnnnnntaccacaaaaacaacaaaagttggatggaaagtgagttcag
+hCoV-19/USA/OR- tccatttttgggnnnnnnnnaccacaaaaacaacaaaagttggatggaaagtgagttcag
+hCoV-19/USA/CA- tccatttttggnnnnnnnnnaccacaaaaacaacaaaagttggatggaaagtgagttcag
+                ***********         ****************************************
+
+hCoV-19/USA/OR- agtttattctagtgcgaataattgcacttttgaatatgtctctcagccttttcttatgga
+hCoV-19/USA/OR- agtttattctagtgcgaataattgcacttttgaatatgtctctcagccttttcttatgga
+hCoV-19/USA/OR- agtttattctagtgcgaataattgcacttttgaatatgtctctcagccttttcttatgga
+hCoV-19/USA/CA- agtttattctagtgcgaataattgcacttttgaatatgtctctcagccttttcttatgga
+                ************************************************************
+
+hCoV-19/USA/OR- ccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaagaatattga
+hCoV-19/USA/OR- ccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaagaatattga
+hCoV-19/USA/OR- ccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaagaatattga
+hCoV-19/USA/CA- ccttgaaggaaaacagggtaatttcaaaaatcttagggaatttgtgtttaagaatattga
+                ************************************************************
+
+hCoV-19/USA/OR- tggttattttaaaatatattctaagcacacgcctattantttagtgcgtgagccagaaga
+hCoV-19/USA/OR- tggttattttaaaatatattctaagcacacgcctattannntagtgcgtgagccagaaga
+hCoV-19/USA/OR- tggttattttaaaatatattctaagcacacgcctattannntagtgcgtgagccagaaga
+hCoV-19/USA/CA- tggttattttaaaatatattctaagcacacgcctatta---tagtgcgtgagccagaaga
+                **************************************   *******************
+
+hCoV-19/USA/OR- tctccctcagggtttttcggctttagaaccattggtagatttgccaataggtattaacat
+hCoV-19/USA/OR- tctccctcagggtttttcggctttagaaccattggtagatttgccaataggtattaacat
+hCoV-19/USA/OR- tctccctcagggtttttcggctttagaaccattggtagatttgccaataggtattaacat
+hCoV-19/USA/CA- tctccctcagggtttttcggctttagaaccattggtagannnnnnnnnnnnnnnnnnnnn
+                ***************************************                     
+
+hCoV-19/USA/OR- cactaggtttcaaactttacttgctttacatagaagttatttgactcctggtgattcttc
+hCoV-19/USA/OR- cactaggtttcaaactttacttgctttacatagaagttatttgactcctggtgattcttc
+hCoV-19/USA/OR- cactaggtttcaaactttacttgctttacatagaagttatttgactcctggtgattcttc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ttcaggttggacagctggtgctgcagcttattatgtgggttatcttcaacctaggacttt
+hCoV-19/USA/OR- ttcaggttggacagctggtgctgcagcttattatgtgggttatcttcaacctaggacttt
+hCoV-19/USA/OR- ttcaggttggacagctggtgctgcagcttattatgtgggttatcttcaacctaggacttt
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- tctattaaaatataatgaaaatggaaccattacagatgctgtagactgtgcacttgaccc
+hCoV-19/USA/OR- tctattaaaatataatgaaaatggaaccattacagatgctgtagactgtgcacttgaccc
+hCoV-19/USA/OR- tctattaaaatataatgaaaatggaaccattacagatgctgtagactgtgcacttgaccc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnagactgtgcacttgaccc
+                                                          ******************
+
+hCoV-19/USA/OR- tctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaac
+hCoV-19/USA/OR- tctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaac
+hCoV-19/USA/OR- tctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaac
+hCoV-19/USA/CA- tctctcagaaacaaagtgtacgttgaaatccttcactgtagaaaaaggaatctatcaaac
+                ************************************************************
+
+hCoV-19/USA/OR- ttctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaactt
+hCoV-19/USA/OR- ttctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaactt
+hCoV-19/USA/OR- ttctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaactt
+hCoV-19/USA/CA- ttctaactttagagtccaaccaacagaatctattgttagatttcctaatattacaaactt
+                ************************************************************
+
+hCoV-19/USA/OR- gtgcccttttgatgaagtttttaacgccaccaaatttgcatctgtttatgcttggaacag
+hCoV-19/USA/OR- gtgcccttttgatgaagtttttaacgccaccaaatttgcatctgtttatgcttggaacag
+hCoV-19/USA/OR- gtgcccttttgatgaagtttttaacgccaccaaatttgcatctgtttatgcttggaacag
+hCoV-19/USA/CA- gtgcccttttgatgaagtttttaacgccaccaaatttgcatctgtttatgcttggaacag
+                ************************************************************
+
+hCoV-19/USA/OR- gaagagaatcagcaactgtgttgctgattattctgtcctatataatctcgcaccattttt
+hCoV-19/USA/OR- gaagagaatcagcaactgtgttgctgattattctgtcctatataatctcgcaccattttt
+hCoV-19/USA/OR- gaagagaatcagcaactgtgttgctgattattctgtcctatataatctcgcaccattttt
+hCoV-19/USA/CA- gaagagaatcagcaactgtgttgctgattattctgtcctatataatctcgcaccattttt
+                ************************************************************
+
+hCoV-19/USA/OR- cacttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgt
+hCoV-19/USA/OR- cacttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgt
+hCoV-19/USA/OR- cacttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgt
+hCoV-19/USA/CA- cacttttaagtgttatggagtgtctcctactaaattaaatgatctctgctttactaatgt
+                ************************************************************
+
+hCoV-19/USA/OR- ctatgcagattcatttgtaattagaggtgatgaagtcagacaaatcgctccagggcaaac
+hCoV-19/USA/OR- ctatgcagattcatttgtaattagaggtgatgaagtcagacaaatcgctccagggcaaac
+hCoV-19/USA/OR- ctatgcagattcatttgtaattagaggtgatgaagtcagacaaatcgctccagggcaaac
+hCoV-19/USA/CA- ctatgcagattcatttgtaattagaggtgatgaagtcagnnnnnnnnnnnnnnnnnnnnn
+                ***************************************                     
+
+hCoV-19/USA/OR- tggaaagattgctgattataattataaattaccagatgattttacaggctgcgttatagc
+hCoV-19/USA/OR- tggaaagattgctgattataattataaattaccagatgattttacaggctgcgttatagc
+hCoV-19/USA/OR- tggaaagattgctgattataattataaattaccagatgattttacaggctgcgttatagc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ttggaattctaacaagcttgattctaaggttagtggtaattataattacctgtatagatt
+hCoV-19/USA/OR- ttggaattctaacaagcttgattctaaggttagtggtaattataattacctgtatagatt
+hCoV-19/USA/OR- ttggaattctaacaagcttgattctaaggttagtggtaattataattacctgtatagatt
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- gtttaggaagtctaatctcaaaccttttgagagagatatttcaactgaaatctatcaggc
+hCoV-19/USA/OR- gtttaggaagtctaatctcaaaccttttgagagagatatttcaactgaaatctatcaggc
+hCoV-19/USA/OR- gtttaggaagtctaatctcaaaccttttgagagagatatttcaactgaaatctatcaggc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnatctatcaggc
+                                                                 ***********
+
+hCoV-19/USA/OR- cggtaacaaaccttgtaatggtgttgcaggttttaattgttactttcctttacaatcata
+hCoV-19/USA/OR- cggtaacaaaccttgtaatggtgttgcaggttttaattgttactttcctttacaatcata
+hCoV-19/USA/OR- cggtaacaaaccttgtaatggtgttgcaggttttaattgttactttcctttacaatcata
+hCoV-19/USA/CA- cggtaacaaaccttgtaatggtgttgcaggttttaattgttactttcctttacgatcata
+                *****************************************************.******
+
+hCoV-19/USA/OR- tggtttccaacccactaatggtgttggtcaccaaccatacagagtagtagtactttcttt
+hCoV-19/USA/OR- tggtttccaacccactaatggtgttggtcaccaaccatacagagtagtagtactttcttt
+hCoV-19/USA/OR- tggtttccaacccactaatggtgttggtcaccaaccatacagagtagtagtactttcttt
+hCoV-19/USA/CA- tagtttccgacccacttatggtgttggtcaccaaccatacagagtagtagtactttcttt
+                *.******.******* *******************************************
+
+hCoV-19/USA/OR- tgaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaa
+hCoV-19/USA/OR- tgaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaa
+hCoV-19/USA/OR- tgaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaa
+hCoV-19/USA/CA- tgaacttctacatgcaccagcaactgtttgtggacctaaaaagtctactaatttggttaa
+                ************************************************************
+
+hCoV-19/USA/OR- aaacaaatgtgtcaatttcaacttcaatggtttaaaaggcacaggtgttcttactgagtc
+hCoV-19/USA/OR- aaacaaatgtgtcaatttcaacttcaatggtttaaaaggcacaggtgttcttactgagtc
+hCoV-19/USA/OR- aaacaaatgtgtcaatttcaacttcaatggtttaaaaggcacaggtgttcttactgagtc
+hCoV-19/USA/CA- aaacaaatgtgtcaatttcaacttcaatggtttaaaaggcacaggtgttcttactgagtc
+                ************************************************************
+
+hCoV-19/USA/OR- taacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgc
+hCoV-19/USA/OR- taacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgc
+hCoV-19/USA/OR- taacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgc
+hCoV-19/USA/CA- taacaaaaagtttctgcctttccaacaatttggcagagacattgctgacactactgatgc
+                ************************************************************
+
+hCoV-19/USA/OR- tgtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgt
+hCoV-19/USA/OR- tgtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgt
+hCoV-19/USA/OR- tgtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgt
+hCoV-19/USA/CA- tgtccgtgatccacagacacttgagattcttgacattacaccatgttcttttggtggtgt
+                ************************************************************
+
+hCoV-19/USA/OR- cagtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgt
+hCoV-19/USA/OR- cagtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgt
+hCoV-19/USA/OR- cagtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgt
+hCoV-19/USA/CA- cagtgttataacaccaggaacaaatacttctaaccaggttgctgttctttatcagggtgt
+                ************************************************************
+
+hCoV-19/USA/OR- taactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgt
+hCoV-19/USA/OR- taactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgt
+hCoV-19/USA/OR- taactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgt
+hCoV-19/USA/CA- taactgcacagaagtccctgttgctattcatgcagatcaacttactcctacttggcgtgt
+                ************************************************************
+
+hCoV-19/USA/OR- ttattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaata
+hCoV-19/USA/OR- ttattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaata
+hCoV-19/USA/OR- ttattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaata
+hCoV-19/USA/CA- ttattctacaggttctaatgtttttcaaacacgtgcaggctgtttaataggggctgaata
+                ************************************************************
+
+hCoV-19/USA/OR- tgtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatca
+hCoV-19/USA/OR- tgtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatca
+hCoV-19/USA/OR- tgtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatca
+hCoV-19/USA/CA- tgtcaacaactcatatgagtgtgacatacccattggtgcaggtatatgcgctagttatca
+                ************************************************************
+
+hCoV-19/USA/OR- gactcagactaagtctcatcggcgggcacgtagtgtagctagtcaatccatcattgccta
+hCoV-19/USA/OR- gactcagactaagtctcatcggcgggcacgtagtgtagctagtcaatccatcattgccta
+hCoV-19/USA/OR- gactcagactaagtctcatcggcgggcacgtagtgtagctagtcaatccatcattgccta
+hCoV-19/USA/CA- gactcagactaagtctcatcggcggnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                *************************                                   
+
+hCoV-19/USA/OR- cactatgtcacttggtgcagaaaattcagttgcttactctaataactctattgccatacc
+hCoV-19/USA/OR- cactatgtcacttggtgcagaaaattcagttgcttactctaataactctattgccatacc
+hCoV-19/USA/OR- cactatgtcacttggtgcagaaaattcagttgcttactctaataactctattgccatacc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- cacaaattttactattagtgttaccacagaaattctaccagtgtctatgaccaagacatc
+hCoV-19/USA/OR- cacaaattttactattagtgttaccacagaaattctaccagtgtctatgaccaagacatc
+hCoV-19/USA/OR- cacaaattttactattagtgttaccacagaaattctaccagtgtctatgaccaagacatc
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- agtagattgtacaatgtacatttgtggtgattcaactgaatgcagcaatcttttgttgca
+hCoV-19/USA/OR- agtagattgtacaatgtacatttgtggtgattcaactgaatgcagcaatcttttgttgca
+hCoV-19/USA/OR- agtagattgtacaatgtacatttgtggtgattcaactgaatgcagcaatcttttgttgca
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- atatggcagtttttgtacacaattaaaacgtgctttaactggaatagctgttgaacaaga
+hCoV-19/USA/OR- atatggcagtttttgtacacaattaaaacgtgctttaactggaatagctgttgaacaaga
+hCoV-19/USA/OR- atatggcagtttttgtacacaattaaaacgtgctttaactggaatagctgttgaacaaga
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnttgaacaaga
+                                                                  **********
+
+hCoV-19/USA/OR- caaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaa
+hCoV-19/USA/OR- caaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaa
+hCoV-19/USA/OR- caaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaa
+hCoV-19/USA/CA- caaaaacacccaagaagtttttgcacaagtcaaacaaatttacaaaacaccaccaattaa
+                ************************************************************
+
+hCoV-19/USA/OR- atattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagag
+hCoV-19/USA/OR- atattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagag
+hCoV-19/USA/OR- atattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagag
+hCoV-19/USA/CA- atattttggtggttttaatttttcacaaatattaccagatccatcaaaaccaagcaagag
+                ************************************************************
+
+hCoV-19/USA/OR- gtcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaa
+hCoV-19/USA/OR- gtcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaa
+hCoV-19/USA/OR- gtcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaa
+hCoV-19/USA/CA- gtcatttattgaagatctacttttcaacaaagtgacacttgcagatgctggcttcatcaa
+                ************************************************************
+
+hCoV-19/USA/OR- acaatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagtt
+hCoV-19/USA/OR- acaatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagtt
+hCoV-19/USA/OR- acaatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagtt
+hCoV-19/USA/CA- acaatatggtgattgccttggtgatattgctgctagagacctcatttgtgcacaaaagtt
+                ************************************************************
+
+hCoV-19/USA/OR- taaaggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttc
+hCoV-19/USA/OR- taaaggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttc
+hCoV-19/USA/OR- taaaggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttc
+hCoV-19/USA/CA- taaaggccttactgttttgccacctttgctcacagatgaaatgattgctcaatacacttc
+                ************************************************************
+
+hCoV-19/USA/OR- tgcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattaca
+hCoV-19/USA/OR- tgcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattaca
+hCoV-19/USA/OR- tgcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattaca
+hCoV-19/USA/CA- tgcactgttagcgggtacaatcacttctggttggacctttggtgcaggtgctgcattaca
+                ************************************************************
+
+hCoV-19/USA/OR- aataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgt
+hCoV-19/USA/OR- aataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgt
+hCoV-19/USA/OR- aataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgt
+hCoV-19/USA/CA- aataccatttgctatgcaaatggcttataggtttaatggtattggagttacacagaatgt
+                ************************************************************
+
+hCoV-19/USA/OR- tctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattca
+hCoV-19/USA/OR- tctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattca
+hCoV-19/USA/OR- tctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattca
+hCoV-19/USA/CA- tctctatgagaaccaaaaattgattgccaaccaatttaatagtgctattggcaaaattca
+                ************************************************************
+
+hCoV-19/USA/OR- agactcactttcttccacagcaagtgcacttggaaaacttcaagatgtggtcaaccataa
+hCoV-19/USA/OR- agactcactttcttccacagcaagtgcacttggaaaacttcaagatgtggtcaaccataa
+hCoV-19/USA/OR- agactcactttcttccacagcaagtgcacttggaaaacttcaagatgtggtcaaccataa
+hCoV-19/USA/CA- agactcactttcttccacagcaagtgcacttggaaaacttcaagatgtggtcaaccataa
+                ************************************************************
+
+hCoV-19/USA/OR- tgcacaagctttaaacacgcttgttaaacaacttagctccaaatttggtgcaatttcaag
+hCoV-19/USA/OR- tgcacaagctttaaacacgcttgttaaacaacttagctccaaatttggtgcaatttcaag
+hCoV-19/USA/OR- tgcacaagctttaaacacgcttgttaaacaacttagctccaaatttggtgcaatttcaag
+hCoV-19/USA/CA- tgcacaagctttaaacacgcttgttaaacaacttagctccaaatttggtgcaatttcaag
+                ************************************************************
+
+hCoV-19/USA/OR- tgttttaaatgatatcttttcacgtcttgacaaagttgaggctgaagtgcaaattgatag
+hCoV-19/USA/OR- tgttttaaatgatatcttttcacgtcttgacaaagttgaggctgaagtgcaaattgatag
+hCoV-19/USA/OR- tgttttaaatgatatcttttcacgtcttgacaaagttgaggctgaagtgcaaattgatag
+hCoV-19/USA/CA- tgttttaaatgatatcttttcacgtcttgacaaagttgaggctgaagtgcaaattgatag
+                ************************************************************
+
+hCoV-19/USA/OR- gttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagc
+hCoV-19/USA/OR- gttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagc
+hCoV-19/USA/OR- gttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagc
+hCoV-19/USA/CA- gttgatcacaggcagacttcaaagtttgcagacatatgtgactcaacaattaattagagc
+                ************************************************************
+
+hCoV-19/USA/OR- tgcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgg
+hCoV-19/USA/OR- tgcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgg
+hCoV-19/USA/OR- tgcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgg
+hCoV-19/USA/CA- tgcagaaatcagagcttctgctaatcttgctgctactaaaatgtcagagtgtgtacttgg
+                ************************************************************
+
+hCoV-19/USA/OR- acaatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtc
+hCoV-19/USA/OR- acaatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtc
+hCoV-19/USA/OR- acaatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtc
+hCoV-19/USA/CA- acaatcaaaaagagttgatttttgtggaaagggctatcatcttatgtccttccctcagtc
+                ************************************************************
+
+hCoV-19/USA/OR- agcacctcatggtgtagtcttcttgcatgtgacttatgtccctgcacaagaaaagaactt
+hCoV-19/USA/OR- agcacctcatggtgtagtcttcttgcatgtgacttatgtccctgcacaagaaaagaactt
+hCoV-19/USA/OR- agcacctcatggtgtagtcttcttgcatgtgacttatgtccctgcacaagaaaagaactt
+hCoV-19/USA/CA- agcacctcatggtgtagtcttcttgcatgtgacttatgtccctgcacaagaaaagaactt
+                ************************************************************
+
+hCoV-19/USA/OR- cacaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtctt
+hCoV-19/USA/OR- cacaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtctt
+hCoV-19/USA/OR- cacaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtctt
+hCoV-19/USA/CA- cacaactgctcctgccatttgtcatgatggaaaagcacactttcctcgtgaaggtgtctt
+                ************************************************************
+
+hCoV-19/USA/OR- tgtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcat
+hCoV-19/USA/OR- tgtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcat
+hCoV-19/USA/OR- tgtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcat
+hCoV-19/USA/CA- tgtttcaaatggcacacactggtttgtaacacaaaggaatttttatgaaccacaaatcat
+                ************************************************************
+
+hCoV-19/USA/OR- tactacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaa
+hCoV-19/USA/OR- tactacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaa
+hCoV-19/USA/OR- tactacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaa
+hCoV-19/USA/CA- tactacagacaacacatttgtgtctggtaactgtgatgttgtaataggaattgtcaacaa
+                ************************************************************
+
+hCoV-19/USA/OR- cacagtttatgatcctttgcaacctgaattagattcattcaaggaggagttagataaata
+hCoV-19/USA/OR- cacagtttatgatcctttgcaacctgaattagattcattcaaggaggagttagataaata
+hCoV-19/USA/OR- cacagtttatgatcctttgcaacctgaattagattcattcaaggaggagttagataaata
+hCoV-19/USA/CA- cacagtttatgatcctttgcaacctgaattagattcattcaaggaggagttagataaata
+                ************************************************************
+
+hCoV-19/USA/OR- ttttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttc
+hCoV-19/USA/OR- ttttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttc
+hCoV-19/USA/OR- ttttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttc
+hCoV-19/USA/CA- ttttaagaatcatacatcaccagatgttgatttaggtgacatctctggcattaatgcttc
+                ************************************************************
+
+hCoV-19/USA/OR- agttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatga
+hCoV-19/USA/OR- agttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatga
+hCoV-19/USA/OR- agttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatga
+hCoV-19/USA/CA- agttgtaaacattcaaaaagaaattgaccgcctcaatgaggttgccaagaatttaaatga
+                ************************************************************
+
+hCoV-19/USA/OR- atctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggta
+hCoV-19/USA/OR- atctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggta
+hCoV-19/USA/OR- atctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggta
+hCoV-19/USA/CA- atctctcatcgatctccaagaacttggaaagtatgagcagtatataaaatggccatggta
+                ************************************************************
+
+hCoV-19/USA/OR- catttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttg
+hCoV-19/USA/OR- catttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttg
+hCoV-19/USA/OR- catttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttg
+hCoV-19/USA/CA- catttggctaggttttatagctggcttgattgccatagtaatggtgacaattatgctttg
+                ************************************************************
+
+hCoV-19/USA/OR- ctgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaa
+hCoV-19/USA/OR- ctgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaa
+hCoV-19/USA/OR- ctgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaa
+hCoV-19/USA/CA- ctgtatgaccagttgctgtagttgtctcaagggctgttgttcttgtggatcctgctgcaa
+                ************************************************************
+
+hCoV-19/USA/OR- atttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaac
+hCoV-19/USA/OR- atttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaac
+hCoV-19/USA/OR- atttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaac
+hCoV-19/USA/CA- atttgatgaagacgactctgagccagtgctcaaaggagtcaaattacattacacataaac
+                ************************************************************
+
+hCoV-19/USA/OR- gaacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggt
+hCoV-19/USA/OR- gaacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggt
+hCoV-19/USA/OR- gaacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggt
+hCoV-19/USA/CA- gaacttatggatttgtttatgagaatcttcacaattggaactgtaactttgaagcaaggt
+                ************************************************************
+
+hCoV-19/USA/OR- gaaatcaaggatgctactccttcagattttgttcgcgctactgcaacgataccgatacaa
+hCoV-19/USA/OR- gaaatcaaggatgctactccttcagattttgttcgcgctactgcaacgataccgatacaa
+hCoV-19/USA/OR- gaaatcaaggatgctactccttcagattttgttcgcgctactgcaacgataccgatacaa
+hCoV-19/USA/CA- gaaatcaaggatgctactccttcagattttgttcgcgctactgcaacgataccgatacaa
+                ************************************************************
+
+hCoV-19/USA/OR- gcctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagc
+hCoV-19/USA/OR- gcctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagc
+hCoV-19/USA/OR- gcctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagc
+hCoV-19/USA/CA- gcctcactccctttcggatggcttattgttggcgttgcacttcttgctgtttttcagagc
+                ************************************************************
+
+hCoV-19/USA/OR- gcttccaaaatcataactctcaaaaagagatggcaactagcactctccaagggtgttcac
+hCoV-19/USA/OR- gcttccaaaatcataactctcaaaaagagatggcaactagcactctccaagggtgttcac
+hCoV-19/USA/OR- gcttccaaaatcataactctcaaaaagagatggcaactagcactctccaagggtgttcac
+hCoV-19/USA/CA- gcttccaaaatcataactctcaaaaagagatggcaactagcactctccaagggtgttcac
+                ************************************************************
+
+hCoV-19/USA/OR- tttgtttgcaacttgctgttgttgtttgtaacagtttactcacaccttttgctcgttgct
+hCoV-19/USA/OR- tttgtttgcaacttgctgttgttgtttgtaacagtttactcacaccttttgctcgttgct
+hCoV-19/USA/OR- tttgtttgcaacttgctgttgttgtttgtaacagtttactcacaccttttgctcgttgct
+hCoV-19/USA/CA- tttgtttgcaacttgctgttgttgtttgtaacagtttactcacaccttttgctcgttgct
+                ************************************************************
+
+hCoV-19/USA/OR- gctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtata
+hCoV-19/USA/OR- gctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtata
+hCoV-19/USA/OR- gctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtata
+hCoV-19/USA/CA- gctggccttgaagccccttttctctatctttatgctttagtctacttcttgcagagtata
+                ************************************************************
+
+hCoV-19/USA/OR- aactttgtaagaataataatgaggctttggctttgctggaaatgccgttccaaaaaccca
+hCoV-19/USA/OR- aactttgtaagaataataatgaggctttggctttgctggaaatgccgttccaaaaaccca
+hCoV-19/USA/OR- aactttgtaagaataataatgaggctttggctttgctggaaatgccgttccaaaaaccca
+hCoV-19/USA/CA- aactttgtaagaataataatgaggctttggctttgctggaaatgccgttccaaaaaccca
+                ************************************************************
+
+hCoV-19/USA/OR- ttactttatgatgccaactattttctttgctggcatactaattgttacgactattgtata
+hCoV-19/USA/OR- ttactttatgatgccaactattttctttgctggcatactaattgttacgactattgtata
+hCoV-19/USA/OR- ttactttatgatgccaactattttctttgctggcatactaattgttacgactattgtata
+hCoV-19/USA/CA- ttactttatgatgccaactattttctttgctggcatactaattgttacgactattgtata
+                ************************************************************
+
+hCoV-19/USA/OR- ccttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtcct
+hCoV-19/USA/OR- ccttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtcct
+hCoV-19/USA/OR- ccttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtcct
+hCoV-19/USA/CA- ccttacaatagtgtaacttcttcaattgtcattacttcaggtgatggcacaacaagtcct
+                ************************************************************
+
+hCoV-19/USA/OR- atttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaa
+hCoV-19/USA/OR- atttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaa
+hCoV-19/USA/OR- atttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaa
+hCoV-19/USA/CA- atttctgaacatgactaccagattggtggttatactgaaaaatgggaatctggagtaaaa
+                ************************************************************
+
+hCoV-19/USA/OR- gactgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaa
+hCoV-19/USA/OR- gactgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaa
+hCoV-19/USA/OR- gactgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaa
+hCoV-19/USA/CA- gactgtgttgtattacacagttacttcacttcagactattaccagctgtactcaactcaa
+                ************************************************************
+
+hCoV-19/USA/OR- ttgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgat
+hCoV-19/USA/OR- ttgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgat
+hCoV-19/USA/OR- ttgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgat
+hCoV-19/USA/CA- ttgagtacagacactggtgttgaacatgttaccttcttcatctacaataaaattgttgat
+                ************************************************************
+
+hCoV-19/USA/OR- gagcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatcca
+hCoV-19/USA/OR- gagcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatcca
+hCoV-19/USA/OR- gagcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatcca
+hCoV-19/USA/CA- gagcctgaagaacatgtccaaattcacacaatcgacggttcatccggagttgttaatcca
+                ************************************************************
+
+hCoV-19/USA/OR- gtaatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaa
+hCoV-19/USA/OR- gtaatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaa
+hCoV-19/USA/OR- gtaatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaa
+hCoV-19/USA/CA- gtaatggaaccaatttatgatgaaccgacgacgactactagcgtgcctttgtaagcacaa
+                ************************************************************
+
+hCoV-19/USA/OR- gctgatgagtacgaacttatgtactcattcg-tttcggaagagataggtacgttaatagt
+hCoV-19/USA/OR- gctgatgagtacgaacttatgtactcattcgttttcggaagagataggtacgttaatagt
+hCoV-19/USA/OR- gctgatgagtacgaacttatgtactcattcg-tttcggaagagataggtacgttaatagt
+hCoV-19/USA/CA- gctgatgagtacgaacttatgtactcattcg-tttcggaagagataggtacgttaatagt
+                ******************************* ****************************
+
+hCoV-19/USA/OR- taatagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcct
+hCoV-19/USA/OR- taatagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcct
+hCoV-19/USA/OR- taatagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcct
+hCoV-19/USA/CA- taatagcgtacttctttttcttgctttcgtggtattcttgctagttacactagccatcct
+                ************************************************************
+
+hCoV-19/USA/OR- tactgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacc
+hCoV-19/USA/OR- tactgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacc
+hCoV-19/USA/OR- tactgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacc
+hCoV-19/USA/CA- tactgcgcttcgattgtgtgcgtactgctgcaatattgttaacgtgagtcttgtaaaacc
+                ************************************************************
+
+hCoV-19/USA/OR- ttctttttacgtttactctcgtgttaaaaatctgaattcttctagagttcctgatcttct
+hCoV-19/USA/OR- ttctttttacgtttactctcgtgttaaaaatctgaattcttctagagttcctgatcttct
+hCoV-19/USA/OR- ttctttttacgtttactctcgtgttaaaaatctgaattcttctagagttcctgatcttct
+hCoV-19/USA/CA- ttctttttacgnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                ***********                                                 
+
+hCoV-19/USA/OR- ggtctaaacgaactaaatattatattagtttttctgtttggaactttaattttagccatg
+hCoV-19/USA/OR- ggtctaaacgaactaaatattatattagtttttctgtttggaactttaattttagccatg
+hCoV-19/USA/OR- ggtctaaacgaactaaatattatattagtttttctgtttggaactttaattttagccatg
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- gcaggttccaacggtactattaccgttgaagagcttaaaaagctccttgaagaatggaac
+hCoV-19/USA/OR- gcaggttccaacggtactattaccgttgaagagcttaaaaagctccttgaagaatggaac
+hCoV-19/USA/OR- gcaggttccaacggtactattaccgttgaagagcttaaaaagctccttgaagaatggaac
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ctagtaataggtttcctattccttacatggatttgtcttctacaatttgcctatgccaac
+hCoV-19/USA/OR- ctagtaataggtttcctattccttacatggatttgtcttctacaatttgcctatgccaac
+hCoV-19/USA/OR- ctagtaataggtttcctattccttacatggatttgtcttctacaatttgcctatgccaac
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnncttctacaatttgcctatgccaac
+                                                    ************************
+
+hCoV-19/USA/OR- aggaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaact
+hCoV-19/USA/OR- aggaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaact
+hCoV-19/USA/OR- aggaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaact
+hCoV-19/USA/CA- aggaataggtttttgtatataattaagttaattttcctctggctgttatggccagtaact
+                ************************************************************
+
+hCoV-19/USA/OR- ttaacttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgct
+hCoV-19/USA/OR- ttaacttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgct
+hCoV-19/USA/OR- ttaacttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgct
+hCoV-19/USA/CA- ttaacttgttttgtgcttgctgctgtttacagaataaattggatcaccggtggaattgct
+                ************************************************************
+
+hCoV-19/USA/OR- atcgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcaga
+hCoV-19/USA/OR- atcgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcaga
+hCoV-19/USA/OR- atcgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcaga
+hCoV-19/USA/CA- atcgcaatggcttgtcttgtaggcttgatgtggctcagctacttcattgcttctttcaga
+                ************************************************************
+
+hCoV-19/USA/OR- ctgtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaac
+hCoV-19/USA/OR- ctgtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaac
+hCoV-19/USA/OR- ctgtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaac
+hCoV-19/USA/CA- ctgtttgcgcgtacgcgttccatgtggtcattcaatccagaaactaacattcttctcaac
+                ************************************************************
+
+hCoV-19/USA/OR- gtgccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcgga
+hCoV-19/USA/OR- gtgccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcgga
+hCoV-19/USA/OR- gtgccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcgga
+hCoV-19/USA/CA- gtgccactccatggcactattctgaccagaccgcttctagaaagtgaactcgtaatcgga
+                ************************************************************
+
+hCoV-19/USA/OR- gctgtgatccttcgtggacatcttcgtattgctggacaccatctaggacgctgtgacatc
+hCoV-19/USA/OR- gctgtgatccttcgtggacatcttcgtattgctggacaccatctaggacgctgtgacatc
+hCoV-19/USA/OR- gctgtgatccttcgtggacatcttcgtattgctggacaccatctaggacgctgtgacatc
+hCoV-19/USA/CA- gctgtgatcctnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                ***********                                                 
+
+hCoV-19/USA/OR- aaggacctgcctaaagaaatcactgttgctacatcacgaacgctttcttattacaaattg
+hCoV-19/USA/OR- aaggacctgcctaaagaaatcactgttgctacatcacgaacgctttcttattacaaattg
+hCoV-19/USA/OR- aaggacctgcctaaagaaatcactgttgctacatcacgaacgctttcttattacaaattg
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ggagcttcgcagcgtgtagcaggtgactcaggttttgctgcatacagtcgctacaggatt
+hCoV-19/USA/OR- ggagcttcgcagcgtgtagcaggtgactcaggttttgctgcatacagtcgctacaggatt
+hCoV-19/USA/OR- ggagcttcgcagcgtgtagcaggtgactcaggttttgctgcatacagtcgctacaggatt
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnn
+                                                                            
+
+hCoV-19/USA/OR- ggcaactataaattaaacacagaccattccagtagcagtgacaatattgctttgcttgta
+hCoV-19/USA/OR- ggcaactataaattaaacacagaccattccagtagcagtgacaatattgctttgcttgta
+hCoV-19/USA/OR- ggcaactataaattaaacacagaccattccagtagcagtgacaatattgctttgcttgta
+hCoV-19/USA/CA- nnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnnntgcttgta
+                                                                    ********
+
+hCoV-19/USA/OR- cagtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatatt
+hCoV-19/USA/OR- cagtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatatt
+hCoV-19/USA/OR- cagtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatatt
+hCoV-19/USA/CA- cagtaagtgacaacagatgtttcatctcgttgactttcaggttactatagcagagatatt
+                ************************************************************
+
+hCoV-19/USA/OR- actaattattatgcggacttttaaagtttccatttggaatcttgattacatcataaacct
+hCoV-19/USA/OR- actaattattatgcggacttttaaagtttccatttggaatcttgattacatcataaacct
+hCoV-19/USA/OR- actaattattatgcggacttttaaagtttccatttggaatcttgattacatcataaacct
+hCoV-19/USA/CA- actaattattatgcggacttttaaagtttccatttggaatcttgattacatcataaacct
+                ************************************************************
+
+hCoV-19/USA/OR- cataattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaaga
+hCoV-19/USA/OR- cataattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaaga
+hCoV-19/USA/OR- cataattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaaga
+hCoV-19/USA/CA- cataattaaaaatttatctaagtcactaactgagaataaatattctcaattagatgaaga
+                ************************************************************
+
+hCoV-19/USA/OR- gcaaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataac
+hCoV-19/USA/OR- gcaaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataac
+hCoV-19/USA/OR- gcaaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataac
+hCoV-19/USA/CA- gcaaccaatggagattgattaaacgaacatgaaaattattcttttcttggcactgataac
+                ************************************************************
+
+hCoV-19/USA/OR- actcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtactttt
+hCoV-19/USA/OR- actcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtactttt
+hCoV-19/USA/OR- actcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtactttt
+hCoV-19/USA/CA- actcgctacttgtgagctttatcactaccaagagtgtgttagaggtacaacagtactttt
+                ************************************************************
+
+hCoV-19/USA/OR- aaaagaaccttgctcttctggaacatacgagggcaattcaccatttcatcctctagctga
+hCoV-19/USA/OR- aaaagaaccttgctcttctggaacatacgagggcaattcaccatttcatcctctagctga
+hCoV-19/USA/OR- aaaagaaccttgctcttctggaacatacgagggcaattcaccatttcatcctctagctga
+hCoV-19/USA/CA- aaaagaaccttgctcttctggaacatacgagggcaattcaccatttcatcctctagctga
+                ************************************************************
+
+hCoV-19/USA/OR- taacaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgt
+hCoV-19/USA/OR- taacaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgt
+hCoV-19/USA/OR- taacaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgt
+hCoV-19/USA/CA- taacaaatttgcactgacttgctttagcactcaatttgcttttgcttgtcctgacggcgt
+                ************************************************************
+
+hCoV-19/USA/OR- aaaacacgtctatcagttacgtgccagatcagtttcacctaaactgttcatcagacaaga
+hCoV-19/USA/OR- aaaacacgtctatcagttacgtgccagatcagtttcacctaaactgttcatcagacaaga
+hCoV-19/USA/OR- aaaacacgtctatcagttacgtgccagatcagtttcacctaaactgttcatcagacaaga
+hCoV-19/USA/CA- aaaacacgtctatcagttacgtgccagatcagtttcacctaaactgttcatcagacaaga
+                ************************************************************
+
+hCoV-19/USA/OR- ggaagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataac
+hCoV-19/USA/OR- ggaagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataac
+hCoV-19/USA/OR- ggaagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataac
+hCoV-19/USA/CA- ggaagttcaagaactttactctccaatttttcttattgttgcggcaatagtgtttataac
+                ************************************************************
+
+hCoV-19/USA/OR- actttgcttcacactcaaaagaaagacagaatgattgaactttcattaattgacttctat
+hCoV-19/USA/OR- actttgcttcacactcaaaagaaagacagaatgattgaactttcattaattgacttctat
+hCoV-19/USA/OR- actttgcttcacactcaaaagaaagacagaatgattgaactttcattaattgacttctat
+hCoV-19/USA/CA- actttgcttcacactcaaaagaaagacagaatgattgaactttcattaattgacttctat
+                ************************************************************
+
+hCoV-19/USA/OR- ttgtgctttttagcctttctgttattccttgttttaattatgcttattatcttttggttc
+hCoV-19/USA/OR- ttgtgctttttagcctttctgttattccttgttttaattatgcttattatcttttggttc
+hCoV-19/USA/OR- ttgtgctttttagcctttctgttattccttgttttaattatgcttattatcttttggttc
+hCoV-19/USA/CA- ttgtgctttttagcctttctgctattccttgttttaattatgcttattatcttttggttc
+                *********************.**************************************
+
+hCoV-19/USA/OR- tcacttgaactgcaagatcataatgaaacttgtcacgcctaaacgaacatgaaatttctt
+hCoV-19/USA/OR- tcacttgaactgcaagatcataatgaaacttgtcacgcctaaacgaacatgaaatttctt
+hCoV-19/USA/OR- tcacttgaactgcaagatcataatgaaacttgtcacgcctaaacgaacatgaaatttctt
+hCoV-19/USA/CA- tcacttgaactgcaagatcataatgaaatttgtcacgcctaaacgaacatgaaatttctt
+                ****************************.*******************************
+
+hCoV-19/USA/OR- gttttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtca
+hCoV-19/USA/OR- gttttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtca
+hCoV-19/USA/OR- gttttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtca
+hCoV-19/USA/CA- gttttcttaggaatcatcacaactgtagctgcatttcaccaagaatgtagtttacagtca
+                ************************************************************
+
+hCoV-19/USA/OR- tgtactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaa
+hCoV-19/USA/OR- tgtactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaa
+hCoV-19/USA/OR- tgtactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaa
+hCoV-19/USA/CA- tgtactcaacatcaaccatatgtagttgatgacccgtgtcctattcacttctattctaaa
+                ************************************************************
+
+hCoV-19/USA/OR- tggtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgag
+hCoV-19/USA/OR- tggtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgag
+hCoV-19/USA/OR- tggtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgag
+hCoV-19/USA/CA- tggtatattagagtaggagctagaaaatcagcacctttaattgaattgtgcgtggatgag
+                ************************************************************
+
+hCoV-19/USA/OR- gctggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgttta
+hCoV-19/USA/OR- gctggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgttta
+hCoV-19/USA/OR- gctggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgttta
+hCoV-19/USA/CA- gctggttctaaatcacccattcagtacatcgatatcggtaattatacagtttcctgttta
+                ************************************************************
+
+hCoV-19/USA/OR- ccttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttc
+hCoV-19/USA/OR- ccttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttc
+hCoV-19/USA/OR- ccttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttc
+hCoV-19/USA/CA- ccttttacaattaattgccaggaacctaaattgggtagtcttgtagtgcgttgttcgttc
+                ************************************************************
+
+hCoV-19/USA/OR- tatgaagactttttagagtatcatgacgttcgtgttgttttagatttcatctaaacgaac
+hCoV-19/USA/OR- tatgaagactttttagagtatcatgacgttcgtgttgttttagatttcatctaaacgaac
+hCoV-19/USA/OR- tatgaagactttttagagtatcatgacgttcgtgttgttttagatttcatctaaacgaac
+hCoV-19/USA/CA- tatgaagactttttagagtatcatgacgttcgtgttgttttannnnnnatctaaacgaac
+                ******************************************      ************
+
+hCoV-19/USA/OR- aaacttaaatgtctgataatggaccccaaaatcagcgaaatgcactccgcattacgtttg
+hCoV-19/USA/OR- aaacttaaatgtctgataatggaccccaaaatcagcgaaatgcactccgcattacgtttg
+hCoV-19/USA/OR- aaacttaaatgtctgataatggaccccaaaatcagcgaaatgcactccgcattacgtttg
+hCoV-19/USA/CA- aaactaaantgtctgataatggaccccaaaatcagcgaaatgcaccccgcattacgtttg
+                ***** ** ************************************.**************
+
+hCoV-19/USA/OR- gtggaccctcagattcaactggcagtaaccagaatg---------gtggggcgcgatcaa
+hCoV-19/USA/OR- gtggaccctcagattcaactggcagtaaccagaatggannnnncagtggggcgcgatcaa
+hCoV-19/USA/OR- gtggaccctcagattcaactggcagtaaccagaatggagnnnncagtggggcgcgatcaa
+hCoV-19/USA/CA- gtggaccctcagattcaactggcagtaaccagaatggagaacgcagtggggcgcgatcaa
+                ************************************         ***************
+
+hCoV-19/USA/OR- aacaacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactc
+hCoV-19/USA/OR- aacaacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactc
+hCoV-19/USA/OR- aacaacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactc
+hCoV-19/USA/CA- aacaacgtcggccccaaggtttacccaataatactgcgtcttggttcaccgctctcactc
+                ************************************************************
+
+hCoV-19/USA/OR- aacatggcaaggaagaccttaaattccctcgaggacaaggcgttccaattaacaccaata
+hCoV-19/USA/OR- aacatggcaaggaagaccttaaattccctcgaggacaaggcgttccaattaacaccaata
+hCoV-19/USA/OR- aacatggcaaggaagaccttaaattccctcgaggacaaggcgttccaattaacaccaata
+hCoV-19/USA/CA- aacatggcaaggaagaccttaaattccctcgaggacaaggcgttccaattaacaccaata
+                ************************************************************
+
+hCoV-19/USA/OR- gcagtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtg
+hCoV-19/USA/OR- gcagtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtg
+hCoV-19/USA/OR- gcagtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtg
+hCoV-19/USA/CA- gcagtccagatgaccaaattggctactaccgaagagctaccagacgaattcgtggtggtg
+                ************************************************************
+
+hCoV-19/USA/OR- acggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccag
+hCoV-19/USA/OR- acggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccag
+hCoV-19/USA/OR- acggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccag
+hCoV-19/USA/CA- acggtaaaatgaaagatctcagtccaagatggtatttctactacctaggaactgggccag
+                ************************************************************
+
+hCoV-19/USA/OR- aagctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggag
+hCoV-19/USA/OR- aagctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggag
+hCoV-19/USA/OR- aagctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggag
+hCoV-19/USA/CA- aagctggacttccctatggtgctaacaaagacggcatcatatgggttgcaactgagggag
+                ************************************************************
+
+hCoV-19/USA/OR- ccttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcg
+hCoV-19/USA/OR- ccttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcg
+hCoV-19/USA/OR- ccttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcg
+hCoV-19/USA/CA- ccttgaatacaccaaaagatcacattggcacccgcaatcctgctaacaatgctgcaatcg
+                ************************************************************
+
+hCoV-19/USA/OR- tgctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagag
+hCoV-19/USA/OR- tgctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagag
+hCoV-19/USA/OR- tgctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagag
+hCoV-19/USA/CA- tgctacaacttcctcaaggaacaacattgccaaaaggcttctacgcagaagggagcagag
+                ************************************************************
+
+hCoV-19/USA/OR- gcggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaa
+hCoV-19/USA/OR- gcggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaa
+hCoV-19/USA/OR- gcggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaa
+hCoV-19/USA/CA- gcggcagtcaagcctcttctcgttcctcatcacgtagtcgcaacagttcaagaaattcaa
+                ************************************************************
+
+hCoV-19/USA/OR- ctccaggcagcagtaaacgaacttctcctgctagaatggctggcaatggcggtgatgctg
+hCoV-19/USA/OR- ctccaggcagcagtaaacgaacttctcctgctagaatggctggcaatggcggtgatgctg
+hCoV-19/USA/OR- ctccaggcagcagtaaacgaacttctcctgctagaatggctggcaatggcggtgatgctg
+hCoV-19/USA/CA- ctccaggcagcagtaaacgaacttctcctgctagaatggctggcaatggcggtgatgctg
+                ************************************************************
+
+hCoV-19/USA/OR- ctcttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctggtaaag
+hCoV-19/USA/OR- ctcttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctggtaaag
+hCoV-19/USA/OR- ctcttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctggtaaag
+hCoV-19/USA/CA- ctcttgctttgctgctgcttgacagattgaaccagcttgagagcaaaatgtctggtaaag
+                ************************************************************
+
+hCoV-19/USA/OR- gccaacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagc
+hCoV-19/USA/OR- gccaacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagc
+hCoV-19/USA/OR- gccaacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagc
+hCoV-19/USA/CA- gccaacaacaacaaggccaaactgtcactaagaaatctgctgctgaggcttctaagaagc
+                ************************************************************
+
+hCoV-19/USA/OR- ctcggcaaaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgt
+hCoV-19/USA/OR- ctcggcaaaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgt
+hCoV-19/USA/OR- ctcggcaaaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgt
+hCoV-19/USA/CA- ctcggc-aaaaacgtactgccactaaagcatacaatgtaacacaagctttcggcagacgt
+                ****** *****************************************************
+
+hCoV-19/USA/OR- ggtccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgat
+hCoV-19/USA/OR- ggtccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgat
+hCoV-19/USA/OR- ggtccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgat
+hCoV-19/USA/CA- ggtccagaacaaacccaaggaaattttggggaccaggaactaatcagacaaggaactgat
+                ************************************************************
+
+hCoV-19/USA/OR- tacaaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatg
+hCoV-19/USA/OR- tacaaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatg
+hCoV-19/USA/OR- tacaaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatg
+hCoV-19/USA/CA- tacaaacattggccgcaaattgcacaatttgcccccagcgcttcagcgttcttcggaatg
+                ************************************************************
+
+hCoV-19/USA/OR- tcgcgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatc
+hCoV-19/USA/OR- tcgcgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatc
+hCoV-19/USA/OR- tcgcgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatc
+hCoV-19/USA/CA- tcgcgcattggcatggaagtcacaccttcgggaacgtggttgacctacacaggtgccatc
+                ************************************************************
+
+hCoV-19/USA/OR- aaattggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatatt
+hCoV-19/USA/OR- aaattggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatatt
+hCoV-19/USA/OR- aaattggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatatt
+hCoV-19/USA/CA- aaattggatgacaaagatccaaatttcaaagatcaagtcattttgctgaataagcatatt
+                ************************************************************
+
+hCoV-19/USA/OR- gacgcatacaaaacattcccaccaacagagcctaaaaaggacaaaaagaagaaggctgat
+hCoV-19/USA/OR- gacgcatacaaaacattcccaccaacagagcctaaaaaggacaaaaagaagaaggctgat
+hCoV-19/USA/OR- gacgcatacaaaacattcccaccaacagagcctaaaaaggacaaaaagaagaaggctgat
+hCoV-19/USA/CA- gacgcatacaaaacattcccaccaacagagcctaaaaaggacaaaaagaagaaggctgat
+                ************************************************************
+
+hCoV-19/USA/OR- gaaactcaagccttatcgcagagacagaagaaacagcaaactgtgactcttcttcctgct
+hCoV-19/USA/OR- gaaactcaagccttaccgcagagacagaagaaacagcaaactgtgactcttcttcctgct
+hCoV-19/USA/OR- gaaactcaagccttaccgcagagacagaagaaacagcaaactgtgactcttcttcctgct
+hCoV-19/USA/CA- gaaactcaagccttaccgcagagacagaagaaacagcaaactgtgactcttcttcctgct
+                ***************.********************************************
+
+hCoV-19/USA/OR- gcagatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaact
+hCoV-19/USA/OR- gcagatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaact
+hCoV-19/USA/OR- gcagatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaact
+hCoV-19/USA/CA- gcagatttggatgatttctccaaacaattgcaacaatccatgagcagtgctgactcaact
+                ************************************************************
+
+hCoV-19/USA/OR- caggcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgctttt
+hCoV-19/USA/OR- caggcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgctttt
+hCoV-19/USA/OR- caggcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgctttt
+hCoV-19/USA/CA- caggcctaaactcatgcagaccacacaaggcagatgggctatataaacgttttcgctttt
+                ************************************************************
+
+hCoV-19/USA/OR- ccgtttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaa
+hCoV-19/USA/OR- ccgtttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaa
+hCoV-19/USA/OR- ccgtttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaa
+hCoV-19/USA/CA- ccgtttacgatatatagtctactcttgtgcagaatgaattctcgtaactacatagcacaa
+                ************************************************************
+
+hCoV-19/USA/OR- gtagatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattaggga
+hCoV-19/USA/OR- gtagatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattaggga
+hCoV-19/USA/OR- gtagatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattaggga
+hCoV-19/USA/CA- gtagatgtagttaactttaatctcacatagcaatctttaatcagtgtgtaacattaggga
+                ************************************************************
+
+hCoV-19/USA/OR- ggacttgaaagagccaccacattttcaccgaggccacgcggagtacgatcgagtgtacag
+hCoV-19/USA/OR- ggacttgaaagagccaccacattttcaccgaggccacgcggagtacgatcgagtgtacag
+hCoV-19/USA/OR- ggacttgaaagagccaccacattttcaccgaggccacgcggagtacgatcgagtgtacag
+hCoV-19/USA/CA- ggacttgaaagagccaccacattttcaccgaggccactcggagtacgatcgagtgtacag
+                ************************************* **********************
+
+hCoV-19/USA/OR- tgaacaatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaatttta
+hCoV-19/USA/OR- tgaacaatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaatttta
+hCoV-19/USA/OR- tgaacaatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaatttta
+hCoV-19/USA/CA- tgaacaatgctagggagagctgcctatatggaagagccctaatgtgtaaaattaatttta
+                ************************************************************
+
+hCoV-19/USA/OR- gtagtgctatccccatgtgattttaatannnnnnnnnnnnnnngacaaaaaaaaaaaaaa
+hCoV-19/USA/OR- gtagtgctatccccatgtgattttaatannnnnnnnnnnnnnnnacaaaaaaaaaaaaaa
+hCoV-19/USA/OR- gtagtgctatccccatgtgattttaatannnnnnnnnnnnnnngacaaaaaaaaaaaaaa
+hCoV-19/USA/CA- gtagtgctatccccatgtgattttaatagcttnnnnnnnnnnnnaaaaaaaaaaaaaaaa
+                ****************************                * **************
+
+hCoV-19/USA/OR- aaaaaaaaaaaaaaaaaaa
+hCoV-19/USA/OR- aaaaaaaaaaaaaaaaaaa
+hCoV-19/USA/OR- aaaaaaaaaaaaaaaaaaa
+hCoV-19/USA/CA- aaaaaaaaaaaaaaaaaaa
+                *******************
