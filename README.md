@@ -7,9 +7,4 @@ Satyam Sangeet, Raju Sarkar, Saswat Kumar Mohanty, Susmita Roy
 
 Indian Institute of Science Education and Research (Kolkata)
 
-## Running the command
------------------------
-In your terminal type the follwing command
-```
-python RamachandranPlotter.py --pdb /path_to_file/<file-name.pdb> 
-```
+
