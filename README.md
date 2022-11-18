@@ -19,4 +19,4 @@ The jupyter notebook and the python scripts consists code written to calculate t
 ## Cite US
 
 If you find the following work useful, please cite the paper according to the following citation:
-Sangeet, S; Sarkar, R; Mohanty, S.K.; Roy, S. Quantifying Mutational Response to track the Evolution of SARS-CoV-2 Spike Variants: Introducing a Statistical-Mechanics-Guided Machine Learning Method. J. Phys. Chem. Lett. 2022. DOI: https://doi.org/10.1021/acs.jpcb.2c04574
+Sangeet, S; Sarkar, R; Mohanty, S.K.; Roy, S. Quantifying Mutational Response to track the Evolution of SARS-CoV-2 Spike Variants: Introducing a Statistical-Mechanics-Guided Machine Learning Method. J. Phys. Chem. B. 2022. DOI: https://doi.org/10.1021/acs.jpcb.2c04574
